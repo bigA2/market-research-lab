@@ -1,0 +1,49 @@
+name: vet-skills
+# Static SkillSpector scan of the third-party marketing skills repo.
+# No LLM mode (--no-llm) => no API keys / secrets needed.
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/vet-skills.yml", "tools/summarize_skillspector.py"]
+permissions:
+  contents: write
+concurrency: { group: vet-skills, cancel-in-progress: false }
+env:
+  SKILLS_REPO: https://github.com/aaron-he-zhu/aaron-marketing-skills
+  SKILLS_SHA: 7198d6794d449eccd91b759366157bf47d320367
+  SCANNER_REPO: https://github.com/NVIDIA/skillspector
+  SCANNER_SHA: c81615007d40e86051a302a3cf897f8a05264928
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Fetch pinned sources (read-only, never executed)
+        run: |
+          for pair in "skills $SKILLS_REPO $SKILLS_SHA" "scanner $SCANNER_REPO $SCANNER_SHA"; do
+            set -- $pair
+            git init -q "/tmp/$1" && git -C "/tmp/$1" fetch -q --depth 1 "$2" "$3" && git -C "/tmp/$1" checkout -q FETCH_HEAD
+          done
+      - name: Install SkillSpector
+        run: pip install -q /tmp/scanner && skillspector --version
+      - name: Scan every skill dir + scripts/ + hooks/
+        run: |
+          mkdir -p out
+          { find /tmp/skills -name SKILL.md -not -path '*/.git/*' -printf '%h\n'; echo /tmp/skills/scripts; echo /tmp/skills/hooks; } > targets.txt
+          wc -l targets.txt
+          cat targets.txt | xargs -P4 -I{} sh -c 'n=$(echo {} | sed "s#/tmp/skills/##;s#/#__#g"); skillspector scan {} --no-llm --format json --output out/$n.json > out/$n.log 2>&1; echo $? > out/$n.exit'
+          ls out/*.json | wc -l
+      - name: Summarize
+        run: python tools/summarize_skillspector.py out vetting/skillspector-summary.json
+      - uses: actions/upload-artifact@v4
+        with: { name: skillspector-reports, path: out/, retention-days: 30 }
+      - name: Commit summary
+        run: |
+          git config user.name "market-research-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vetting/skillspector-summary.json
+          git commit -m "vetting: SkillSpector summary ($SKILLS_SHA)" || exit 0
+          for i in 1 2 3 4; do git pull --rebase -q && git push && break; sleep $((i*5)); done
