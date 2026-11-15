@@ -1,0 +1,332 @@
+[
+ {
+  "path": "/pricing",
+  "url": "https://replit.com/pricing",
+  "status": 200,
+  "title": "Pricing and Plans | Replit",
+  "h1": "Pricing",
+  "word_count": 489,
+  "meta_description": "See Replit's plans and pricing. Start free, or upgrade for more AI usage, collaborators, and features."
+ },
+ {
+  "path": "/enterprise",
+  "url": "https://replit.com/enterprise",
+  "status": 200,
+  "title": "Replit Enterprise - Give Every Team the Power to Build | Replit",
+  "h1": "Help every team build apps, internal tools, and dashboards.",
+  "word_count": 3086,
+  "meta_description": "Help every team build apps, internal tools, and dashboards with Replit Enterprise. Put AI to work with enterprise security and governance."
+ },
+ {
+  "path": "/affiliates",
+  "url": "https://replit.com/affiliates",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/affiliate",
+  "url": "https://replit.com/affiliate",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/partners",
+  "url": "https://replit.com/partners",
+  "status": 200,
+  "title": "Partner Programs | Replit",
+  "h1": null,
+  "word_count": 0,
+  "meta_description": "Explore Replit's Integration, Solution, Education, and Government partner programs. Join 40 million creators on the world's leading AI development platform."
+ },
+ {
+  "path": "/partner-program",
+  "url": "https://replit.com/partner-program",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/experts",
+  "url": "https://replit.com/experts",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/community",
+  "url": "https://replit.com/community",
+  "status": 200,
+  "title": "Replit Community",
+  "h1": null,
+  "word_count": 0,
+  "meta_description": "We're building the operating system for the next billion software creators. Whether you're just starting or shipping production apps, you belong here."
+ },
+ {
+  "path": "/developers",
+  "url": "https://replit.com/developers",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/developer-platform",
+  "url": "https://replit.com/developer-platform",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/marketplace",
+  "url": "https://replit.com/marketplace",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/templates",
+  "url": "https://replit.com/templates",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/integrations",
+  "url": "https://replit.com/integrations",
+  "status": 200,
+  "title": "Replit Integrations \u2014 Browse 450+ Connectors | Replit",
+  "h1": null,
+  "word_count": 0,
+  "meta_description": "Browse 450+ Replit integrations and connectors \u2014 Stripe, Slack, Notion, Google Workspace, and more. Connect your tools and let Replit Agent build your app."
+ },
+ {
+  "path": "/apps",
+  "url": "https://replit.com/apps",
+  "status": 200,
+  "title": "Replit Community",
+  "h1": null,
+  "word_count": 0,
+  "meta_description": "We're building the operating system for the next billion software creators. Whether you're just starting or shipping production apps, you belong here."
+ },
+ {
+  "path": "/blog",
+  "url": "https://replit.com/blog",
+  "status": 200,
+  "title": "The Official Blog | Replit",
+  "h1": "Replit Blog",
+  "word_count": 918,
+  "meta_description": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering."
+ },
+ {
+  "path": "/learn",
+  "url": "https://replit.com/learn",
+  "status": 200,
+  "title": "Replit Learn - Master AI and vibe coding | Replit Learn",
+  "h1": "Replit Learn",
+  "word_count": 87,
+  "meta_description": "Learn to build apps with AI on Replit. Master vibe coding, understand AI foundations, and create real applications."
+ },
+ {
+  "path": "/academy",
+  "url": "https://replit.com/academy",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/university",
+  "url": "https://replit.com/university",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/events",
+  "url": "https://replit.com/events",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/webinars",
+  "url": "https://replit.com/webinars",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/customers",
+  "url": "https://replit.com/customers",
+  "status": 200,
+  "title": "Customer Stories: How Teams Build With AI | Replit",
+  "h1": "Built bypeople like you.",
+  "word_count": 420,
+  "meta_description": "See real results from Plaid, Rokt, Leatherman, and more: how 18 companies replaced legacy platforms and shipped internal tools faster by building on Replit."
+ },
+ {
+  "path": "/referral",
+  "url": "https://replit.com/referral",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/refer",
+  "url": "https://replit.com/refer",
+  "status": 200,
+  "title": "Referral Program | Replit",
+  "h1": null,
+  "word_count": 295,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast."
+ },
+ {
+  "path": "/bounties",
+  "url": "https://replit.com/bounties",
+  "status": 200,
+  "title": "Hire Replit Experts for Your Web Project",
+  "h1": null,
+  "word_count": 0,
+  "meta_description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent"
+ },
+ {
+  "path": "/careers",
+  "url": "https://replit.com/careers",
+  "status": 200,
+  "title": "Careers | Replit",
+  "h1": "Put ideas to work.Make it happen at Replit.",
+  "word_count": 1458,
+  "meta_description": "Explore open roles and learn how Replit teams build tools that turn ideas into software. Discover the work, people, and opportunities behind our mission."
+ },
+ {
+  "path": "/compare",
+  "url": "https://replit.com/compare",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/alternatives",
+  "url": "https://replit.com/alternatives",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/vs",
+  "url": "https://replit.com/vs",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/solutions",
+  "url": "https://replit.com/solutions",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/use-cases",
+  "url": "https://replit.com/use-cases",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/ai",
+  "url": "https://replit.com/ai",
+  "status": 200,
+  "title": "AI Coding Agent: Build Apps Through Chat | Replit",
+  "h1": "The best AI agent builder for production-ready apps",
+  "word_count": 681,
+  "meta_description": "Build production-ready apps and websites with Replit Agent. Describe what you need, then let AI write, test, fix, and publish your software."
+ },
+ {
+  "path": "/agents",
+  "url": "https://replit.com/agents",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/mobile",
+  "url": "https://replit.com/mobile",
+  "status": 200,
+  "title": "Build Apps from Your Phone | Replit",
+  "h1": "Vibe code from your phone.Join 50M+ builders on Replit.",
+  "word_count": 387,
+  "meta_description": "Get the Replit app for iOS and Android. Describe your idea and build websites and apps right from your phone."
+ },
+ {
+  "path": "/download",
+  "url": "https://replit.com/download",
+  "status": 200,
+  "title": "Replit Desktop App - Replit",
+  "h1": "Replit Desktop App",
+  "word_count": 300,
+  "meta_description": "Build locally with Replit Desktop. Work with local files, analyze data, and build tools with AI while choosing which folders agents can access."
+ },
+ {
+  "path": "/startups",
+  "url": "https://replit.com/startups",
+  "status": 200,
+  "title": "Startup Program: Up to $25K in Credits | Replit",
+  "h1": null,
+  "word_count": 0,
+  "meta_description": "Startups backed by a Select Partner qualify for up to $25,000 in Replit credits; other venture-backed founders get a free year of Replit Pro. Apply in minutes."
+ },
+ {
+  "path": "/education",
+  "url": "https://replit.com/education",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/students",
+  "url": "https://replit.com/students",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/nonprofits",
+  "url": "https://replit.com/nonprofits",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/gallery",
+  "url": "https://replit.com/gallery",
+  "status": 200,
+  "title": "Replit Gallery | Replit",
+  "h1": "Replit Gallery",
+  "word_count": 754,
+  "meta_description": "Get inspired and simplify your work life & boost productivity."
+ },
+ {
+  "path": "/showcase",
+  "url": "https://replit.com/showcase",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/changelog",
+  "url": "https://replit.com/changelog",
+  "status": 200,
+  "title": "November 13, 2026 - Replit",
+  "h1": "November 13, 2026",
+  "word_count": 785,
+  "meta_description": "2 min read"
+ },
+ {
+  "path": "/status",
+  "url": "https://replit.com/status",
+  "status": 403,
+  "title": null,
+  "h1": null
+ }
+]

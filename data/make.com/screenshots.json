@@ -1,0 +1,66 @@
+[
+ {
+  "name": "home",
+  "url": "https://make.com/",
+  "status": 200,
+  "final_url": "https://www.make.com/",
+  "title": "AI Workflow Automation Software & Tools | Make",
+  "file": "home.png"
+ },
+ {
+  "name": "pricing",
+  "url": "https://make.com/pricing",
+  "status": 200,
+  "final_url": "https://www.make.com/pricing",
+  "title": "Pricing & Subscription Packages | Make",
+  "file": "pricing.png"
+ },
+ {
+  "name": "signup",
+  "url": "https://www.make.com/register",
+  "status": 200,
+  "final_url": "https://www.make.com/register",
+  "title": "Sign up | Make HQ",
+  "file": "signup.png"
+ },
+ {
+  "name": "family_1",
+  "url": "https://www.make.com/templates/10036-new-template",
+  "status": 200,
+  "final_url": "https://www.make.com/templates/10036-new-template",
+  "title": "Create Google Calendar events from Notion | Workflow Template | Make",
+  "file": "family_1.png"
+ },
+ {
+  "name": "family_2",
+  "url": "https://www.make.com/integrations/2-solar-community",
+  "status": 200,
+  "final_url": "https://www.make.com/integrations/2-solar-community",
+  "title": "2 Solar integration | Workflow automation | Make",
+  "file": "family_2.png"
+ },
+ {
+  "name": "family_3",
+  "url": "https://www.make.com/integrations/activecampaign/google-ads-lead-forms",
+  "status": 200,
+  "final_url": "https://www.make.com/integrations/activecampaign/google-ads-lead-forms",
+  "title": "Integrate ActiveCampaign with Google Ads Easily | Make",
+  "file": "family_3.png"
+ },
+ {
+  "name": "family_4",
+  "url": "https://www.make.com/blog/2019-the-year-of-the-employee-productivity",
+  "status": 200,
+  "final_url": "https://www.make.com/blog/2019-the-year-of-the-employee-productivity",
+  "title": "Will 2019 Become the Year of the Employee? | Make",
+  "file": "family_4.png"
+ },
+ {
+  "name": "family_5",
+  "url": "https://www.make.com/integrations/category/ai",
+  "status": 200,
+  "final_url": "https://www.make.com/integrations/category/ai",
+  "title": "3,500+ Integration Apps | Connect & Automate Software | Make",
+  "file": "family_5.png"
+ }
+]

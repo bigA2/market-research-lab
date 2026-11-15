@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "make.com",
+  "generated_at": "2026-11-15T08:23:23Z",
+  "urls_total": 13620,
+  "family_count": 11,
+  "sitemaps_fetched": 7,
+  "sitemaps_failed": 0,
+  "samples_fetched": 33,
+  "errors": []
+ },
+ {
+  "domain": "replit.com",
+  "generated_at": "2026-11-15T08:27:03Z",
+  "urls_total": 1606,
+  "family_count": 14,
+  "sitemaps_fetched": 16,
+  "sitemaps_failed": 3,
+  "samples_fetched": 41,
+  "errors": []
+ },
+ {
+  "domain": "zapier.com",
+  "generated_at": "2026-11-15T08:30:01Z",
+  "urls_total": 422807,
+  "family_count": 27,
+  "sitemaps_fetched": 332,
+  "sitemaps_failed": 0,
+  "samples_fetched": 73,
+  "errors": []
+ }
+]

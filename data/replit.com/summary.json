@@ -1,0 +1,148 @@
+{
+ "domain": "replit.com",
+ "generated_at": "2026-11-15T08:27:03Z",
+ "robots_status": 200,
+ "robots_sitemaps": [
+  "https://replit.com/sitemap.xml",
+  "https://replit.com/marketing-sitemap/repls-on-replit-sitemap-index.xml",
+  "https://replit.com/sitemaps/main.xml",
+  "https://replit.com/marketing-sitemap/sitemap.xml",
+  "https://replit.com/blog/sitemap.xml"
+ ],
+ "crawl_delay_used": 1.0,
+ "sitemaps_fetched": 16,
+ "sitemaps_failed": 3,
+ "urls_total": 1606,
+ "urls_capped": false,
+ "localized_urls": 0,
+ "sections": {
+  "other": 647,
+  "blog": 570,
+  "templates": 227,
+  "landing": 48,
+  "academy_learn": 42,
+  "user_generated": 30,
+  "customers": 21,
+  "use_cases_solutions": 7,
+  "integrations": 3,
+  "signup_login": 2,
+  "legal": 2,
+  "home": 1,
+  "pricing": 1,
+  "docs": 1,
+  "compare_alternatives": 1,
+  "careers": 1,
+  "partners_experts_affiliates": 1,
+  "community": 1
+ },
+ "family_count": 14,
+ "families": [
+  {
+   "template": "/build/{x}",
+   "count": 476,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/blog/{x}",
+   "count": 382,
+   "section": "blog",
+   "localized": 0
+  },
+  {
+   "template": "/gallery/{x}/{x}/{x}",
+   "count": 198,
+   "section": "templates",
+   "localized": 0
+  },
+  {
+   "template": "/blog/author/{x}",
+   "count": 163,
+   "section": "blog",
+   "localized": 0
+  },
+  {
+   "template": "/discover/{x}",
+   "count": 84,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/languages/{x}",
+   "count": 55,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/guides/{x}",
+   "count": 39,
+   "section": "academy_learn",
+   "localized": 0
+  },
+  {
+   "template": "/{@user}/{x}",
+   "count": 30,
+   "section": "user_generated",
+   "localized": 0
+  },
+  {
+   "template": "/gallery/{x}/{x}",
+   "count": 21,
+   "section": "templates",
+   "localized": 0
+  },
+  {
+   "template": "/customers/{x}",
+   "count": 20,
+   "section": "customers",
+   "localized": 0
+  },
+  {
+   "template": "/usecases/{x}",
+   "count": 19,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/blog/category/{x}",
+   "count": 17,
+   "section": "blog",
+   "localized": 0
+  },
+  {
+   "template": "/products/{x}",
+   "count": 6,
+   "section": "use_cases_solutions",
+   "localized": 0
+  },
+  {
+   "template": "/news/{x}",
+   "count": 5,
+   "section": "blog",
+   "localized": 0
+  }
+ ],
+ "samples_fetched": 41,
+ "channel_pages_found": [
+  "/pricing",
+  "/enterprise",
+  "/partners",
+  "/community",
+  "/integrations",
+  "/apps",
+  "/blog",
+  "/learn",
+  "/customers",
+  "/refer",
+  "/bounties",
+  "/careers",
+  "/ai",
+  "/mobile",
+  "/download",
+  "/startups",
+  "/gallery",
+  "/changelog"
+ ],
+ "errors": [],
+ "elapsed_s": 343.0
+}

@@ -1,0 +1,2779 @@
+[
+ {
+  "url": "https://zapier.com/apps/schedule/integrations/10000ft",
+  "family": "/apps/{x}/integrations/{x}",
+  "status": 200,
+  "title": "Schedule by Zapier 10,000ft Integration - Quick Connect - Zapier",
+  "h1": [
+   "Connect Schedule by Zapier and 10,000ft to power AI-driven automation"
+  ],
+  "h2_count": 19,
+  "meta_description": "Integrate Schedule by Zapier and 10,000ft in a few minutes. Quickly connect Schedule by Zapier and 10,000ft with over 9,000 apps on Zapier, the world\u2019s largest automation platform.",
+  "canonical": "https://zapier.com/apps/schedule/integrations/10000ft",
+  "meta_robots": "all",
+  "schema_types": [
+   "Action",
+   "BreadcrumbList",
+   "ContactPoint",
+   "EntryPoint",
+   "HowTo",
+   "HowToDirection",
+   "HowToStep",
+   "HowToSupply",
+   "HowToTool",
+   "ImageObject",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "ReadAction",
+   "Service",
+   "SoftwareApplication",
+   "VideoObject",
+   "WriteAction",
+   "zapier:AccessMethod",
+   "zapier:Action",
+   "zapier:Trigger"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 348,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2917
+ },
+ {
+  "url": "https://zapier.com/apps/google-drive/integrations/shopuddy",
+  "family": "/apps/{x}/integrations/{x}",
+  "status": 200,
+  "title": "Google Drive Shopuddy Integration - Quick Connect - Zapier",
+  "h1": [
+   "Connect Google Drive and Shopuddy to power AI-driven automation"
+  ],
+  "h2_count": 19,
+  "meta_description": "Integrate Google Drive and Shopuddy in a few minutes. Quickly connect Google Drive and Shopuddy with over 9,000 apps on Zapier, the world\u2019s largest automation platform.",
+  "canonical": "https://zapier.com/apps/google-drive/integrations/shopuddy",
+  "meta_robots": "all",
+  "schema_types": [
+   "Action",
+   "BreadcrumbList",
+   "ContactPoint",
+   "EntryPoint",
+   "HowTo",
+   "HowToDirection",
+   "HowToStep",
+   "HowToSupply",
+   "HowToTool",
+   "ImageObject",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "ReadAction",
+   "Service",
+   "SoftwareApplication",
+   "VideoObject",
+   "WriteAction",
+   "zapier:AccessMethod",
+   "zapier:Action",
+   "zapier:Trigger"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 351,
+  "external_links": 8,
+  "external_domains": {
+   "github.com": 2,
+   "google.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 3843
+ },
+ {
+  "url": "https://zapier.com/apps/kommo/integrations/orca-scan",
+  "family": "/apps/{x}/integrations/{x}",
+  "status": 200,
+  "title": "Kommo Orca Scan Integration - Quick Connect - Zapier",
+  "h1": [
+   "Connect Kommo and Orca Scan to power AI-driven automation"
+  ],
+  "h2_count": 18,
+  "meta_description": "Integrate Kommo and Orca Scan in a few minutes. Quickly connect Kommo and Orca Scan with over 9,000 apps on Zapier, the world\u2019s largest automation platform.",
+  "canonical": "https://zapier.com/apps/kommo/integrations/orca-scan",
+  "meta_robots": "all",
+  "schema_types": [
+   "Action",
+   "BreadcrumbList",
+   "ContactPoint",
+   "EntryPoint",
+   "HowTo",
+   "HowToDirection",
+   "HowToStep",
+   "HowToSupply",
+   "HowToTool",
+   "ImageObject",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "ReadAction",
+   "Service",
+   "SoftwareApplication",
+   "VideoObject",
+   "WriteAction",
+   "zapier:AccessMethod",
+   "zapier:Action",
+   "zapier:Trigger"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 351,
+  "external_links": 8,
+  "external_domains": {
+   "github.com": 2,
+   "kommo.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 3243
+ },
+ {
+  "url": "https://zapier.com/automations/finance/payment-operations/payment-processing-management/register-customer-and-payment-into-finance-system-reliably",
+  "family": "/automations/{x}/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Register customer and payment into finance system reliably | Zapier",
+  "h1": [
+   "Register customer and payment into finance system reliably"
+  ],
+  "h2_count": 13,
+  "meta_description": "Automatically detect new payment received events from Stripe across payment operations tooling. Create and update finance records when succeeded charges trigger tax ID enrichment and back-office posting\u2014so you can reconcile payments, resolve failures, and reduce reconciliation without manual follow-up.",
+  "canonical": "https://zapier.com/automations/finance/payment-operations/payment-processing-management/register-customer-and-payment-into-finance-system-reliably",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 335,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2385
+ },
+ {
+  "url": "https://zapier.com/automations/marketing/lead-management/lead-generation/add-successful-payment-purchases-to-marketing-lead-list",
+  "family": "/automations/{x}/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Add successful payment purchases to marketing lead list | Zapier",
+  "h1": [
+   "Add successful payment purchases to marketing lead list"
+  ],
+  "h2_count": 13,
+  "meta_description": "Automatically monitor successful payment webhooks across LawPay and your marketing intake systems. Create and update purchase-qualified lead entries and notify stakeholders so you can track revenue without manual data entry.",
+  "canonical": "https://zapier.com/automations/marketing/lead-management/lead-generation/add-successful-payment-purchases-to-marketing-lead-list",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 335,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2278
+ },
+ {
+  "url": "https://zapier.com/automations/marketing/email-marketing/drip-marketing-management/send-staged-nurture-email-series-to-new-contact-records",
+  "family": "/automations/{x}/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Send staged nurture email series to new contact records | Zapier",
+  "h1": [
+   "Send staged nurture email series to new contact records"
+  ],
+  "h2_count": 13,
+  "meta_description": "Automatically detect new contact rows in Zapier Tables and personalize staged nurture emails across Gmail. Send the next email in the timed sequence when new records appear or scheduled consultations are detected\u2014so you can deliver greetings, follow up on schedule, and reduce manual outreach without spreadsheet upkeep.",
+  "canonical": "https://zapier.com/automations/marketing/email-marketing/drip-marketing-management/send-staged-nurture-email-series-to-new-contact-records",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 335,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2284
+ },
+ {
+  "url": "https://zapier.com/apps/formsite/integrations/highrise/2546/formsite-form-submission-to-highrise-contact",
+  "family": "/apps/{x}/integrations/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Send Formsite form submissions to Highrise contacts",
+  "h1": [
+   "Formsite + Highrise",
+   "Formsite + Highrise"
+  ],
+  "h2_count": 8,
+  "meta_description": "Create the ultimate automated lead generation system using Formsite and Highrise. Using Zapier to connect your Formsite form submission to your Highrise CRM system, you can ensure that every form vis...",
+  "canonical": "https://zapier.com/apps/formsite/integrations/highrise/2546/formsite-form-submission-to-highrise-contact",
+  "meta_robots": "all",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 333,
+  "external_links": 8,
+  "external_domains": {
+   "github.com": 2,
+   "formsite.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1271
+ },
+ {
+  "url": "https://zapier.com/apps/mailchimp/integrations/planoly-creator-store/1177745/create-mailchimp-subscribers-from-new-exclusive-content-orders-on-planoly-creator-store",
+  "family": "/apps/{x}/integrations/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Create Mailchimp subscribers from new exclusive content orders on Planoly Creator Store",
+  "h1": [
+   "Mailchimp + Planoly Creator Store",
+   "Mailchimp + Planoly Creator Store"
+  ],
+  "h2_count": 12,
+  "meta_description": "Would you like to communicate with your exclusive content customers from Planoly Creator Store on Mailchimp? With Zapier's help, the tedious work of creating Mailchimp subscribers from your new exclu...",
+  "canonical": "https://zapier.com/apps/mailchimp/integrations/planoly-creator-store/1177745/create-mailchimp-subscribers-from-new-exclusive-content-orders-on-planoly-creator-store",
+  "meta_robots": "all",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 366,
+  "external_links": 8,
+  "external_domains": {
+   "github.com": 2,
+   "mailchimp.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 3080
+ },
+ {
+  "url": "https://zapier.com/apps/placester/integrations/top-producer/199527/create-top-producer-contacts-from-new-placester-website-lead",
+  "family": "/apps/{x}/integrations/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Create Top Producer contacts from new Placester website lead",
+  "h1": [
+   "Placester + Top Producer",
+   "Placester + Top Producer"
+  ],
+  "h2_count": 12,
+  "meta_description": "Is Top Producer your CRM of choice? Use this integration to save yourself time, automatically creating a new contact in your Top Producer account as soon as a new lead is created or updated on your P...",
+  "canonical": "https://zapier.com/apps/placester/integrations/top-producer/199527/create-top-producer-contacts-from-new-placester-website-lead",
+  "meta_robots": "all",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 342,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1758
+ },
+ {
+  "url": "https://zapier.com/apps/0codekit/integrations",
+  "family": "/apps/{x}/integrations",
+  "status": 200,
+  "title": "0CodeKit Integrations | Connect Your Apps with Zapier",
+  "h1": [
+   "0CodeKit Integrations"
+  ],
+  "h2_count": 16,
+  "meta_description": "Instantly connect 0CodeKit with the apps you use everyday. 0CodeKit integrates with 9,000 other apps on Zapier - it's the easiest way to automate your work.",
+  "canonical": "https://zapier.com/apps/0codekit/integrations",
+  "meta_robots": "all",
+  "schema_types": [
+   "Action",
+   "BreadcrumbList",
+   "ContactPoint",
+   "EntryPoint",
+   "ImageObject",
+   "ListItem",
+   "Offer",
+   "OfferCatalog",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Service",
+   "SoftwareApplication",
+   "WriteAction",
+   "zapier:AccessMethod",
+   "zapier:Action"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 423,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 6904
+ },
+ {
+  "url": "https://zapier.com/apps/mantisproperty/integrations",
+  "family": "/apps/{x}/integrations",
+  "status": 200,
+  "title": "MantisProperty Integrations | Connect Your Apps with Zapier",
+  "h1": [
+   "MantisProperty Integrations"
+  ],
+  "h2_count": 16,
+  "meta_description": "Instantly connect MantisProperty with the apps you use everyday. MantisProperty integrates with 9,000 other apps on Zapier - it's the easiest way to automate your work.",
+  "canonical": "https://zapier.com/apps/mantisproperty/integrations",
+  "meta_robots": "all",
+  "schema_types": [
+   "Action",
+   "BreadcrumbList",
+   "ContactPoint",
+   "EntryPoint",
+   "ImageObject",
+   "ListItem",
+   "Offer",
+   "OfferCatalog",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "ReadAction",
+   "Service",
+   "SoftwareApplication",
+   "WriteAction",
+   "zapier:AccessMethod",
+   "zapier:Action",
+   "zapier:Trigger"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 411,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2054
+ },
+ {
+  "url": "https://zapier.com/apps/zyte/integrations",
+  "family": "/apps/{x}/integrations",
+  "status": 200,
+  "title": "Zyte Integrations | Connect Your Apps with Zapier",
+  "h1": [
+   "Zyte Integrations"
+  ],
+  "h2_count": 15,
+  "meta_description": "Instantly connect Zyte with the apps you use everyday. Zyte integrates with 9,000 other apps on Zapier - it's the easiest way to automate your work.",
+  "canonical": "https://zapier.com/apps/zyte/integrations",
+  "meta_robots": "all",
+  "schema_types": [
+   "Action",
+   "BreadcrumbList",
+   "ContactPoint",
+   "EntryPoint",
+   "ImageObject",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Service",
+   "SoftwareApplication",
+   "WriteAction",
+   "zapier:AccessMethod",
+   "zapier:Action"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 327,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1522
+ },
+ {
+  "url": "https://zapier.com/find-apps/a/andopen-gifts/",
+  "family": "/find-apps/{x}/{x}",
+  "status": 200,
+  "title": "Browse Apps by Name A - &Open Gifts | Zapier",
+  "h1": [],
+  "h2_count": 1,
+  "meta_description": "Instantly connect &Open Gifts with the apps you use everyday. &Open Gifts integrates with 9,000 other apps on Zapier - it's the easiest way to automate your work.",
+  "canonical": null,
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 46,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 161
+ },
+ {
+  "url": "https://zapier.com/find-apps/m/managememberships/",
+  "family": "/find-apps/{x}/{x}",
+  "status": 200,
+  "title": "Browse Apps by Name M - ManageMemberships | Zapier",
+  "h1": [],
+  "h2_count": 1,
+  "meta_description": "Instantly connect ManageMemberships with the apps you use everyday. ManageMemberships integrates with 9,000 other apps on Zapier - it's the easiest way to automate your work.",
+  "canonical": null,
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 28,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 56
+ },
+ {
+  "url": "https://zapier.com/find-apps/z/zyte/",
+  "family": "/find-apps/{x}/{x}",
+  "status": 200,
+  "title": "Browse Apps by Name Z - Zyte | Zapier",
+  "h1": [],
+  "h2_count": 1,
+  "meta_description": "Instantly connect Zyte with the apps you use everyday. Zyte integrates with 9,000 other apps on Zapier - it's the easiest way to automate your work.",
+  "canonical": null,
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 30,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 61
+ },
+ {
+  "url": "https://zapier.com/mcp/0codekit",
+  "family": "/mcp/{x}",
+  "status": 200,
+  "title": "0CodeKit MCP Server - MCP AI | Zapier",
+  "h1": [
+   "Use 0CodeKit MCP to take action in your AI tools"
+  ],
+  "h2_count": 10,
+  "meta_description": "Supercharge 0CodeKit with MCP AI: Leverage Zapier's Model Content Protocol for real-time action automation, task management and seamless app integrations.",
+  "canonical": "https://zapier.com/mcp/0codekit",
+  "meta_robots": "all",
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 332,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1654
+ },
+ {
+  "url": "https://zapier.com/mcp/mantisproperty",
+  "family": "/mcp/{x}",
+  "status": 200,
+  "title": "MantisProperty MCP Server - MCP AI | Zapier",
+  "h1": [
+   "Use MantisProperty MCP to take action in your AI tools"
+  ],
+  "h2_count": 10,
+  "meta_description": "Supercharge MantisProperty with MCP AI: Leverage Zapier's Model Content Protocol for real-time action automation, task management and seamless app integrations.",
+  "canonical": "https://zapier.com/mcp/mantisproperty",
+  "meta_robots": "all",
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 332,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1567
+ },
+ {
+  "url": "https://zapier.com/mcp/zyte",
+  "family": "/mcp/{x}",
+  "status": 200,
+  "title": "Zyte MCP Server - MCP AI | Zapier",
+  "h1": [
+   "Use Zyte MCP to take action in your AI tools"
+  ],
+  "h2_count": 10,
+  "meta_description": "Supercharge Zyte with MCP AI: Leverage Zapier's Model Content Protocol for real-time action automation, task management and seamless app integrations.",
+  "canonical": "https://zapier.com/mcp/zyte",
+  "meta_robots": "all",
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 326,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1564
+ },
+ {
+  "url": "https://zapier.com/automation/education-automation/student-enrollment",
+  "family": "/automation/{x}/{x}",
+  "status": 200,
+  "title": "Student Enrollment Automation",
+  "h1": [
+   "Student Enrollment"
+  ],
+  "h2_count": 12,
+  "meta_description": "Automate every step of student enrollment\u2014from capturing inquiries to updating CRM and learning platforms\u2014without manual data entry. Zapier instantly syncs form responses, sales stages, and lesson co...",
+  "canonical": "https://zapier.com/automation/education-automation/student-enrollment",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ListItem"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 315,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1243
+ },
+ {
+  "url": "https://zapier.com/automation/use-case/using-ai-standardize-lead-information-for-crm-entry",
+  "family": "/automation/{x}/{x}",
+  "status": 200,
+  "title": "AI-Driven Lead Standardization",
+  "h1": [
+   "Using AI: standardize lead information for crm entry"
+  ],
+  "h2_count": 6,
+  "meta_description": "This automation uses AI to automatically process and standardize incoming lead emails into a consistent CRM format, eliminating manual data entry errors and delays. It enriches lead records with insi...",
+  "canonical": "https://zapier.com/automation/use-case/using-ai-standardize-lead-information-for-crm-entry",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ListItem"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 306,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1079
+ },
+ {
+  "url": "https://zapier.com/automation/use-case/using-ai-capture-ideas-in-a-content-management-system-from-new-posts",
+  "family": "/automation/{x}/{x}",
+  "status": 200,
+  "title": "AI-powered idea capture",
+  "h1": [
+   "Using AI: capture ideas in a content management system from new posts"
+  ],
+  "h2_count": 6,
+  "meta_description": "Automatically capture and organize new content ideas from social media posts into your content management system without manual data entry, leveraging AI to refine and enrich each idea. This automati...",
+  "canonical": "https://zapier.com/automation/use-case/using-ai-capture-ideas-in-a-content-management-system-from-new-posts",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ListItem"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 315,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1249
+ },
+ {
+  "url": "https://zapier.com/blog/all-articles/",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "Articles, Page 1 | Zapier Blog",
+  "h1": [],
+  "h2_count": 1,
+  "meta_description": "Browse all articles on the Zapier Blog: automation tips, app guides, and productivity resources.",
+  "canonical": "https://zapier.com/blog/all-articles/",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 226,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 878
+ },
+ {
+  "url": "https://zapier.com/blog/integration-lessons/",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "9 Lessons Zapier Learned Launching Our First 750 Apps",
+  "h1": [
+   "9 Lessons Learned Launching Integrations With 750+ Apps"
+  ],
+  "h2_count": 11,
+  "meta_description": "Discover best practices for app integrations based on Zapier's journey with over 750 applications.",
+  "canonical": "https://zapier.com/blog/integration-lessons/",
+  "meta_robots": null,
+  "schema_types": [
+   "Article",
+   "BreadcrumbList",
+   "ContactPoint",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 248,
+  "external_links": 12,
+  "external_domains": {
+   "github.com": 2,
+   "x.com": 2,
+   "linkedin.com": 2,
+   "youtube.com": 2,
+   "reddit.com": 1,
+   "thesmallbusinessweb.com": 1,
+   "tractionbook.com": 1,
+   "facebook.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://x.com/intent/post?url=https://zapier.com/blog/integration-lessons/",
+   "https://www.linkedin.com/sharing/share-offsite?url=https://zapier.com/blog/integration-lessons/",
+   "https://www.reddit.com/submit?url=https://zapier.com/blog/integration-lessons/",
+   "https://www.youtube.com/watch?v=Osje-swzJhs&utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2940
+ },
+ {
+  "url": "https://zapier.com/blog/potential-entrepreneurs-report/",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "Data report: Why Americans aren't starting businesses | Zapier",
+  "h1": [
+   "Wasted potential: Why Americans aren't starting businesses"
+  ],
+  "h2_count": 6,
+  "meta_description": "61 percent of Americans have had an idea for starting a business, but 92 of those people didn\u2019t follow through with turning their idea into reality. Here's why.",
+  "canonical": "https://zapier.com/blog/potential-entrepreneurs-report/",
+  "meta_robots": null,
+  "schema_types": [
+   "Article",
+   "BreadcrumbList",
+   "ContactPoint",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 245,
+  "external_links": 9,
+  "external_domains": {
+   "github.com": 2,
+   "x.com": 2,
+   "linkedin.com": 2,
+   "reddit.com": 1,
+   "facebook.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://x.com/intent/post?url=https://zapier.com/blog/potential-entrepreneurs-report/",
+   "https://www.linkedin.com/sharing/share-offsite?url=https://zapier.com/blog/potential-entrepreneurs-report/",
+   "https://www.reddit.com/submit?url=https://zapier.com/blog/potential-entrepreneurs-report/",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1857
+ },
+ {
+  "url": "https://zapier.com/blog/updates/1/new-reply-trigger",
+  "family": "/blog/{x}/{x}/{x}",
+  "status": 200,
+  "title": "New Reply Trigger - Updates | Zapier",
+  "h1": [
+   "New Reply Trigger"
+  ],
+  "h2_count": 0,
+  "meta_description": "\n  When someone replies, you can now trigger off of that.\n",
+  "canonical": "https://zapier.com/blog/updates/1/new-reply-trigger",
+  "meta_robots": "all",
+  "schema_types": [
+   "ContactPoint",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 161,
+  "external_links": 6,
+  "external_domains": {
+   "enable-javascript.com": 1,
+   "twitter.com": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://twitter.com/bryanhelmig",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier"
+  ],
+  "word_count": 771
+ },
+ {
+  "url": "https://zapier.com/blog/updates/899/JIRA-find-update-issues",
+  "family": "/blog/{x}/{x}/{x}",
+  "status": 200,
+  "title": "New for JIRA: Use Zaps to Find and Update Issues - Updates | Zapier",
+  "h1": [
+   "New for JIRA: Use Zaps to Find and Update Issues"
+  ],
+  "h2_count": 2,
+  "meta_description": "\n  Keep your development cycle on track by managing issues as they arise. Now you can use Zaps to find existing JIRA issues - using its key or summary - and then update the issue automatically. With all the information on hand to squash a bug or fix a feature, your \u2026\n",
+  "canonical": "https://zapier.com/blog/updates/899/jira-find-update-issues",
+  "meta_robots": "all",
+  "schema_types": [
+   "ContactPoint",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 166,
+  "external_links": 7,
+  "external_domains": {
+   "enable-javascript.com": 1,
+   "jira.atlassian.com": 1,
+   "twitter.com": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://twitter.com/lttlkmmy",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier"
+  ],
+  "word_count": 934
+ },
+ {
+  "url": "https://zapier.com/blog/updates/577/multi-step-zap-workflows",
+  "family": "/blog/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Introducing Multi-Step Zaps: Build Workflows With Your Apps, Automate More, and Save Time - Updates | Zapier",
+  "h1": [
+   "Introducing Multi-Step Zaps: Build Workflows With Your Apps, Automate More, and Save Time"
+  ],
+  "h2_count": 3,
+  "meta_description": "\n  This week we launched the biggest upgrade to Zapier ever: Multi-Step Zaps. They make it easy to build powerful, automated workflows with the apps you already use. Now Zapier can do more, so you can work less. You can expand automations to 3, 12, or more steps, which means you \u2026\n",
+  "canonical": "https://zapier.com/blog/updates/577/multi-step-zap-workflows",
+  "meta_robots": "all",
+  "schema_types": [
+   "ContactPoint",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 168,
+  "external_links": 6,
+  "external_domains": {
+   "enable-javascript.com": 1,
+   "twitter.com": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://twitter.com/mikeknoop",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier"
+  ],
+  "word_count": 1365
+ },
+ {
+  "url": "https://zapier.com/automations/finance/payment-operations/payment-processing-management",
+  "family": "/automations/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Payment Processing Management Automations & AI Workflows | Zapier",
+  "h1": [
+   "Streamline your payment processing management with Zapier"
+  ],
+  "h2_count": 12,
+  "meta_description": "Automate your payment processing management workflows with Zapier. Build powerful payment processing management automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/finance/payment-operations/payment-processing-management",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 341,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2825
+ },
+ {
+  "url": "https://zapier.com/automations/personal-productivity/personal-administration/daily-routine-automation",
+  "family": "/automations/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Daily Routine Automation Automations & AI Workflows | Zapier",
+  "h1": [
+   "Streamline your daily routine automation with Zapier"
+  ],
+  "h2_count": 12,
+  "meta_description": "Automate your daily routine automation workflows with Zapier. Build powerful daily routine automation automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/personal-productivity/personal-administration/daily-routine-automation",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 322,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2402
+ },
+ {
+  "url": "https://zapier.com/automations/business-owners/e-commerce-operations/shopify-management",
+  "family": "/automations/{x}/{x}/{x}",
+  "status": 200,
+  "title": "Shopify Management Automations & AI Workflows | Zapier",
+  "h1": [
+   "Streamline your Shopify management with Zapier"
+  ],
+  "h2_count": 12,
+  "meta_description": "Automate your shopify management workflows with Zapier. Build powerful shopify management automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/business-owners/e-commerce-operations/shopify-management",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 319,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2107
+ },
+ {
+  "url": "https://zapier.com/learn/101-ways-to-use-zapier/chapter-17-the-random-the-fun-and-the-obscure/",
+  "family": "/learn/{x}/{x}",
+  "status": 200,
+  "title": "Zapier ideas to spark joy, keep you on track, and reduce noise | Zapier",
+  "h1": [
+   "Add a little light to your day"
+  ],
+  "h2_count": 10,
+  "meta_description": "A lot of automation is focused on making your job easier. While that's our primary goal at Zapier, there's always room for using automation to make the rest of your life better while you're at it.",
+  "canonical": "https://zapier.com/blog/zapier-ideas-to-spark-joy/",
+  "meta_robots": null,
+  "schema_types": [
+   "Article",
+   "BreadcrumbList",
+   "ContactPoint",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 281,
+  "external_links": 13,
+  "external_domains": {
+   "github.com": 2,
+   "x.com": 2,
+   "linkedin.com": 2,
+   "whats-on-netflix.com": 2,
+   "nytimes.com": 2,
+   "reddit.com": 1,
+   "facebook.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://x.com/intent/post?url=https://zapier.com/blog/zapier-ideas-to-spark-joy/",
+   "https://www.linkedin.com/sharing/share-offsite?url=https://zapier.com/blog/zapier-ideas-to-spark-joy/",
+   "https://www.reddit.com/submit?url=https://zapier.com/blog/zapier-ideas-to-spark-joy/",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2241
+ },
+ {
+  "url": "https://zapier.com/learn/app-training/contactually/",
+  "family": "/learn/{x}/{x}",
+  "status": 200,
+  "title": "Integrations, App and Software Automation | Automate With Zapier",
+  "h1": [
+   "Apps and Software Integrations"
+  ],
+  "h2_count": 28,
+  "meta_description": "Integrate Software and Apps you use everyday to automate your work and be more productive. No code solutions to connect 9,000+ apps. No credit card needed.",
+  "canonical": "https://zapier.com/apps",
+  "meta_robots": null,
+  "schema_types": [
+   "Offer",
+   "SoftwareApplication"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 434,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2034
+ },
+ {
+  "url": "https://zapier.com/learn/apis/chapter-1-introduction-to-apis/",
+  "family": "/learn/{x}/{x}",
+  "status": 404
+ },
+ {
+  "url": "https://zapier.com/automations/finance/payment-operations",
+  "family": "/automations/{x}/{x}",
+  "status": 200,
+  "title": "Payment Operations Automations & AI Workflows | Zapier",
+  "h1": [
+   "Automate and accelerate payments with Zapier"
+  ],
+  "h2_count": 13,
+  "meta_description": "Automate your payment operations workflows with Zapier. Build powerful payment operations automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/finance/payment-operations",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 329,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1985
+ },
+ {
+  "url": "https://zapier.com/automations/personal-productivity/communication-management",
+  "family": "/automations/{x}/{x}",
+  "status": 200,
+  "title": "Communication Management Automations & AI Workflows | Zapier",
+  "h1": [
+   "Streamline and scale your communications with Zapier"
+  ],
+  "h2_count": 13,
+  "meta_description": "Automate your communication management workflows with Zapier. Build powerful communication management automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/personal-productivity/communication-management",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 331,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2036
+ },
+ {
+  "url": "https://zapier.com/automations/design/cad-technical-design",
+  "family": "/automations/{x}/{x}",
+  "status": 200,
+  "title": "CAD & Technical Design Automations & AI Workflows | Zapier",
+  "h1": [
+   "Automate and scale your CAD workflows with Zapier"
+  ],
+  "h2_count": 13,
+  "meta_description": "Automate your CAD & technical design workflows with Zapier. Build powerful CAD & technical design automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/design/cad-technical-design",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "BreadcrumbList",
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 314,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1919
+ },
+ {
+  "url": "https://zapier.com/agents/templates/slack-to-linear-ticket-creator-ab5bea",
+  "family": "/agents/templates/{x}",
+  "status": 200,
+  "title": "Slack to Linear Ticket Creator | Zapier",
+  "h1": [
+   "Slack to Linear Ticket Creator"
+  ],
+  "h2_count": 5,
+  "meta_description": "This agent analyzes Slack messages in the #revops channel and creates Linear tickets for actionable requests.",
+  "canonical": "https://zapier.com/templates/details/slack-to-linear-ticket-creator-ab5bea",
+  "meta_robots": "noindex, follow",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 157,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 899
+ },
+ {
+  "url": "https://zapier.com/agents/templates/google-doc-to-asana-status-update-7deead",
+  "family": "/agents/templates/{x}",
+  "status": 404
+ },
+ {
+  "url": "https://zapier.com/agents/templates/slack-thread-insights-extractor",
+  "family": "/agents/templates/{x}",
+  "status": 200,
+  "title": "Slack Thread Insights Extractor | Zapier",
+  "h1": [
+   "Slack Thread Insights Extractor"
+  ],
+  "h2_count": 5,
+  "meta_description": "This agent summarizes key points from a Slack thread and appends them to a Google Doc for easy reference.",
+  "canonical": "https://zapier.com/templates/details/slack-thread-insights-extractor",
+  "meta_robots": "noindex, follow",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 157,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 837
+ },
+ {
+  "url": "https://zapier.com/apps/categories/accounting",
+  "family": "/apps/categories/{x}",
+  "status": 200,
+  "title": "Top Accounting Apps & Software | Zapier",
+  "h1": [
+   "Top Accounting Apps"
+  ],
+  "h2_count": 29,
+  "meta_description": "Integrate Software and Apps you use everyday to automate your work and be more productive. No code solutions to connect 9,000+ apps. No credit card needed.",
+  "canonical": "https://zapier.com/apps/categories/accounting",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 438,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2043
+ },
+ {
+  "url": "https://zapier.com/apps/categories/hr",
+  "family": "/apps/categories/{x}",
+  "status": 200,
+  "title": "Top HR Talent & Recruitment Apps & Software | Zapier",
+  "h1": [
+   "Top HR Talent & Recruitment Apps"
+  ],
+  "h2_count": 29,
+  "meta_description": "Integrate Software and Apps you use everyday to automate your work and be more productive. No code solutions to connect 9,000+ apps. No credit card needed.",
+  "canonical": "https://zapier.com/apps/categories/hr",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 439,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1982
+ },
+ {
+  "url": "https://zapier.com/apps/categories/zoho",
+  "family": "/apps/categories/{x}",
+  "status": 200,
+  "title": "Top Zoho Apps & Software | Zapier",
+  "h1": [
+   "Top Zoho Apps"
+  ],
+  "h2_count": 29,
+  "meta_description": "Integrate Software and Apps you use everyday to automate your work and be more productive. No code solutions to connect 9,000+ apps. No credit card needed.",
+  "canonical": "https://zapier.com/apps/categories/zoho",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 435,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2080
+ },
+ {
+  "url": "https://zapier.com/automation/education-automation",
+  "family": "/automation/{x}",
+  "status": 200,
+  "title": "Education Automation",
+  "h1": [
+   "Education Automation"
+  ],
+  "h2_count": 12,
+  "meta_description": "Education automation with Zapier streamlines how institutions handle online course enrollment, student onboarding, and learning management tasks. By connecting LMS platforms, CRMs, payment gateways, ...",
+  "canonical": "https://zapier.com/automation/education-automation",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ListItem"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 339,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1581
+ },
+ {
+  "url": "https://zapier.com/automation/partner-automation",
+  "family": "/automation/{x}",
+  "status": 200,
+  "title": "Partner Automation",
+  "h1": [
+   "Partner Automation"
+  ],
+  "h2_count": 12,
+  "meta_description": "Keep partners motivated and informed by automating check-ins, milestone celebrations, and feedback loops. Zapier triggers timely messages, rewards, and surveys based on partner activity data so you s...",
+  "canonical": "https://zapier.com/automation/partner-automation",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ListItem"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 330,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1422
+ },
+ {
+  "url": "https://zapier.com/automation/content-automation",
+  "family": "/automation/{x}",
+  "status": 200,
+  "title": "Content Automation",
+  "h1": [
+   "Content Automation"
+  ],
+  "h2_count": 12,
+  "meta_description": "Content automation on Zapier orchestrates creation, planning, scheduling, and review of material across channels with AI assistance. It eliminates repetitive publishing tasks, keeps editorial calenda...",
+  "canonical": "https://zapier.com/automation/content-automation",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ListItem"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 345,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1711
+ },
+ {
+  "url": "https://zapier.com/interfaces/forms/templates",
+  "family": "/interfaces/{x}/templates",
+  "status": 200,
+  "title": "Form Templates | Zapier",
+  "h1": [
+   "Form Templates templates"
+  ],
+  "h2_count": 0,
+  "meta_description": "Zapier Form Template Library offers customizable, professionally designed templates for surveys, registrations, feedback, and more, allowing you to create polished, on-brand forms in minutes. No code needed.",
+  "canonical": "https://zapier.com/templates/forms",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 268,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1046
+ },
+ {
+  "url": "https://zapier.com/interfaces/forms/templates?category=intake-forms",
+  "family": "/interfaces/{x}/templates",
+  "status": 200,
+  "title": "Form Templates | Zapier",
+  "h1": [
+   "Form Templates templates"
+  ],
+  "h2_count": 0,
+  "meta_description": "Zapier Form Template Library offers customizable, professionally designed templates for surveys, registrations, feedback, and more, allowing you to create polished, on-brand forms in minutes. No code needed.",
+  "canonical": "https://zapier.com/templates/forms",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 241,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 878
+ },
+ {
+  "url": "https://zapier.com/interfaces/forms/templates?category=waiver-forms",
+  "family": "/interfaces/{x}/templates",
+  "status": 200,
+  "title": "Form Templates | Zapier",
+  "h1": [
+   "Form Templates templates"
+  ],
+  "h2_count": 0,
+  "meta_description": "Zapier Form Template Library offers customizable, professionally designed templates for surveys, registrations, feedback, and more, allowing you to create polished, on-brand forms in minutes. No code needed.",
+  "canonical": "https://zapier.com/templates/forms",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 241,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 878
+ },
+ {
+  "url": "https://zapier.com/apps/ai-tools/amazon-quick-suite",
+  "family": "/apps/{x}/{x}",
+  "status": 200,
+  "title": "Amazon Quick + Zapier: Connect to 9,000+ Apps | Zapier",
+  "h1": [
+   "Amazon Quick by AWS"
+  ],
+  "h2_count": 12,
+  "meta_description": "Connect Zapier to Amazon Quick so Quick can act in 9,000+ apps like Salesforce, Slack, and Asana. Get setup steps, sharing options, and example prompts.",
+  "canonical": "https://zapier.com/apps/ai-tools/amazon-quick-suite",
+  "meta_robots": "all",
+  "schema_types": [
+   "Answer",
+   "BreadcrumbList",
+   "ContactPoint",
+   "FAQPage",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Question"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 303,
+  "external_links": 7,
+  "external_domains": {
+   "github.com": 2,
+   "aws.amazon.com": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://aws.amazon.com/quick/",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1715
+ },
+ {
+  "url": "https://zapier.com/apps/ai-tools/kiro",
+  "family": "/apps/{x}/{x}",
+  "status": 200,
+  "title": "Kiro + Zapier: Connect to 9,000+ Apps | Zapier",
+  "h1": [
+   "Kiro by AWS"
+  ],
+  "h2_count": 12,
+  "meta_description": "Connect Zapier to Kiro so your coding agent can act in 9,000+ apps like Jira, Slack, and Notion. Get setup steps, permissions, and example prompts.",
+  "canonical": "https://zapier.com/apps/ai-tools/kiro",
+  "meta_robots": "all",
+  "schema_types": [
+   "Answer",
+   "BreadcrumbList",
+   "ContactPoint",
+   "FAQPage",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Question"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 303,
+  "external_links": 7,
+  "external_domains": {
+   "github.com": 2,
+   "kiro.dev": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1945
+ },
+ {
+  "url": "https://zapier.com/apps/ai-tools/zed",
+  "family": "/apps/{x}/{x}",
+  "status": 200,
+  "title": "Zed + Zapier: Connect Zed to 9,000+ Apps | Zapier",
+  "h1": [
+   "Zed by Zed Industries"
+  ],
+  "h2_count": 12,
+  "meta_description": "Connect Zapier to Zed so its AI agent can act in 9,000+ apps like GitHub, Slack, and Jira from the Agent Panel. Get setup steps and example prompts.",
+  "canonical": "https://zapier.com/apps/ai-tools/zed",
+  "meta_robots": "all",
+  "schema_types": [
+   "Answer",
+   "BreadcrumbList",
+   "ContactPoint",
+   "FAQPage",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Question"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 303,
+  "external_links": 7,
+  "external_domains": {
+   "github.com": 2,
+   "zed.dev": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1763
+ },
+ {
+  "url": "https://zapier.com/legal/white-label-sccs",
+  "family": "/legal/{x}",
+  "status": 200,
+  "title": "Standard Contractual Clauses (White-label DPA) | Zapier",
+  "h1": [],
+  "h2_count": 2,
+  "meta_description": "This page contains copies of Standard Contractual Clauses (SCCs) as referenced in Zapier\u2019s White-label Data Processing Addendum",
+  "canonical": "https://zapier.com/legal/white-label-sccs",
+  "meta_robots": null,
+  "schema_types": [
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 158,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 6469
+ },
+ {
+  "url": "https://zapier.com/legal/product-benefits-for-partners-terms",
+  "family": "/legal/{x}",
+  "status": 200,
+  "title": "Product Benefits for Partners Terms | Zapier",
+  "h1": [],
+  "h2_count": 10,
+  "meta_description": "Zapier Product Benefits for Partners (\u201cZPB\u201d) is an invitation-only workspace available to select Zapier solution integration, and other partners.",
+  "canonical": "https://zapier.com/legal/product-benefits-for-partners-terms",
+  "meta_robots": null,
+  "schema_types": [
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 158,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1346
+ },
+ {
+  "url": "https://zapier.com/legal/website-terms-of-use",
+  "family": "/legal/{x}",
+  "status": 200,
+  "title": "Website Terms of Use | Zapier",
+  "h1": [],
+  "h2_count": 9,
+  "meta_description": "These Website Terms of Use are applicable to your access to and use of the Zapier website.",
+  "canonical": "https://zapier.com/legal/website-terms-of-use",
+  "meta_robots": null,
+  "schema_types": [
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 160,
+  "external_links": 7,
+  "external_domains": {
+   "github.com": 2,
+   "copyright.gov": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 3900
+ },
+ {
+  "url": "https://zapier.com/find-apps/0-9/",
+  "family": "/find-apps/{x}",
+  "status": 200,
+  "title": "Browse Apps by Name NUMBER | Zapier",
+  "h1": [],
+  "h2_count": 1,
+  "meta_description": "Connect the apps you use everyday to automate your work and be more productive. 9,000+ apps and easy integrations - get started in minutes.",
+  "canonical": null,
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 76,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 100
+ },
+ {
+  "url": "https://zapier.com/find-apps/m/",
+  "family": "/find-apps/{x}",
+  "status": 200,
+  "title": "Browse Apps by Name M | Zapier",
+  "h1": [],
+  "h2_count": 1,
+  "meta_description": "Connect the apps you use everyday to automate your work and be more productive. 9,000+ apps and easy integrations - get started in minutes.",
+  "canonical": null,
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 613,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 869
+ },
+ {
+  "url": "https://zapier.com/find-apps/z/",
+  "family": "/find-apps/{x}",
+  "status": 200,
+  "title": "Browse Apps by Name Z | Zapier",
+  "h1": [],
+  "h2_count": 1,
+  "meta_description": "Connect the apps you use everyday to automate your work and be more productive. 9,000+ apps and easy integrations - get started in minutes.",
+  "canonical": null,
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 202,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 298
+ },
+ {
+  "url": "https://zapier.com/l/contact-sales",
+  "family": "/l/{x}",
+  "status": 200,
+  "title": "Contact Sales | Zapier",
+  "h1": [
+   "Easy for every team. Built for enterprise."
+  ],
+  "h2_count": 0,
+  "meta_description": "Easy for every team. Built for enterprise. Trusted by the Fortune 500, our experts will help you deploy AI automation securely\u2014without slowing your teams down.",
+  "canonical": "https://zapier.com/l/contact-sales",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPage",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 15,
+  "external_links": 4,
+  "external_domains": {
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 617
+ },
+ {
+  "url": "https://zapier.com/l/demo",
+  "family": "/l/{x}",
+  "status": 200,
+  "title": "Interactive Demo | Zapier",
+  "h1": [],
+  "h2_count": 2,
+  "meta_description": "Take a one-minute interactive tour to get to know Zapier.",
+  "canonical": "https://zapier.com/l/demo",
+  "meta_robots": null,
+  "schema_types": [
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 158,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 683
+ },
+ {
+  "url": "https://zapier.com/l/linkedin-lead-gen-forms",
+  "family": "/l/{x}",
+  "status": 200,
+  "title": "Get more out of your LinkedIn ads with Zapier | Zapier",
+  "h1": [
+   "Get more out of your LinkedIn ads with Zapier",
+   "See how automation can supercharge your LinkedIn Lead Gen Forms today"
+  ],
+  "h2_count": 6,
+  "meta_description": "Zapier's integration with LinkedIn Lead Gen Forms helps you automate lead management so you can save time and improve performance.",
+  "canonical": "https://zapier.com/l/linkedin-lead-gen-forms",
+  "meta_robots": null,
+  "schema_types": [
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 165,
+  "external_links": 8,
+  "external_domains": {
+   "github.com": 2,
+   "linkedin.com": 2,
+   "business.linkedin.com": 1,
+   "facebook.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.linkedin.com/legal/privacy-policy",
+   "https://business.linkedin.com/marketing-solutions/case-studies/harness",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1134
+ },
+ {
+  "url": "https://zapier.com/learn/how-to/embed-google-sheets-google-docs/",
+  "family": "/learn/how-to/{x}",
+  "status": 200,
+  "title": "How to insert a Google Sheet into a Google Doc | Zapier",
+  "h1": [
+   "How to insert a Google Sheet into a Google Doc"
+  ],
+  "h2_count": 8,
+  "meta_description": "Here's how to embed a Google Sheet into a Google Doc so you can show snippets of your data. Plus, how to update a table in Google Docs with just one click.",
+  "canonical": "https://zapier.com/blog/google-sheets-to-google-docs/",
+  "meta_robots": null,
+  "schema_types": [
+   "Answer",
+   "BreadcrumbList",
+   "ContactPoint",
+   "FAQPage",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Question"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 273,
+  "external_links": 11,
+  "external_domains": {
+   "github.com": 2,
+   "x.com": 2,
+   "linkedin.com": 2,
+   "reddit.com": 1,
+   "vendors.selectsoftwarereviews.com": 1,
+   "support.google.com": 1,
+   "facebook.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://x.com/intent/post?url=https://zapier.com/blog/google-sheets-to-google-docs/",
+   "https://www.linkedin.com/sharing/share-offsite?url=https://zapier.com/blog/google-sheets-to-google-docs/",
+   "https://www.reddit.com/submit?url=https://zapier.com/blog/google-sheets-to-google-docs/",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2707
+ },
+ {
+  "url": "https://zapier.com/learn/how-to/fax-to-email/",
+  "family": "/learn/how-to/{x}",
+  "status": 200,
+  "title": "Get Phaxio Faxes by Email",
+  "h1": [
+   "Email by Zapier + Phaxio",
+   "Email by Zapier + Phaxio"
+  ],
+  "h2_count": 12,
+  "meta_description": "Want a simple way to receive faxes, on the go or in your office without a fax machine? With Zapier's Phaxio integration, you can use a Phaxio phone number to receive faxes, then with this Zap, Zapier...",
+  "canonical": "https://zapier.com/apps/email/integrations/phaxio/8306/get-phaxio-faxes-by-email",
+  "meta_robots": "all",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 336,
+  "external_links": 8,
+  "external_domains": {
+   "github.com": 2,
+   "phaxio.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1533
+ },
+ {
+  "url": "https://zapier.com/learn/how-to/evernote-templates/",
+  "family": "/learn/how-to/{x}",
+  "status": 200,
+  "title": "How to use templates in Evernote | Zapier",
+  "h1": [
+   "How to use templates to quickly make new notes in Evernote"
+  ],
+  "h2_count": 5,
+  "meta_description": "",
+  "canonical": "https://zapier.com/blog/evernote-templates/",
+  "meta_robots": null,
+  "schema_types": [
+   "Article",
+   "BreadcrumbList",
+   "ContactPoint",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 262,
+  "external_links": 9,
+  "external_domains": {
+   "github.com": 2,
+   "x.com": 2,
+   "linkedin.com": 2,
+   "reddit.com": 1,
+   "facebook.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://x.com/intent/post?url=https://zapier.com/blog/evernote-templates/",
+   "https://www.linkedin.com/sharing/share-offsite?url=https://zapier.com/blog/evernote-templates/",
+   "https://www.reddit.com/submit?url=https://zapier.com/blog/evernote-templates/",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1754
+ },
+ {
+  "url": "https://zapier.com/automations/finance",
+  "family": "/automations/{x}",
+  "status": 200,
+  "title": "Finance Automations & AI Workflows | Zapier",
+  "h1": [
+   "Automate your finance stack"
+  ],
+  "h2_count": 14,
+  "meta_description": "Automate your finance workflows with Zapier. Build powerful finance automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/finance",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 324,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2433
+ },
+ {
+  "url": "https://zapier.com/automations/product",
+  "family": "/automations/{x}",
+  "status": 200,
+  "title": "Product Automations & AI Workflows | Zapier",
+  "h1": [
+   "Automate your product stack"
+  ],
+  "h2_count": 14,
+  "meta_description": "Automate your product workflows with Zapier. Build powerful product automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/product",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 315,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2285
+ },
+ {
+  "url": "https://zapier.com/automations/design",
+  "family": "/automations/{x}",
+  "status": 200,
+  "title": "Design Automations & AI Workflows | Zapier",
+  "h1": [
+   "Automate your design stack"
+  ],
+  "h2_count": 14,
+  "meta_description": "Automate your design workflows with Zapier. Build powerful design automations and AI workflows to save time and scale your work.",
+  "canonical": "https://zapier.com/automations/design",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "CollectionPage",
+   "HowTo",
+   "HowToStep",
+   "ImageObject",
+   "ItemList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 313,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2258
+ },
+ {
+  "url": "https://zapier.com/templates/tables",
+  "family": "/templates/{x}",
+  "status": 200,
+  "title": "Tables Templates | Zapier",
+  "h1": [
+   "Tables templates"
+  ],
+  "h2_count": 0,
+  "meta_description": "Build an automated database in minutes. Store, manage, and streamline your data.",
+  "canonical": "https://zapier.com/templates/tables",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 6,
+  "internal_links": 193,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 868
+ },
+ {
+  "url": "https://zapier.com/templates/lead-management",
+  "family": "/templates/{x}",
+  "status": 200,
+  "title": "Lead management Templates | Zapier",
+  "h1": [
+   "Lead management templates"
+  ],
+  "h2_count": 1,
+  "meta_description": null,
+  "canonical": "https://zapier.com/templates/lead-management",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 6,
+  "internal_links": 214,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1023
+ },
+ {
+  "url": "https://zapier.com/templates/ticket-incident-management",
+  "family": "/templates/{x}",
+  "status": 200,
+  "title": "Tickets & incidents Templates | Zapier",
+  "h1": [
+   "Tickets & incidents templates"
+  ],
+  "h2_count": 1,
+  "meta_description": "Manage IT tickets and processes with no-code templates from Zapier\u2014automate issue tracking, incident alerts, and team planning workflows.",
+  "canonical": "https://zapier.com/templates/ticket-incident-management",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 176,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 770
+ },
+ {
+  "url": "https://zapier.com/blog/categories/zapier-product-and-platform/",
+  "family": "/blog/categories/{x}",
+  "status": 200,
+  "title": "Zapier product and platform",
+  "h1": [
+   "Product & platform"
+  ],
+  "h2_count": 5,
+  "meta_description": "Information about the Zapier product and platform.",
+  "canonical": "https://zapier.com/blog/categories/zapier-product-and-platform/",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 277,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1422
+ },
+ {
+  "url": "https://zapier.com/blog/categories/app-picks/",
+  "family": "/blog/categories/{x}",
+  "status": 200,
+  "title": "App picks",
+  "h1": [
+   "App picks"
+  ],
+  "h2_count": 4,
+  "meta_description": "Zapier's picks for the best apps and software for your work.",
+  "canonical": "https://zapier.com/blog/categories/app-picks/",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 266,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1360
+ },
+ {
+  "url": "https://zapier.com/blog/categories/engineering/",
+  "family": "/blog/categories/{x}",
+  "status": 200,
+  "title": "Engineering",
+  "h1": [
+   "Engineering"
+  ],
+  "h2_count": 2,
+  "meta_description": "Engineering articles from Zapier.",
+  "canonical": "https://zapier.com/blog/categories/engineering/",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "Organization",
+   "Person",
+   "PostalAddress"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 242,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "http://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1269
+ },
+ {
+  "url": "https://zapier.com/roles/business-owners",
+  "family": "/roles/{x}",
+  "status": 200,
+  "title": "Automation solutions for leaders | Zapier",
+  "h1": [
+   "Streamline your processes and hit your goals with automation"
+  ],
+  "h2_count": 10,
+  "meta_description": "Streamline your processes and hit your goals with automation. Close more deals, deliver the best customer experiences, and find operational efficiencies with Zapier.",
+  "canonical": "https://zapier.com/solutions/leaders",
+  "meta_robots": null,
+  "schema_types": [
+   "BusinessAudience",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 165,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1466
+ },
+ {
+  "url": "https://zapier.com/roles/information-technology",
+  "family": "/roles/{x}",
+  "status": 200,
+  "title": "IT automation solutions | Zapier",
+  "h1": [
+   "Empower teams and streamline IT with powerful automation"
+  ],
+  "h2_count": 14,
+  "meta_description": "Empower teams and streamline IT operations with Zapier's secure, no-code automation platform. Securely connect 9,000+ apps and reduce IT backlogs across your organization.",
+  "canonical": "https://zapier.com/solutions/it",
+  "meta_robots": null,
+  "schema_types": [
+   "Answer",
+   "BusinessAudience",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Question",
+   "SoftwareApplication",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 170,
+  "external_links": 6,
+  "external_domains": {
+   "github.com": 2,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 2098
+ },
+ {
+  "url": "https://zapier.com/roles/software-engineers",
+  "family": "/roles/{x}",
+  "status": 200,
+  "title": "Zapier: Automate AI Workflows, Agents, and Apps",
+  "h1": [
+   "Welcome to automation in the agentic era"
+  ],
+  "h2_count": 16,
+  "meta_description": "Build and scale AI workflows and agents across 9,000+ apps with Zapier\u2014the most connected AI orchestration platform. Trusted by 3 million+ businesses. ",
+  "canonical": "https://zapier.com",
+  "meta_robots": null,
+  "schema_types": [
+   "CreativeWork",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 314,
+  "external_links": 7,
+  "external_domains": {
+   "github.com": 2,
+   "zapier.sh": 1,
+   "facebook.com": 1,
+   "linkedin.com": 1,
+   "x.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://github.com/zapier",
+   "https://www.facebook.com/ZapierApp?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://www.linkedin.com/company/zapier/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier",
+   "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
+   "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
+  ],
+  "word_count": 1816
+ }
+]

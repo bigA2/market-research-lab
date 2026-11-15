@@ -1,0 +1,114 @@
+{
+ "domain": "make.com",
+ "generated_at": "2026-11-15T08:23:23Z",
+ "robots_status": 200,
+ "robots_sitemaps": [
+  "https://www.make.com/sitemaps/index.xml"
+ ],
+ "crawl_delay_used": 1.0,
+ "sitemaps_fetched": 7,
+ "sitemaps_failed": 0,
+ "urls_total": 13620,
+ "urls_capped": false,
+ "localized_urls": 0,
+ "sections": {
+  "templates": 7952,
+  "integrations": 4774,
+  "blog": 404,
+  "other": 343,
+  "events_webinars": 66,
+  "landing": 62,
+  "use_cases_solutions": 9,
+  "signup_login": 2,
+  "partners_experts_affiliates": 2,
+  "compare_alternatives": 2,
+  "legal": 1,
+  "home": 1,
+  "careers": 1,
+  "pricing": 1
+ },
+ "family_count": 11,
+ "families": [
+  {
+   "template": "/templates/{x}",
+   "count": 7830,
+   "section": "templates",
+   "localized": 0
+  },
+  {
+   "template": "/integrations/{x}",
+   "count": 3452,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/integrations/{x}/{x}",
+   "count": 1102,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/blog/{x}",
+   "count": 403,
+   "section": "blog",
+   "localized": 0
+  },
+  {
+   "template": "/integrations/category/{x}",
+   "count": 218,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/how-to-guides/{x}",
+   "count": 212,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/workflows/{x}",
+   "count": 121,
+   "section": "templates",
+   "localized": 0
+  },
+  {
+   "template": "/success-stories/{x}",
+   "count": 103,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/webinars/{x}",
+   "count": 64,
+   "section": "events_webinars",
+   "localized": 0
+  },
+  {
+   "template": "/authors/{x}",
+   "count": 27,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/solutions/{x}",
+   "count": 8,
+   "section": "use_cases_solutions",
+   "localized": 0
+  }
+ ],
+ "samples_fetched": 33,
+ "channel_pages_found": [
+  "/pricing",
+  "/affiliate",
+  "/partners",
+  "/templates",
+  "/integrations",
+  "/blog",
+  "/events",
+  "/webinars",
+  "/careers",
+  "/use-cases"
+ ],
+ "errors": [],
+ "elapsed_s": 122.9
+}

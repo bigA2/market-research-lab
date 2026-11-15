@@ -1,0 +1,1248 @@
+[
+ {
+  "url": "https://www.make.com/templates/10036-new-template",
+  "family": "/templates/{x}",
+  "status": 200,
+  "title": "Create Google Calendar events from Notion | Workflow Template | Make",
+  "h1": [
+   "Create Google Calendar events from Notion"
+  ],
+  "h2_count": 8,
+  "meta_description": "Create Google Calendar events from Notion - Use this template to automatically create a Google Calendar event from a Notion database.\n\nPlease see the database used when creating this template: https://bit.ly/3IGZ6n4",
+  "canonical": "https://www.make.com/templates/10036-new-template",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 102,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 795
+ },
+ {
+  "url": "https://www.make.com/templates/4237-log-your-aircall-data-in-google-sheets",
+  "family": "/templates/{x}",
+  "status": 200,
+  "title": "Log your Aircall data in Google Sheets | Workflow Template | Make",
+  "h1": [
+   "Log your Aircall data in Google Sheets"
+  ],
+  "h2_count": 8,
+  "meta_description": "Log\u00a0your\u00a0Aircall data in Google Sheets - Every time a new call is received on Aircall, Make will automatically store information about the call in Google Sheets. The template uses this [example document](https://docs.google.com/spreadsheets/d/1x2De5gqEKmt4mCi_i8EIqQTSYU9wXCjeyRQgPlagCf8/edit?usp=sharing).",
+  "canonical": "https://www.make.com/templates/4237-log-your-aircall-data-in-google-sheets",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 102,
+  "external_links": 7,
+  "external_domains": {
+   "docs.google.com": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 796
+ },
+ {
+  "url": "https://www.make.com/templates/987-add-new-pipedrive-notes-to-evernote-as-notes",
+  "family": "/templates/{x}",
+  "status": 200,
+  "title": "Add new Pipedrive notes to Evernote as notes | Workflow Template | Make",
+  "h1": [
+   "Add new Pipedrive notes to Evernote as notes"
+  ],
+  "h2_count": 8,
+  "meta_description": "Add new Pipedrive notes to Evernote as notes - Every time a new note is created in Pipedrive, Make will automatically create a new note in Evernote.",
+  "canonical": "https://www.make.com/templates/987-add-new-pipedrive-notes-to-evernote-as-notes",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 102,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 782
+ },
+ {
+  "url": "https://www.make.com/integrations/2-solar-community",
+  "family": "/integrations/{x}",
+  "status": 200,
+  "title": "2 Solar integration | Workflow automation | Make",
+  "h1": [
+   "Connect 2 Solar integrations"
+  ],
+  "h2_count": 7,
+  "meta_description": "Connect 2 Solar to sync data between apps and create powerful automated workflows. Integrate over 3,500 apps on Make.",
+  "canonical": "https://www.make.com/integrations/2-solar-community",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 98,
+  "external_links": 7,
+  "external_domains": {
+   "youtu.be": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://youtu.be/oigckzWPY60",
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 924
+ },
+ {
+  "url": "https://www.make.com/integrations/mailerlite2",
+  "family": "/integrations/{x}",
+  "status": 200,
+  "title": "MailerLite integration | Workflow automation | Make",
+  "h1": [
+   "Connect MailerLite integrations"
+  ],
+  "h2_count": 9,
+  "meta_description": "Connect MailerLite to sync data between apps and create powerful automated workflows. Integrate over 3,500 apps on Make.",
+  "canonical": "https://www.make.com/integrations/mailerlite2",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 99,
+  "external_links": 7,
+  "external_domains": {
+   "youtu.be": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://youtu.be/oigckzWPY60",
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1970
+ },
+ {
+  "url": "https://www.make.com/integrations/zyllio",
+  "family": "/integrations/{x}",
+  "status": 200,
+  "title": "Zyllio integration | Workflow automation | Make",
+  "h1": [
+   "Connect Zyllio integrations"
+  ],
+  "h2_count": 8,
+  "meta_description": "Connect Zyllio to sync data between apps and create powerful automated workflows. Integrate over 3,500 apps on Make.",
+  "canonical": "https://www.make.com/integrations/zyllio",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 96,
+  "external_links": 8,
+  "external_domains": {
+   "zyllio.com": 1,
+   "youtu.be": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://youtu.be/oigckzWPY60",
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1651
+ },
+ {
+  "url": "https://www.make.com/integrations/activecampaign/google-ads-lead-forms",
+  "family": "/integrations/{x}/{x}",
+  "status": 200,
+  "title": "Integrate ActiveCampaign with Google Ads Easily | Make",
+  "h1": [
+   "Connect ActiveCampaign and Google Ads Lead Forms integrations"
+  ],
+  "h2_count": 11,
+  "meta_description": "Seamlessly integrate ActiveCampaign with Google Ads using Make. Automate new leads, trigger marketing campaigns, and enhance efficiency for growth.",
+  "canonical": "https://www.make.com/integrations/activecampaign/google-ads-lead-forms",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 95,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 2024
+ },
+ {
+  "url": "https://www.make.com/integrations/linkedin/anthropic-claude",
+  "family": "/integrations/{x}/{x}",
+  "status": 200,
+  "title": "LinkedIn & Claude Integration via Make Platform | Make",
+  "h1": [
+   "Connect LinkedIn and Anthropic Claude integrations"
+  ],
+  "h2_count": 10,
+  "meta_description": "Automate LinkedIn networking with Claude AI through Make. Transform connection requests, profile views, and interactions into AI-powered responses.",
+  "canonical": "https://www.make.com/integrations/linkedin/anthropic-claude",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 94,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1978
+ },
+ {
+  "url": "https://www.make.com/integrations/zoom/hubspotcrm",
+  "family": "/integrations/{x}/{x}",
+  "status": 200,
+  "title": "Automate Zoom and HubSpot with Make Platform | Make",
+  "h1": [
+   "Connect Zoom Administration and HubSpot CRM integrations"
+  ],
+  "h2_count": 11,
+  "meta_description": "Streamline workflows by integrating Zoom and HubSpot via Make. Automate tasks like scheduling meetings, updating records, and managing follow-ups.",
+  "canonical": "https://www.make.com/integrations/zoom/hubspotcrm",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 97,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 2882
+ },
+ {
+  "url": "https://www.make.com/blog/2019-the-year-of-the-employee-productivity",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "Will 2019 Become the Year of the Employee? | Make",
+  "h1": [
+   "Will 2019 Become the Year of the Employee?"
+  ],
+  "h2_count": 7,
+  "meta_description": "Employee satisfaction is increasingly becoming a key factor in having success in any business. Learn how to foster and make the best of it!",
+  "canonical": "https://www.make.com/blog/2019-the-year-of-the-employee-productivity",
+  "meta_robots": null,
+  "schema_types": [
+   "BlogPosting",
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 46,
+  "external_links": 7,
+  "external_domains": {
+   "weforum.org": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1725
+ },
+ {
+  "url": "https://www.make.com/blog/hyperautomation",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "What is hyperautomation? | A complete guide | Make",
+  "h1": [
+   "What is hyperautomation? A complete guide"
+  ],
+  "h2_count": 17,
+  "meta_description": "Fragmented tools, manual handoffs, and siloed data \u2014 hyperautomation is how you fix all three at once.",
+  "canonical": "https://www.make.com/blog/hyperautomation",
+  "meta_robots": null,
+  "schema_types": [
+   "BlogPosting",
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 52,
+  "external_links": 7,
+  "external_domains": {
+   "gartner.com": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 2812
+ },
+ {
+  "url": "https://www.make.com/blog/zero-touch-automation",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "What is Zero-Touch Automation? Pros, Cons and Free Templates | Make",
+  "h1": [
+   "What is Zero-Touch Automation? Pros, Cons and Free Templates"
+  ],
+  "h2_count": 11,
+  "meta_description": "Zero-touch automation is the process of using software to automatically execute actions taken at business touch points with minimal to no manual intervention. Learn more about this automation approach and how to implement it in our article.",
+  "canonical": "https://www.make.com/blog/zero-touch-automation",
+  "meta_robots": null,
+  "schema_types": [
+   "BlogPosting",
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 47,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1539
+ },
+ {
+  "url": "https://www.make.com/integrations/category/ai",
+  "family": "/integrations/category/{x}",
+  "status": 200,
+  "title": "3,500+ Integration Apps | Connect & Automate Software | Make",
+  "h1": [
+   "Integrations"
+  ],
+  "h2_count": 8,
+  "meta_description": "Explore over 3,500 apps \u2713 Integrate your tools and software in Make \u2713 More than just no code automation \u2713 Visual platform \u2713 Get started free \u2713",
+  "canonical": "https://www.make.com/integrations/category/ai",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 136,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1806
+ },
+ {
+  "url": "https://www.make.com/integrations/category/images?categoryType=subcategory",
+  "family": "/integrations/category/{x}",
+  "status": 200,
+  "title": "3,500+ Integration Apps | Connect & Automate Software | Make",
+  "h1": [
+   "Integrations"
+  ],
+  "h2_count": 8,
+  "meta_description": "Explore over 3,500 apps \u2713 Integrate your tools and software in Make \u2713 More than just no code automation \u2713 Visual platform \u2713 Get started free \u2713",
+  "canonical": "https://www.make.com/integrations/category/images",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 136,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1817
+ },
+ {
+  "url": "https://www.make.com/integrations/category/zoom?categoryType=subcategory",
+  "family": "/integrations/category/{x}",
+  "status": 200,
+  "title": "3,500+ Integration Apps | Connect & Automate Software | Make",
+  "h1": [
+   "Integrations"
+  ],
+  "h2_count": 8,
+  "meta_description": "Explore over 3,500 apps \u2713 Integrate your tools and software in Make \u2713 More than just no code automation \u2713 Visual platform \u2713 Get started free \u2713",
+  "canonical": "https://www.make.com/integrations/category/zoom",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 107,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1664
+ },
+ {
+  "url": "https://www.make.com/how-to-guides/11-best-clickup-integrations-for-digital-agencies-and-how-to-put-them-to-work",
+  "family": "/how-to-guides/{x}",
+  "status": 200,
+  "title": "11 Best ClickUp Integrations for Digital Agencies | Make",
+  "h1": [
+   "11 Best ClickUp Integrations for Digital Agencies"
+  ],
+  "h2_count": 7,
+  "meta_description": "Maximize the potential of the resources you already pay for with these automated digital agency workflows that connect ClickUp to other apps in your toolkit. Do more, scale faster, and provide better services!",
+  "canonical": "https://www.make.com/how-to-guides/11-best-clickup-integrations-for-digital-agencies-and-how-to-put-them-to-work",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "HowTo",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 54,
+  "external_links": 9,
+  "external_domains": {
+   "clickup.com": 1,
+   "clearbit.com": 1,
+   "partners.integromat.com": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 3126
+ },
+ {
+  "url": "https://www.make.com/how-to-guides/how-to-gather-leads-through-a-prize-giveaway-using-barcodes-google-sheets-and-webhooks",
+  "family": "/how-to-guides/{x}",
+  "status": 200,
+  "title": "How to Gather Leads Through a Prize Giveaway Using Barcodes, Google Sheets and Webhooks | Make",
+  "h1": [
+   "How to Gather Leads Through a Prize Giveaway Using Barcodes, Google Sheets and Webhooks"
+  ],
+  "h2_count": 7,
+  "meta_description": "Learn how to gather leads using webhooks and a barcode. Let Integromat do the dirty wor and build long-term relationship with your customers.",
+  "canonical": "https://www.make.com/how-to-guides/how-to-gather-leads-through-a-prize-giveaway-using-barcodes-google-sheets-and-webhooks",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "HowTo",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 48,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1308
+ },
+ {
+  "url": "https://www.make.com/how-to-guides/zero-touch-link-shortening-system-linkly-make",
+  "family": "/how-to-guides/{x}",
+  "status": 200,
+  "title": "Automate Link Shortening & Attribution with Make and Linkly | Make",
+  "h1": [
+   "Shopify, Linkly, and Make: A \u201czero-touch\u201d system for flawless link shortening & attribution"
+  ],
+  "h2_count": 11,
+  "meta_description": "Build a zero-touch attribution system with Make, Shopify, and Linkly. Auto-generate branded short links with UTM tracking and post to social media instantly.",
+  "canonical": "https://www.make.com/how-to-guides/zero-touch-link-shortening-system-linkly-make",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "HowTo",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 47,
+  "external_links": 7,
+  "external_domains": {
+   "linklyhq.com": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1233
+ },
+ {
+  "url": "https://www.make.com/workflows/analyze-social-performance-across-platforms",
+  "family": "/workflows/{x}",
+  "status": 200,
+  "title": "Analyze social performance across platforms | Make",
+  "h1": [
+   "Analyze social performance across platforms"
+  ],
+  "h2_count": 10,
+  "meta_description": null,
+  "canonical": "https://www.make.com/workflows/analyze-social-performance-across-platforms",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 50,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 905
+ },
+ {
+  "url": "https://www.make.com/workflows/invoice-clients-for-billable-project-work",
+  "family": "/workflows/{x}",
+  "status": 200,
+  "title": "Invoice clients for billable project work | Make",
+  "h1": [
+   "Invoice clients for billable project work"
+  ],
+  "h2_count": 10,
+  "meta_description": null,
+  "canonical": "https://www.make.com/workflows/invoice-clients-for-billable-project-work",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 51,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1033
+ },
+ {
+  "url": "https://www.make.com/workflows/verify-gdpr-data-erasure-across-systems",
+  "family": "/workflows/{x}",
+  "status": 200,
+  "title": "Verify GDPR data erasure across systems | Make",
+  "h1": [
+   "Verify GDPR data erasure across systems"
+  ],
+  "h2_count": 10,
+  "meta_description": null,
+  "canonical": "https://www.make.com/workflows/verify-gdpr-data-erasure-across-systems",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 50,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 943
+ },
+ {
+  "url": "https://www.make.com/success-stories/9x-and-power-of-no-code-automation",
+  "family": "/success-stories/{x}",
+  "status": 200,
+  "title": "With No-code, 9x Is Making Builders Out Of Businesses | Make",
+  "h1": [
+   "9x and no-code are making builders out of businesses"
+  ],
+  "h2_count": 7,
+  "meta_description": "9x, a consultancy founded by Alexandre Kantjas, is helping fast-growing companies harness the power of no-code automation to streamline processes. Read more.",
+  "canonical": "https://www.make.com/success-stories/9x-and-power-of-no-code-automation",
+  "meta_robots": null,
+  "schema_types": [
+   "Article",
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 54,
+  "external_links": 8,
+  "external_domains": {
+   "go9x.com": 1,
+   "de.linkedin.com": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://de.linkedin.com/in/akantjas",
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 701
+ },
+ {
+  "url": "https://www.make.com/success-stories/how-make-helps-appo-group-reduce-medical-data-input-time",
+  "family": "/success-stories/{x}",
+  "status": 200,
+  "title": "APPO Cuts Data Input by 90% with Make | Make",
+  "h1": [
+   "How Make helps APPO Group reduce medical data input time by 90%"
+  ],
+  "h2_count": 10,
+  "meta_description": "Discover how APPO Group slashed medical data input time by 90% using Make.com. Learn how they unified healthcare systems and improved patient care. Read more!",
+  "canonical": "https://www.make.com/success-stories/how-make-helps-appo-group-reduce-medical-data-input-time",
+  "meta_robots": null,
+  "schema_types": [
+   "Article",
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 51,
+  "external_links": 7,
+  "external_domains": {
+   "appo.nl": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1406
+ },
+ {
+  "url": "https://www.make.com/success-stories/wing-assistant-automates-newsletter-data-sync",
+  "family": "/success-stories/{x}",
+  "status": 200,
+  "title": "How To Automate Newsletters and Sync Data | Make",
+  "h1": [
+   "How Make helps Wing Assistant save 4 days per newsletter production"
+  ],
+  "h2_count": 10,
+  "meta_description": "By using Make, Wing Assistant automated the entire newsletter process, drastically reducing the time spent on gathering and curating news.",
+  "canonical": "https://www.make.com/success-stories/wing-assistant-automates-newsletter-data-sync",
+  "meta_robots": null,
+  "schema_types": [
+   "Article",
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 52,
+  "external_links": 7,
+  "external_domains": {
+   "wingassistant.com": 1,
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 928
+ },
+ {
+  "url": "https://www.make.com/webinars/accelerate-cx-response-ai-agents-and-grid",
+  "family": "/webinars/{x}",
+  "status": 200,
+  "title": "Webinar | Accelerate CX response time with AI Agents + Make Grid | Make",
+  "h1": [
+   "Accelerate CX response time with AI Agents + Make Grid"
+  ],
+  "h2_count": 6,
+  "meta_description": "",
+  "canonical": "https://www.make.com/webinars/accelerate-cx-response-ai-agents-and-grid",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "Event",
+   "ImageObject",
+   "Organization",
+   "VirtualLocation",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 44,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 430
+ },
+ {
+  "url": "https://www.make.com/webinars/how-to-use-ai-to-simplify-inbound-lead-management",
+  "family": "/webinars/{x}",
+  "status": 200,
+  "title": "AI Webinar: Simplify inbound lead management with AI | Make",
+  "h1": [
+   "How to use AI to simplify inbound lead management"
+  ],
+  "h2_count": 6,
+  "meta_description": "Integration of automated processes and AI technologies to streamline lead intake, parsing, and allocation. Join our webinar.",
+  "canonical": "https://www.make.com/webinars/how-to-use-ai-to-simplify-inbound-lead-management",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "Event",
+   "ImageObject",
+   "Organization",
+   "VirtualLocation",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 48,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 462
+ },
+ {
+  "url": "https://www.make.com/webinars/webmerge-and-pipedrive-for-the-ultimate-document-automation-experience",
+  "family": "/webinars/{x}",
+  "status": 200,
+  "title": "Document Automation With WebMerge & Pipedrive | Make",
+  "h1": [
+   "WebMerge and PipeDrive for the Ultimate Document Automation Experience"
+  ],
+  "h2_count": 6,
+  "meta_description": "",
+  "canonical": "https://www.make.com/webinars/webmerge-and-pipedrive-for-the-ultimate-document-automation-experience",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "Event",
+   "ImageObject",
+   "Organization",
+   "VirtualLocation",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 42,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 310
+ },
+ {
+  "url": "https://www.make.com/authors/andreas-langen",
+  "family": "/authors/{x}",
+  "status": 200,
+  "title": "Andreas Langen: Author Profile | Make",
+  "h1": [
+   "Andreas Langen"
+  ],
+  "h2_count": 7,
+  "meta_description": "",
+  "canonical": "https://www.make.com/authors/andreas-langen",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "ProfilePage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 43,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 213
+ },
+ {
+  "url": "https://www.make.com/authors/matt-jones",
+  "family": "/authors/{x}",
+  "status": 200,
+  "title": "Matt Jones | Senior Content Producer | Make",
+  "h1": [
+   "Matt Jones"
+  ],
+  "h2_count": 7,
+  "meta_description": "Matt is a Senior Content Producer whose goal is to make technology understandable and human. He's contributed to a string of companies leading the digital transformation in the finance, AI, and even travel spaces.",
+  "canonical": "https://www.make.com/authors/matt-jones",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "ProfilePage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 52,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 811
+ },
+ {
+  "url": "https://www.make.com/authors/vlad-galanov",
+  "family": "/authors/{x}",
+  "status": 200,
+  "title": "Vlad Galanov | AI & Automation Content Producer | Make",
+  "h1": [
+   "Vlad Galanov"
+  ],
+  "h2_count": 7,
+  "meta_description": "Vlad Galanov specializes in AI and automation. His focus is on user-friendly guides and strategic content that drive adoption and impact.",
+  "canonical": "https://www.make.com/authors/vlad-galanov",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "ProfilePage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 55,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 839
+ },
+ {
+  "url": "https://www.make.com/solutions/automate-customer-experience",
+  "family": "/solutions/{x}",
+  "status": 200,
+  "title": "AI Customer Experience Automation | Support & Engagement | Make",
+  "h1": [
+   "Create unforgettable customer experiences with AI"
+  ],
+  "h2_count": 12,
+  "meta_description": "Automate customer onboarding, route tickets with AI-suggested resolutions, or deploy agents that resolve inquiries. Every workflow visible on a canvas your CX team can trust. Start free.",
+  "canonical": "https://www.make.com/solutions/automate-customer-experience",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 66,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1574
+ },
+ {
+  "url": "https://www.make.com/solutions/automate-marketing",
+  "family": "/solutions/{x}",
+  "status": 200,
+  "title": "AI Marketing Automation | Solutions & Examples | Make",
+  "h1": [
+   "AI marketing automation: Run smarter campaigns at scale"
+  ],
+  "h2_count": 12,
+  "meta_description": "Automate social media, lead processing, and lifecycle marketing. Use AI to generate competitive intelligence briefs and unify campaign reporting. Every workflow visible on a canvas your marketing team can trust. Start free.",
+  "canonical": "https://www.make.com/solutions/automate-marketing",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 76,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1479
+ },
+ {
+  "url": "https://www.make.com/solutions/automate-sales",
+  "family": "/solutions/{x}",
+  "status": 200,
+  "title": "AI Sales Automation | Outreach, Prospecting & Deal Follow-up | Make",
+  "h1": [
+   "AI sales automation: Reps close deals. AI does the rest."
+  ],
+  "h2_count": 12,
+  "meta_description": "Automate your sales workflows: outreach, prospecting, and contracting. Use AI to enrich leads with attribution data. Deploy agents that debrief sales calls and execute follow-ups. Every workflow visible on a canvas your sales team can trust.",
+  "canonical": "https://www.make.com/solutions/automate-sales",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 75,
+  "external_links": 6,
+  "external_domains": {
+   "celonis.com": 1,
+   "facebook.com": 1,
+   "instagram.com": 1,
+   "x.com": 1,
+   "linkedin.com": 1,
+   "youtube.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.facebook.com/itsMakeHQ/",
+   "https://www.instagram.com/itsmakehq/",
+   "https://x.com/make_hq",
+   "https://www.linkedin.com/company/itsmakehq",
+   "https://www.youtube.com/@itsmake"
+  ],
+  "word_count": 1719
+ }
+]

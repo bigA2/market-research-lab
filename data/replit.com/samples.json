@@ -1,0 +1,1594 @@
+[
+ {
+  "url": "https://replit.com/build/app",
+  "family": "/build/{x}",
+  "status": 200,
+  "title": "Build apps with AI | Replit",
+  "h1": [
+   "Build apps with AI"
+  ],
+  "h2_count": 1,
+  "meta_description": "Build any kind of app with Replit Agent4. Browse our library of AI-powered app builders and go from a single prompt to a working app in minutes.",
+  "canonical": "https://replit.com/build/app",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "Person",
+   "SoftwareApplication",
+   "WebApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 28,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 174
+ },
+ {
+  "url": "https://replit.com/build/content-analytics-dashboard",
+  "family": "/build/{x}",
+  "status": 200,
+  "title": "Content Analytics Dashboard: Track ROI with AI | Replit",
+  "h1": [
+   "Content analytics dashboard: beyond pageview counts"
+  ],
+  "h2_count": 11,
+  "meta_description": "Learn to build a content analytics dashboard that tracks pipeline contribution, engagement depth, and content decay from one prompt using Replit Agent4.",
+  "canonical": "https://replit.com/build/content-analytics-dashboard",
+  "meta_robots": null,
+  "schema_types": [
+   "Answer",
+   "Article",
+   "BreadcrumbList",
+   "FAQPage",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "Person",
+   "Question",
+   "SoftwareApplication",
+   "WebApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 17,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 3282
+ },
+ {
+  "url": "https://replit.com/build/venture-capital-pitch-deck",
+  "family": "/build/{x}",
+  "status": 200,
+  "title": "Venture Capital Pitch Deck: Design with AI | Replit",
+  "h1": [
+   "Build a venture capital pitch deck with AI"
+  ],
+  "h2_count": 10,
+  "meta_description": "Learn to build a venture capital pitch deck from one prompt with Replit Agent4, covering traction cohorts, unit economics, and a clear funding ask.",
+  "canonical": "https://replit.com/build/venture-capital-pitch-deck",
+  "meta_robots": null,
+  "schema_types": [
+   "Answer",
+   "Article",
+   "BreadcrumbList",
+   "FAQPage",
+   "ListItem",
+   "Offer",
+   "Organization",
+   "Person",
+   "Question",
+   "SoftwareApplication",
+   "WebApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 16,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 2931
+ },
+ {
+  "url": "https://replit.com/blog/introducing-agent-3-our-most-autonomous-agent-yet",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "Introducing Agent 3: Our Most Autonomous Agent Yet | Replit",
+  "h1": [
+   "Introducing Agent 3: Our Most Autonomous Agent Yet"
+  ],
+  "h2_count": 7,
+  "meta_description": "We\u2019re excited to introduce Agent 3\u2014our most advanced and autonomous Agent yet. Compared to Agent V2, it is a major leap forward. It is 10x more...",
+  "canonical": "https://replit.com/blog/introducing-agent-3-our-most-autonomous-agent-yet",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "BlogPosting",
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "WebPage"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 93,
+  "external_links": 10,
+  "external_domains": {
+   "x.com": 3,
+   "facebook.com": 2,
+   "linkedin.com": 2,
+   "youtube.com": 1,
+   "instagram.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://x.com/intent/tweet?url=https%3A%2F%2Freplit.com%2Fblog%2Fintroducing-agent-3-our-most-autonomous-agent-yet",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freplit.com%2Fblog%2Fintroducing-agent-3-our-most-autonomous-agent-yet",
+   "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Freplit.com%2Fblog%2Fintroducing-agent-3-our-most-autonomous-agent-yet",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1188
+ },
+ {
+  "url": "https://replit.com/blog/bounties-christian-ulstrup-case-study",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "Replit Bounties: The Best Place to Build and | Replit",
+  "h1": [
+   "Replit Bounties: The Best Place to Build and Launch MVPs"
+  ],
+  "h2_count": 10,
+  "meta_description": "\"If I had turnkey access to this liquid, global talent pool in previous product roles, it would have been amazing for developing prototypes and taking...",
+  "canonical": "https://replit.com/blog/bounties-christian-ulstrup-case-study",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "BlogPosting",
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "WebPage"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 95,
+  "external_links": 12,
+  "external_domains": {
+   "linkedin.com": 3,
+   "x.com": 3,
+   "facebook.com": 2,
+   "guinnessworldrecords.com": 1,
+   "youtube.com": 1,
+   "instagram.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.linkedin.com/in/christianulstrup/",
+   "https://x.com/replit",
+   "https://x.com/intent/tweet?url=https%3A%2F%2Freplit.com%2Fblog%2Fbounties-christian-ulstrup-case-study",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freplit.com%2Fblog%2Fbounties-christian-ulstrup-case-study",
+   "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Freplit.com%2Fblog%2Fbounties-christian-ulstrup-case-study",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1199
+ },
+ {
+  "url": "https://replit.com/blog/yc",
+  "family": "/blog/{x}",
+  "status": 200,
+  "title": "Rejected Then Recruited: Our Journey into Y | Replit",
+  "h1": [
+   "Rejected Then Recruited: Our Journey into Y Combinator"
+  ],
+  "h2_count": 7,
+  "meta_description": "\"The intoxicating delight of sudden understanding\"1 best describes what I felt the first time I derived the Y Combinator (guided by the Little Schemer...",
+  "canonical": "https://replit.com/blog/yc",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "BlogPosting",
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "Person",
+   "WebPage"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 93,
+  "external_links": 21,
+  "external_domains": {
+   "twitter.com": 4,
+   "x.com": 3,
+   "paulgraham.com": 2,
+   "amasad.me": 2,
+   "repl.it": 2,
+   "facebook.com": 2,
+   "linkedin.com": 2,
+   "en.wikipedia.org": 1,
+   "youtube.com": 1,
+   "instagram.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://twitter.com/roybahat",
+   "https://twitter.com/amasad",
+   "https://twitter.com/hayaodeh",
+   "https://twitter.com/replit",
+   "https://x.com/replit",
+   "https://x.com/intent/tweet?url=https%3A%2F%2Freplit.com%2Fblog%2Fyc",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freplit.com%2Fblog%2Fyc",
+   "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Freplit.com%2Fblog%2Fyc",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1928
+ },
+ {
+  "url": "https://replit.com/gallery/work/marketing-and-sales/x-monitor",
+  "family": "/gallery/{x}/{x}/{x}",
+  "status": 200,
+  "title": "X Monitor Template - Replit Gallery | Replit",
+  "h1": [
+   "X Monitor Template"
+  ],
+  "h2_count": 8,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/gallery/work/marketing-and-sales/x-monitor",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 102,
+  "external_links": 7,
+  "external_domains": {
+   "x-monitor.replit.app": 1,
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 485
+ },
+ {
+  "url": "https://replit.com/gallery/life/finance/swiftroi",
+  "family": "/gallery/{x}/{x}/{x}",
+  "status": 200,
+  "title": "SwiftROI - Replit Gallery | Replit",
+  "h1": [
+   "SwiftROI"
+  ],
+  "h2_count": 8,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/gallery/life/finance/swiftroi",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 104,
+  "external_links": 7,
+  "external_domains": {
+   "swiftroi.app": 1,
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 520
+ },
+ {
+  "url": "https://replit.com/gallery/work/businesses/ai-sales-agent-slack",
+  "family": "/gallery/{x}/{x}/{x}",
+  "status": 200,
+  "title": "AI Sales Agent (Slack) - Replit Gallery | Replit",
+  "h1": [
+   "AI Sales Agent (Slack)"
+  ],
+  "h2_count": 8,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/gallery/work/businesses/ai-sales-agent-slack",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 104,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 480
+ },
+ {
+  "url": "https://replit.com/blog/author/benton-williams",
+  "family": "/blog/author/{x}",
+  "status": 200,
+  "title": "Benton Williams | Replit",
+  "h1": [
+   "Benton Williams"
+  ],
+  "h2_count": 4,
+  "meta_description": "Explore past articles from Benton Williams and find more information about their background, expertise, and work at Replit.",
+  "canonical": "https://replit.com/blog/author/benton-williams",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "ProfilePage"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 87,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 201
+ },
+ {
+  "url": "https://replit.com/blog/author/barron-webster",
+  "family": "/blog/author/{x}",
+  "status": 200,
+  "title": "Barron Webster | Replit",
+  "h1": [
+   "Barron Webster"
+  ],
+  "h2_count": 4,
+  "meta_description": "Design manager, digital janitor, enya appreciator.",
+  "canonical": "https://replit.com/blog/author/barron-webster",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "ProfilePage"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 92,
+  "external_links": 7,
+  "external_domains": {
+   "barronwebster.com": 1,
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 244
+ },
+ {
+  "url": "https://replit.com/blog/author/edsioufi",
+  "family": "/blog/author/{x}",
+  "status": 200,
+  "title": "Ed Sioufi | Replit",
+  "h1": [
+   "Ed Sioufi"
+  ],
+  "h2_count": 4,
+  "meta_description": "Explore past articles from Ed Sioufi and find more information about their background, expertise, and work at Replit.",
+  "canonical": "https://replit.com/blog/author/edsioufi",
+  "meta_robots": null,
+  "schema_types": [
+   "ContactPoint",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "ProfilePage"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 87,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 205
+ },
+ {
+  "url": "https://replit.com/discover/replit-for-customer-support",
+  "family": "/discover/{x}",
+  "status": 200,
+  "title": "Replit for Support and Customer Operations | Replit",
+  "h1": [
+   "Get customers unstuck faster."
+  ],
+  "h2_count": 6,
+  "meta_description": "Build the triage tools your support team needs: a clearer queue, better routing and faster resolutions. See how Replit's own team cut resolution time by 60%.",
+  "canonical": "https://replit.com/discover/replit-for-customer-support",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "SearchAction",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 6,
+  "external_links": 0,
+  "external_domains": {},
+  "social_and_store_links": [],
+  "word_count": 437
+ },
+ {
+  "url": "https://replit.com/discover/how-to-shuffle-a-list-in-python",
+  "family": "/discover/{x}",
+  "status": 200,
+  "title": "How to shuffle a list in Python | Replit",
+  "h1": [
+   "How to shuffle a list in Python"
+  ],
+  "h2_count": 9,
+  "meta_description": "Discover how to shuffle a list in Python. This guide covers different methods, tips, real-world applications, and debugging common errors.",
+  "canonical": "https://replit.com/discover/how-to-shuffle-a-list-in-python",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "BlogPosting",
+   "BreadcrumbList",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "SearchAction",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 14,
+  "external_links": 3,
+  "external_domains": {
+   "x.com": 2,
+   "facebook.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://x.com/intent/tweet?url=https%3A%2F%2Freplit.com%2Fdiscover%2Fhow-to-shuffle-a-list-in-python&text=How%20to%20shuffle%20a%20list%20in%20Python",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freplit.com%2Fdiscover%2Fhow-to-shuffle-a-list-in-python"
+  ],
+  "word_count": 2530
+ },
+ {
+  "url": "https://replit.com/discover/vercel-alternatives",
+  "family": "/discover/{x}",
+  "status": 200,
+  "title": "Top Vercel Alternatives for Web Hosting | Replit",
+  "h1": [
+   "Vercel alternatives: 12 hosting platforms for web devs in 2026"
+  ],
+  "h2_count": 8,
+  "meta_description": "Explore Vercel's competitors in 2026. These hosting platforms offer speed, reliability and innovative features to enhance your web devprojects.",
+  "canonical": "https://replit.com/discover/vercel-alternatives",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "BlogPosting",
+   "BreadcrumbList",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "SearchAction",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 12,
+  "external_links": 10,
+  "external_domains": {
+   "x.com": 2,
+   "netlify.com": 1,
+   "railway.app": 1,
+   "render.com": 1,
+   "fly.io": 1,
+   "aws.amazon.com": 1,
+   "pages.cloudflare.com": 1,
+   "digitalocean.com": 1,
+   "facebook.com": 1
+  },
+  "social_and_store_links": [
+   "https://aws.amazon.com/amplify/",
+   "https://x.com/replit",
+   "https://x.com/intent/tweet?url=https%3A%2F%2Freplit.com%2Fdiscover%2Fvercel-alternatives&text=Vercel%20alternatives%3A%2012%20hosting%20platforms%20for%20web%20devs%20in%202026",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freplit.com%2Fdiscover%2Fvercel-alternatives"
+  ],
+  "word_count": 993
+ },
+ {
+  "url": "https://replit.com/languages/clojure",
+  "family": "/languages/{x}",
+  "status": 200,
+  "title": "AI App and Website Builder | Replit",
+  "h1": [
+   "What will you build?"
+  ],
+  "h2_count": 8,
+  "meta_description": "Describe what you want. Replit builds it. Get a working app or website in minutes. No coding required.",
+  "canonical": "https://replit.com/",
+  "meta_robots": null,
+  "schema_types": [
+   "Organization",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 88,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1409
+ },
+ {
+  "url": "https://replit.com/languages/python_turtle",
+  "family": "/languages/{x}",
+  "status": 200,
+  "title": "AI App and Website Builder | Replit",
+  "h1": [
+   "What will you build?"
+  ],
+  "h2_count": 8,
+  "meta_description": "Describe what you want. Replit builds it. Get a working app or website in minutes. No coding required.",
+  "canonical": "https://replit.com/",
+  "meta_robots": null,
+  "schema_types": [
+   "Organization",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 88,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1409
+ },
+ {
+  "url": "https://replit.com/languages/javascript",
+  "family": "/languages/{x}",
+  "status": 200,
+  "title": "AI App and Website Builder | Replit",
+  "h1": [
+   "What will you build?"
+  ],
+  "h2_count": 8,
+  "meta_description": "Describe what you want. Replit builds it. Get a working app or website in minutes. No coding required.",
+  "canonical": "https://replit.com/",
+  "meta_robots": null,
+  "schema_types": [
+   "Organization",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 88,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1409
+ },
+ {
+  "url": "https://replit.com/guides/slackbot-quickstart",
+  "family": "/guides/{x}",
+  "status": 200,
+  "title": "Slackbot Quickstart Guide | Replit",
+  "h1": [
+   "Introduction #",
+   "Getting started #",
+   "Create new app #",
+   "Use the manifest file #",
+   "Install to workspace #",
+   "Add secrets #",
+   "Running your bot #",
+   "Deploy your bot #",
+   "What's next #"
+  ],
+  "h2_count": 5,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/guides/slackbot-quickstart",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 96,
+  "external_links": 10,
+  "external_domains": {
+   "api.slack.com": 4,
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 857
+ },
+ {
+  "url": "https://replit.com/guides/ai-sdr-slack-part2-bot-email-enrichment",
+  "family": "/guides/{x}",
+  "status": 200,
+  "title": "How to Build an AI Sales Development | Replit",
+  "h1": [],
+  "h2_count": 10,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/guides/ai-sdr-slack-part2-bot-email-enrichment",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 101,
+  "external_links": 9,
+  "external_domains": {
+   "linkedin.com": 2,
+   "platform.openai.com": 1,
+   "clay.com": 1,
+   "x.com": 1,
+   "youtube.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://www.linkedin.com/in/horacio-lopez/",
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 975
+ },
+ {
+  "url": "https://replit.com/guides/gpt-4o-quickstart-guide",
+  "family": "/guides/{x}",
+  "status": 200,
+  "title": "GPT-4o Quickstart Guide | Replit",
+  "h1": [
+   "Introduction #",
+   "Getting started #",
+   "Explaining the code #"
+  ],
+  "h2_count": 13,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/guides/gpt-4o-quickstart-guide",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 96,
+  "external_links": 9,
+  "external_domains": {
+   "platform.openai.com": 2,
+   "openai.com": 1,
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 734
+ },
+ {
+  "url": "https://replit.com/@replit/Python",
+  "family": "/{@user}/{x}",
+  "status": 200,
+  "title": "Python - Replit",
+  "h1": [
+   "Python"
+  ],
+  "h2_count": 4,
+  "meta_description": "Python is a high-level, interpreted, general-purpose programming language. ",
+  "canonical": "https://replit.com/@replit/Python",
+  "meta_robots": "noindex",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 83,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 215
+ },
+ {
+  "url": "https://replit.com/@replit/Kotlin",
+  "family": "/{@user}/{x}",
+  "status": 200,
+  "title": "Kotlin - Replit",
+  "h1": [
+   "Kotlin"
+  ],
+  "h2_count": 4,
+  "meta_description": "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.",
+  "canonical": "https://replit.com/@replit/Kotlin",
+  "meta_robots": "noindex",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 83,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 219
+ },
+ {
+  "url": "https://replit.com/@replit/Tcl",
+  "family": "/{@user}/{x}",
+  "status": 200,
+  "title": "Tcl - Replit",
+  "h1": [
+   "Tcl"
+  ],
+  "h2_count": 4,
+  "meta_description": "A high-level language designed with the goal of being very simple but powerful",
+  "canonical": "https://replit.com/@replit/Tcl",
+  "meta_robots": "noindex",
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 83,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 219
+ },
+ {
+  "url": "https://replit.com/gallery/work/sales",
+  "family": "/gallery/{x}/{x}",
+  "status": 200,
+  "title": "Sales - Replit Gallery | Replit",
+  "h1": [
+   "Apps for Sales Teams"
+  ],
+  "h2_count": 4,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/gallery/work/sales",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 107,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 424
+ },
+ {
+  "url": "https://replit.com/gallery/work/work-landing-page",
+  "family": "/gallery/{x}/{x}",
+  "status": 200,
+  "title": "Landing Page - Replit Gallery | Replit",
+  "h1": [
+   "Landing Page App"
+  ],
+  "h2_count": 4,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/gallery/work/work-landing-page",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 107,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 399
+ },
+ {
+  "url": "https://replit.com/gallery/life/entertainment",
+  "family": "/gallery/{x}/{x}",
+  "status": 200,
+  "title": "Entertainment - Replit Gallery | Replit",
+  "h1": [
+   "Entertainment App"
+  ],
+  "h2_count": 4,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/gallery/life/entertainment",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 104,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 332
+ },
+ {
+  "url": "https://replit.com/customers/leatherman",
+  "family": "/customers/{x}",
+  "status": 200,
+  "title": "Leatherman: 119 Apps From 147 Employees | Replit",
+  "h1": [
+   "Builders, building their own tools."
+  ],
+  "h2_count": 7,
+  "meta_description": "Leatherman Tool Group turned 147 employees into builders, publishing 119 apps in under six months. How a hardware company sparked a software culture on Replit.",
+  "canonical": "https://replit.com/customers/leatherman",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "Article",
+   "BreadcrumbList",
+   "EntryPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "RegisterAction",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 2,
+  "external_links": 1,
+  "external_domains": {
+   "leatherman.com": 1
+  },
+  "social_and_store_links": [],
+  "word_count": 725
+ },
+ {
+  "url": "https://replit.com/customers/saastr",
+  "family": "/customers/{x}",
+  "status": 200,
+  "title": "SaaStr: 7 Apps in Production in 3 Months | Replit",
+  "h1": [
+   "Jason Lemkin Transforms SaaStr with Replit: 7 Apps in production in 3 Months"
+  ],
+  "h2_count": 6,
+  "meta_description": "Jason Lemkin rebuilt how SaaStr operates: seven revenue-supporting apps shipped to production in three months, built on Replit instead of hiring developers.",
+  "canonical": "https://replit.com/customers/saastr",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "Article",
+   "BreadcrumbList",
+   "EntryPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "RegisterAction",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 2,
+  "external_links": 1,
+  "external_domains": {
+   "saastr.com": 1
+  },
+  "social_and_store_links": [],
+  "word_count": 1605
+ },
+ {
+  "url": "https://replit.com/customers/helix-electric",
+  "family": "/customers/{x}",
+  "status": 200,
+  "title": "Helix Electric: Purpose-Built Apps for 4,000+ Staff | Replit",
+  "h1": [
+   "How Helix Electric Unlocked Hours of Productivity with Replit"
+  ],
+  "h2_count": 6,
+  "meta_description": "One of the largest U.S. electrical contractors built a suite of apps on Replit \u2014 saving thousands of hours and catching compliance risk before it costs money.",
+  "canonical": "https://replit.com/customers/helix-electric",
+  "meta_robots": "index, follow",
+  "schema_types": [
+   "Article",
+   "BreadcrumbList",
+   "EntryPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "RegisterAction",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 2,
+  "external_links": 1,
+  "external_domains": {
+   "helixelectric.com": 1
+  },
+  "social_and_store_links": [],
+  "word_count": 1137
+ },
+ {
+  "url": "https://replit.com/usecases/canvas",
+  "family": "/usecases/{x}",
+  "status": 200,
+  "title": "AI Design Tool | Replit",
+  "h1": [
+   "Create stunning designs with AI"
+  ],
+  "h2_count": 6,
+  "meta_description": "Start from an idea, a screenshot, or an existing brand. Get a professional design you can use on its own or turn into a working app.",
+  "canonical": "https://replit.com/design",
+  "meta_robots": null,
+  "schema_types": [],
+  "hreflang_count": 0,
+  "internal_links": 82,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 318
+ },
+ {
+  "url": "https://replit.com/usecases/customers",
+  "family": "/usecases/{x}",
+  "status": 200,
+  "title": "Customer Showcase | Replit",
+  "h1": [],
+  "h2_count": 4,
+  "meta_description": "Replit is an AI-driven software creation platform where everyone can build, share, and ship apps and websites, fast.",
+  "canonical": "https://replit.com/usecases/customers",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 88,
+  "external_links": 31,
+  "external_domains": {
+   "x.com": 22,
+   "podnudge.com": 1,
+   "lowcarbpdf.com": 1,
+   "wordleap.co.uk": 1,
+   "wiblet.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/tobi/status/1906008607780401537",
+   "https://x.com/anshulix/status/1905539955386204417?s=46&t=gKNa0lVtIx-gPVSPHLSzVg",
+   "https://x.com/awilkinson/status/1908882050435997973",
+   "https://x.com/yoheinakajima/status/1905745818457723117?s=46&t=gKNa0lVtIx-gPVSPHLSzVg",
+   "https://x.com/alfaris_ai/status/1905578391706702302?s=46&t=gKNa0lVtIx-gPVSPHLSzVg",
+   "https://x.com/zarazhangrui/status/1906179297754444269?s=46&t=taeCzvTnMKWi15yCtA40FA",
+   "https://x.com/kevin_badii/status/1903604613238202777?s=46&t=gKNa0lVtIx-gPVSPHLSzVg",
+   "https://x.com/ellenjdasilva/status/1906821146827186349?s=12",
+   "https://x.com/akshay_ranjith/status/1908802136630046896?s=46&t=gKNa0lVtIx-gPVSPHLSzVg",
+   "https://x.com/alex_prompter/status/1909244989168566688?s=46&t=gKNa0lVtIx-gPVSPHLSzVg",
+   "https://x.com/elder_deagle/status/1911110547313246249?s=46&t=gKNa0lVtIx-gPVSPHLSzVg",
+   "https://x.com/__mister__l/status/1909524681062793637?s=46",
+   "https://x.com/JosephAbehsera/status/1917029551063892470",
+   "https://x.com/AllAboutJoeX/status/1904350904293462038",
+   "https://x.com/stillnotdoneyet/status/1908603892167815432",
+   "https://x.com/TomDavenport/status/1900889515629191311",
+   "https://x.com/itsPaulAi/status/1862183461542666639",
+   "https://x.com/Replit/status/1907795305828941854",
+   "https://x.com/chrisbrownridge/status/1915464061166510374",
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1233
+ },
+ {
+  "url": "https://replit.com/usecases/ai-app-builder",
+  "family": "/usecases/{x}",
+  "status": 200,
+  "title": "AI App Builder to Create Apps Without Coding | Replit",
+  "h1": [
+   "The AI app builder for teams with more ideas than developers. What will you ship?"
+  ],
+  "h2_count": 8,
+  "meta_description": "Replit is an AI app builder that turns prompts into real apps, websites, and Android or iOS apps. No coding required. Just describe your idea and publish.",
+  "canonical": "https://replit.com/usecases/ai-app-builder",
+  "meta_robots": null,
+  "schema_types": [
+   "Answer",
+   "BreadcrumbList",
+   "ContactPoint",
+   "FAQPage",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "Question",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 89,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 638
+ },
+ {
+  "url": "https://replit.com/blog/category/builder-spotlight",
+  "family": "/blog/category/{x}",
+  "status": 200,
+  "title": "Builder Spotlight | Replit",
+  "h1": [],
+  "h2_count": 20,
+  "meta_description": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
+  "canonical": "https://replit.com/blog/category/builder-spotlight",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "CollectionPage",
+   "ContactPoint",
+   "ImageObject",
+   "Organization"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 115,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 2567
+ },
+ {
+  "url": "https://replit.com/blog/category/events",
+  "family": "/blog/category/{x}",
+  "status": 200,
+  "title": "Events | Replit",
+  "h1": [],
+  "h2_count": 20,
+  "meta_description": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
+  "canonical": "https://replit.com/blog/category/events",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "CollectionPage",
+   "ContactPoint",
+   "ImageObject",
+   "Organization"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 112,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 2623
+ },
+ {
+  "url": "https://replit.com/blog/category/ventures",
+  "family": "/blog/category/{x}",
+  "status": 200,
+  "title": "Ventures | Replit",
+  "h1": [],
+  "h2_count": 20,
+  "meta_description": "Stay updated with the latest Replit product releases, events, and other news. Learn about how we ship new features, design, and engineering.",
+  "canonical": "https://replit.com/blog/category/ventures",
+  "meta_robots": null,
+  "schema_types": [
+   "Blog",
+   "CollectionPage",
+   "ContactPoint",
+   "ImageObject",
+   "Organization"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 115,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 2681
+ },
+ {
+  "url": "https://replit.com/products/giftcard",
+  "family": "/products/{x}",
+  "status": 404
+ },
+ {
+  "url": "https://replit.com/products/mobile",
+  "family": "/products/{x}",
+  "status": 200,
+  "title": "Build Websites & Apps from Your Phone | Replit",
+  "h1": [
+   "Vibe code from your phone. Join 50M+ builders on Replit."
+  ],
+  "h2_count": 5,
+  "meta_description": "Easily build and publish websites and apps from the palm of your hand. Start on your phone, make changes anywhere, and continue on desktop.",
+  "canonical": "https://replit.com/products/mobile",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 86,
+  "external_links": 10,
+  "external_domains": {
+   "play.google.com": 2,
+   "apps.apple.com": 2,
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://play.google.com/store/apps/details?id=com.replit.app",
+   "https://apps.apple.com/us/app/replit-code-anything/id1614022293",
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 360
+ },
+ {
+  "url": "https://replit.com/products/deployments",
+  "family": "/products/{x}",
+  "status": 200,
+  "title": "Web App Hosting & Deployment | Replit",
+  "h1": [
+   "Publishing made easy"
+  ],
+  "h2_count": 5,
+  "meta_description": "Deploy and host web apps on Replit. Publish static sites, scale with demand, or use dedicated resources without managing separate infrastructure.",
+  "canonical": "https://replit.com/products/deployments",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "SoftwareApplication",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 88,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 338
+ },
+ {
+  "url": "https://replit.com/news/jordan-government",
+  "family": "/news/{x}",
+  "status": 200,
+  "title": "Jordan Launches Siraj AI Learning Assistant | Replit",
+  "h1": [
+   "Government of Jordan Collaborates With Replit to Launch \u201cSiraj\u201d \u2014 An AI-Powered Learning Assistant Transforming Education"
+  ],
+  "h2_count": 4,
+  "meta_description": "See how Jordan built Siraj on Replit in under a month, bringing curriculum-aligned AI support to over 100,000 students and teachers.",
+  "canonical": "https://replit.com/news/jordan-government",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 86,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 658
+ },
+ {
+  "url": "https://replit.com/news/funding-announcement",
+  "family": "/news/{x}",
+  "status": 200,
+  "title": "Replit Raises $400M at a $9B Valuation | Replit",
+  "h1": [
+   "Meet The $9 Billion AI Company Reimagining Vibe Coding"
+  ],
+  "h2_count": 5,
+  "meta_description": "Learn how Replit\u2019s $400M funding round, $9B valuation, and Agent 4 launch support its push to make software creation accessible to more people.",
+  "canonical": "https://replit.com/news/funding-announcement",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 87,
+  "external_links": 9,
+  "external_domains": {
+   "x.com": 2,
+   "forbes.com": 2,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/paulg/status/2028342817727426732",
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 1924
+ },
+ {
+  "url": "https://replit.com/news/replit-opens-london-office",
+  "family": "/news/{x}",
+  "status": 200,
+  "title": "Replit Opens First International Office in London | Replit",
+  "h1": [
+   "Replit Opens First International Office in London"
+  ],
+  "h2_count": 4,
+  "meta_description": "Replit opens its first international office in London, expanding its European presence and partnering to help young people build AI skills.",
+  "canonical": "https://replit.com/news/replit-opens-london-office",
+  "meta_robots": null,
+  "schema_types": [
+   "BreadcrumbList",
+   "ContactPoint",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "hreflang_count": 0,
+  "internal_links": 87,
+  "external_links": 6,
+  "external_domains": {
+   "x.com": 1,
+   "youtube.com": 1,
+   "linkedin.com": 1,
+   "instagram.com": 1,
+   "facebook.com": 1,
+   "tiktok.com": 1
+  },
+  "social_and_store_links": [
+   "https://x.com/replit",
+   "https://www.youtube.com/@replit",
+   "https://www.linkedin.com/company/repl-it/",
+   "https://www.instagram.com/replit",
+   "https://www.facebook.com/replit/",
+   "https://www.tiktok.com/@replit"
+  ],
+  "word_count": 881
+ }
+]

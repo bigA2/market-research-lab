@@ -1,0 +1,37 @@
+{
+ "url": "https://make.com/",
+ "title": "AI Workflow Automation Software & Tools | Make",
+ "h1": [
+  "Build and manage AI agents and automations in one visual landscape"
+ ],
+ "h2_count": 16,
+ "meta_description": "Automate your work. Make allows you to visually build, scale and automate AI and agentic workflows. User friendly no-code integration tool. Try it now for free!",
+ "canonical": "https://www.make.com",
+ "meta_robots": null,
+ "schema_types": [
+  "ContactPoint",
+  "ImageObject",
+  "Organization",
+  "WebPage",
+  "WebSite"
+ ],
+ "hreflang_count": 0,
+ "internal_links": 58,
+ "external_links": 6,
+ "external_domains": {
+  "celonis.com": 1,
+  "facebook.com": 1,
+  "instagram.com": 1,
+  "x.com": 1,
+  "linkedin.com": 1,
+  "youtube.com": 1
+ },
+ "social_and_store_links": [
+  "https://www.facebook.com/itsMakeHQ/",
+  "https://www.instagram.com/itsmakehq/",
+  "https://x.com/make_hq",
+  "https://www.linkedin.com/company/itsmakehq",
+  "https://www.youtube.com/@itsmake"
+ ],
+ "word_count": 794
+}

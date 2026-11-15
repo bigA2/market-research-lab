@@ -1,0 +1,20 @@
+url,ok,kind,count,error
+https://replit.com/sitemap.xml,True,index,3,
+https://replit.com/marketing-sitemap/repls-on-replit-sitemap-index.xml,True,index,14,
+https://replit.com/sitemaps/main.xml,True,urlset,105,
+https://replit.com/marketing-sitemap/sitemap.xml,True,urlset,358,
+https://replit.com/blog/sitemap.xml,True,urlset,563,
+https://replit.com/help/sitemap.xml,True,urlset,0,
+https://replit.com/careers/sitemap.xml,False,,0,empty or not fetched
+https://replit.com/enterprise/sitemap.xml,False,,0,empty or not fetched
+https://replit.com/lp/sitemap.xml,True,urlset,0,
+https://replit.com/partners/sitemap.xml,False,,0,empty or not fetched
+https://replit.com/build/sitemap.xml,True,urlset,477,
+https://replit.com/discover/sitemap.xml,True,urlset,85,
+https://replit.com/growth-kit/sitemap.xml,True,urlset,0,
+https://replit.com/industries/government/sitemap.xml,True,urlset,0,
+https://replit.com/customers/sitemap.xml,True,urlset,21,
+https://replit.com/startups/sitemap.xml,True,urlset,0,
+https://replit.com/racetorevenue/sitemap.xml,True,urlset,0,
+https://replit.com/edu/sitemap.xml,True,urlset,3,
+https://replit.com/community/sitemap.xml,True,urlset,0,

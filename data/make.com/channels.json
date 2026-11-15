@@ -1,0 +1,316 @@
+[
+ {
+  "path": "/pricing",
+  "url": "https://make.com/pricing",
+  "status": 200,
+  "title": "Pricing & Subscription Packages | Make",
+  "h1": "Plans that grow with you",
+  "word_count": 1437,
+  "meta_description": "Choose the perfect plan for your needs. Whether you're new to automation or using it to run your entire business, there's a plan for you."
+ },
+ {
+  "path": "/enterprise",
+  "url": "https://make.com/enterprise",
+  "status": 403,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/affiliates",
+  "url": "https://make.com/affiliates",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/affiliate",
+  "url": "https://make.com/affiliate",
+  "status": 200,
+  "title": "Become a Make Affiliate | Make",
+  "h1": "Become a Make affiliate",
+  "word_count": 1131,
+  "meta_description": "Get paid to promote Make and help other creators innovate without limits. Join our affiliate program and get started today!"
+ },
+ {
+  "path": "/partners",
+  "url": "https://make.com/partners",
+  "status": 200,
+  "title": "Become Partner | Make",
+  "h1": "Partner up with Make and grow faster than ever",
+  "word_count": 598,
+  "meta_description": "We offer five partnership programs to suit your needs. Find the best one for you and enjoy the benefits of partnering with Make. Register today!"
+ },
+ {
+  "path": "/partner-program",
+  "url": "https://make.com/partner-program",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/experts",
+  "url": "https://make.com/experts",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/community",
+  "url": "https://make.com/community",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/developers",
+  "url": "https://make.com/developers",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/developer-platform",
+  "url": "https://make.com/developer-platform",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/marketplace",
+  "url": "https://make.com/marketplace",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/templates",
+  "url": "https://make.com/templates",
+  "status": 200,
+  "title": "Workflow Automation Templates | Make",
+  "h1": "Templates",
+  "word_count": 1706,
+  "meta_description": "Browse over 7000 of ready-made automated workflow templates that will help you save time and scale your business."
+ },
+ {
+  "path": "/integrations",
+  "url": "https://make.com/integrations",
+  "status": 200,
+  "title": "3,500+ Integration Apps | Connect & Automate Software | Make",
+  "h1": "Integrations",
+  "word_count": 1821,
+  "meta_description": "Explore over 3,500 apps \u2713 Integrate your tools and software in Make \u2713 More than just no code automation \u2713 Visual platform \u2713 Get started free \u2713"
+ },
+ {
+  "path": "/apps",
+  "url": "https://make.com/apps",
+  "status": 403,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/blog",
+  "url": "https://make.com/blog",
+  "status": 200,
+  "title": "Blog | Latest Updates & Workflow Automation Guides | Make",
+  "h1": "Featured blog posts",
+  "word_count": 1116,
+  "meta_description": "Get the latest Make updates, and uncover the best practices on productivity and workflow automation. Visit our blog."
+ },
+ {
+  "path": "/learn",
+  "url": "https://make.com/learn",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/academy",
+  "url": "https://make.com/academy",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/university",
+  "url": "https://make.com/university",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/events",
+  "url": "https://make.com/events",
+  "status": 200,
+  "title": "Events | Make",
+  "h1": "Waves '26 Recap",
+  "word_count": 647,
+  "meta_description": "Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!"
+ },
+ {
+  "path": "/webinars",
+  "url": "https://make.com/webinars",
+  "status": 200,
+  "title": "Webinar | Make",
+  "h1": "Recent webinars",
+  "word_count": 1067,
+  "meta_description": "Automate your work. Make allows you to visually create, build and automate workflows. User friendly no-code integration tool. Try it now for free!"
+ },
+ {
+  "path": "/customers",
+  "url": "https://make.com/customers",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/referral",
+  "url": "https://make.com/referral",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/refer",
+  "url": "https://make.com/refer",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/bounties",
+  "url": "https://make.com/bounties",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/careers",
+  "url": "https://make.com/careers",
+  "status": 200,
+  "title": "Careers | Join Our Team | Make",
+  "h1": "Career at Make",
+  "word_count": 1511,
+  "meta_description": "Explore our open positions, and join us on our mission to empower people to create, build, and innovate without limits."
+ },
+ {
+  "path": "/compare",
+  "url": "https://make.com/compare",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/alternatives",
+  "url": "https://make.com/alternatives",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/vs",
+  "url": "https://make.com/vs",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/solutions",
+  "url": "https://make.com/solutions",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/use-cases",
+  "url": "https://make.com/use-cases",
+  "status": 200,
+  "title": "How-to Guides | Make",
+  "h1": "Recent how to guides",
+  "word_count": 1220,
+  "meta_description": "From tasks and workflows to apps and systems, Make is where you create and automate at the speed of your ideas. Visit our use cases page."
+ },
+ {
+  "path": "/ai",
+  "url": "https://make.com/ai",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/agents",
+  "url": "https://make.com/agents",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/mobile",
+  "url": "https://make.com/mobile",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/download",
+  "url": "https://make.com/download",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/startups",
+  "url": "https://make.com/startups",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/education",
+  "url": "https://make.com/education",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/students",
+  "url": "https://make.com/students",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/nonprofits",
+  "url": "https://make.com/nonprofits",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/gallery",
+  "url": "https://make.com/gallery",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/showcase",
+  "url": "https://make.com/showcase",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/changelog",
+  "url": "https://make.com/changelog",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/status",
+  "url": "https://make.com/status",
+  "status": 404,
+  "title": null,
+  "h1": null
+ }
+]

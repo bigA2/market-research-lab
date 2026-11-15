@@ -1,0 +1,15 @@
+template,count,section,localized,examples
+/build/{x},476,other,0,https://replit.com/build/app https://replit.com/build/content-analytics-dashboard https://replit.com/build/venture-capital-pitch-deck
+/blog/{x},382,blog,0,https://replit.com/blog/introducing-agent-3-our-most-autonomous-agent-yet https://replit.com/blog/bounties-christian-ulstrup-case-study https://replit.com/blog/yc
+/gallery/{x}/{x}/{x},198,templates,0,https://replit.com/gallery/work/marketing-and-sales/x-monitor https://replit.com/gallery/life/finance/swiftroi https://replit.com/gallery/work/businesses/ai-sales-agent-slack
+/blog/author/{x},163,blog,0,https://replit.com/blog/author/benton-williams https://replit.com/blog/author/barron-webster https://replit.com/blog/author/edsioufi
+/discover/{x},84,other,0,https://replit.com/discover/replit-for-customer-support https://replit.com/discover/how-to-shuffle-a-list-in-python https://replit.com/discover/vercel-alternatives
+/languages/{x},55,other,0,https://replit.com/languages/clojure https://replit.com/languages/python_turtle https://replit.com/languages/javascript
+/guides/{x},39,academy_learn,0,https://replit.com/guides/slackbot-quickstart https://replit.com/guides/ai-sdr-slack-part2-bot-email-enrichment https://replit.com/guides/gpt-4o-quickstart-guide
+/{@user}/{x},30,user_generated,0,https://replit.com/@replit/Python https://replit.com/@replit/Kotlin https://replit.com/@replit/Tcl
+/gallery/{x}/{x},21,templates,0,https://replit.com/gallery/work/sales https://replit.com/gallery/work/work-landing-page https://replit.com/gallery/life/entertainment
+/customers/{x},20,customers,0,https://replit.com/customers/leatherman https://replit.com/customers/saastr https://replit.com/customers/helix-electric
+/usecases/{x},19,other,0,https://replit.com/usecases/canvas https://replit.com/usecases/customers https://replit.com/usecases/ai-app-builder
+/blog/category/{x},17,blog,0,https://replit.com/blog/category/builder-spotlight https://replit.com/blog/category/events https://replit.com/blog/category/ventures
+/products/{x},6,use_cases_solutions,0,https://replit.com/products/giftcard https://replit.com/products/mobile https://replit.com/products/deployments
+/news/{x},5,blog,0,https://replit.com/news/jordan-government https://replit.com/news/funding-announcement https://replit.com/news/replit-opens-london-office

@@ -1,0 +1,35 @@
+{
+ "url": "https://replit.com/",
+ "title": "AI App and Website Builder | Replit",
+ "h1": [
+  "What will you build?"
+ ],
+ "h2_count": 8,
+ "meta_description": "Describe what you want. Replit builds it. Get a working app or website in minutes. No coding required.",
+ "canonical": "https://replit.com/",
+ "meta_robots": null,
+ "schema_types": [
+  "Organization",
+  "WebSite"
+ ],
+ "hreflang_count": 0,
+ "internal_links": 88,
+ "external_links": 6,
+ "external_domains": {
+  "x.com": 1,
+  "youtube.com": 1,
+  "linkedin.com": 1,
+  "instagram.com": 1,
+  "facebook.com": 1,
+  "tiktok.com": 1
+ },
+ "social_and_store_links": [
+  "https://x.com/replit",
+  "https://www.youtube.com/@replit",
+  "https://www.linkedin.com/company/repl-it/",
+  "https://www.instagram.com/replit",
+  "https://www.facebook.com/replit/",
+  "https://www.tiktok.com/@replit"
+ ],
+ "word_count": 1409
+}
