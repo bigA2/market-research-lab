@@ -1,0 +1,331 @@
+{
+ "domain": "zapier.com",
+ "generated_at": "2026-11-15T08:18:03Z",
+ "robots_status": 200,
+ "robots_sitemaps": [
+  "https://zapier.com/uag6x9zaeydnbfy75xsggcsb37h8cgzf-two-service-sitemap.xml",
+  "https://zapier.com/uag6x9zaeydnbfy75xsggcsb37h8cgzf-one-service-sitemap.xml",
+  "https://zapier.com/sitemaps/zap-templates/LZB2XiWzbJFggRYdnRGwcoAgEkTnHHEh",
+  "https://zapier.com/blog/sitemap.xml",
+  "https://zapier.com/uag6x9zaeydnbfy75xsggcsb37h8cgzf-sitemap.xml",
+  "https://zapier.com/uag6x9zaeydnbfy75xsggcsb37h8cgzf-static-sitemap.xml",
+  "https://zapier.com/agents/sitemap.xml",
+  "https://zapier.com/automation/sitemap.xml",
+  "https://zapier.com/marketing/sitemap.xml",
+  "https://zapier.com/automations/sitemap-automations.xml"
+ ],
+ "crawl_delay_used": 1.0,
+ "sitemaps_fetched": 332,
+ "sitemaps_failed": 0,
+ "urls_total": 424984,
+ "urls_capped": false,
+ "localized_urls": 0,
+ "sections": {
+  "integrations": 260472,
+  "other": 153597,
+  "blog": 6252,
+  "legal": 2584,
+  "community": 1664,
+  "academy_learn": 211,
+  "use_cases_solutions": 119,
+  "templates": 58,
+  "landing": 15,
+  "careers": 3,
+  "partners_experts_affiliates": 3,
+  "home": 2,
+  "docs": 2,
+  "customers": 1,
+  "pricing": 1
+ },
+ "family_count": 44,
+ "families": [
+  {
+   "template": "/apps/{x}/integrations/{x}",
+   "count": 146879,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/automations/{x}/{x}/{x}/{x}",
+   "count": 128109,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/integrations/{x}/{x}/{x}",
+   "count": 101564,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/integrations",
+   "count": 10114,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/mcp/{x}",
+   "count": 10114,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/find-apps/{x}/{x}",
+   "count": 8456,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/automation/{x}/{x}",
+   "count": 6080,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/blog/{x}",
+   "count": 3870,
+   "section": "blog",
+   "localized": 0
+  },
+  {
+   "template": "/automations/legal/{x}/{x}/{x}",
+   "count": 2515,
+   "section": "legal",
+   "localized": 0
+  },
+  {
+   "template": "/blog/{x}/{x}/{x}",
+   "count": 2370,
+   "section": "blog",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/integrations/ai",
+   "count": 1180,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/find-apps/c/{x}",
+   "count": 890,
+   "section": "community",
+   "localized": 0
+  },
+  {
+   "template": "/find-apps/t/{x}",
+   "count": 622,
+   "section": "community",
+   "localized": 0
+  },
+  {
+   "template": "/automations/{x}/{x}/{x}",
+   "count": 544,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/integrations/agents",
+   "count": 237,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/apps/ai/integrations/{x}/{x}/{x}",
+   "count": 233,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/learn/{x}/{x}",
+   "count": 177,
+   "section": "academy_learn",
+   "localized": 0
+  },
+  {
+   "template": "/automations/{x}/{x}",
+   "count": 149,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/find-apps/u/{x}",
+   "count": 146,
+   "section": "community",
+   "localized": 0
+  },
+  {
+   "template": "/agents/templates/{x}",
+   "count": 100,
+   "section": "use_cases_solutions",
+   "localized": 0
+  },
+  {
+   "template": "/apps/categories/{x}",
+   "count": 96,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/automation/{x}",
+   "count": 74,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/apps/agents/integrations/{x}/{x}/{x}",
+   "count": 57,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/interfaces/{x}/templates",
+   "count": 46,
+   "section": "templates",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/{x}",
+   "count": 31,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/legal/{x}",
+   "count": 29,
+   "section": "legal",
+   "localized": 0
+  },
+  {
+   "template": "/automations/legal/{x}/{x}",
+   "count": 26,
+   "section": "legal",
+   "localized": 0
+  },
+  {
+   "template": "/find-apps/{x}",
+   "count": 24,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/l/{x}",
+   "count": 23,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/learn/how-to/{x}",
+   "count": 17,
+   "section": "academy_learn",
+   "localized": 0
+  },
+  {
+   "template": "/apps/community/integrations/{x}",
+   "count": 13,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/automations/{x}",
+   "count": 13,
+   "section": "other",
+   "localized": 0
+  },
+  {
+   "template": "/apps/community/integrations/{x}/{x}/{x}",
+   "count": 12,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/apps/agent/integrations/{x}",
+   "count": 11,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/blog/categories/{x}",
+   "count": 9,
+   "section": "blog",
+   "localized": 0
+  },
+  {
+   "template": "/roles/{x}",
+   "count": 9,
+   "section": "use_cases_solutions",
+   "localized": 0
+  },
+  {
+   "template": "/automations/legal/{x}",
+   "count": 8,
+   "section": "legal",
+   "localized": 0
+  },
+  {
+   "template": "/learn/{x}",
+   "count": 8,
+   "section": "academy_learn",
+   "localized": 0
+  },
+  {
+   "template": "/templates/{x}",
+   "count": 8,
+   "section": "templates",
+   "localized": 0
+  },
+  {
+   "template": "/apps/agent/integrations/{x}/{x}/{x}",
+   "count": 7,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/integrations/agent",
+   "count": 6,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/integrations/ai/{x}/{x}",
+   "count": 5,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/apps/{x}/integrations/community",
+   "count": 5,
+   "section": "integrations",
+   "localized": 0
+  },
+  {
+   "template": "/page/{x}",
+   "count": 5,
+   "section": "other",
+   "localized": 0
+  }
+ ],
+ "samples_fetched": 73,
+ "channel_pages_found": [
+  "/pricing",
+  "/enterprise",
+  "/experts",
+  "/developers",
+  "/developer-platform",
+  "/templates",
+  "/apps",
+  "/blog",
+  "/learn",
+  "/university",
+  "/customers",
+  "/compare",
+  "/use-cases",
+  "/ai",
+  "/agents",
+  "/startups",
+  "/education",
+  "/changelog",
+  "/status"
+ ],
+ "errors": [],
+ "elapsed_s": 378.9
+}

@@ -1,0 +1,334 @@
+[
+ {
+  "path": "/pricing",
+  "url": "https://zapier.com/pricing",
+  "status": 200,
+  "title": "Plans & Pricing | Zapier | Zapier",
+  "h1": "AI orchestration plans that scale with you",
+  "word_count": 4385,
+  "meta_description": "Whether you need simple integrations or complex workflows, Zapier offers secure and reliable automation as you scale. View our pricing plans today. "
+ },
+ {
+  "path": "/enterprise",
+  "url": "https://zapier.com/enterprise",
+  "status": 200,
+  "title": "Zapier Enterprise | Scale AI Workflows Fast and Securely",
+  "h1": "Your automation partner for the agentic era",
+  "word_count": 2050,
+  "meta_description": "Scale AI across your business in days, not months. Zapier Enterprise empowers teams to build workflows fast\u2014while giving IT full visibility, control, and security."
+ },
+ {
+  "path": "/affiliates",
+  "url": "https://zapier.com/affiliates",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/affiliate",
+  "url": "https://zapier.com/affiliate",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/partners",
+  "url": "https://zapier.com/partners",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/partner-program",
+  "url": "https://zapier.com/partner-program",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/experts",
+  "url": "https://zapier.com/experts",
+  "status": 200,
+  "title": "Solution Partner Directory",
+  "h1": null,
+  "word_count": 16082,
+  "meta_description": "Hire a Zapier Solution Partner today. Zapier Solution Partners are authorized consultants, freelancers and agencies that can help you do more with automation."
+ },
+ {
+  "path": "/community",
+  "url": "https://zapier.com/community",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/developers",
+  "url": "https://zapier.com/developers",
+  "status": 200,
+  "title": "Power your product or AI agent with 9,000 app integrations | Zapier",
+  "h1": "Power your product or AI agent with 9,000 app integrations",
+  "word_count": 727,
+  "meta_description": "Add AI-powered orchestration to your product using Zapier's Workflow API. Enterprise-ready with built-in auth and end-user support."
+ },
+ {
+  "path": "/developer-platform",
+  "url": "https://zapier.com/developer-platform",
+  "status": 200,
+  "title": "Power your product or AI agent with 9,000 app integrations | Zapier",
+  "h1": "Power your product or AI agent with 9,000 app integrations",
+  "word_count": 727,
+  "meta_description": "Add AI-powered orchestration to your product using Zapier's Workflow API. Enterprise-ready with built-in auth and end-user support."
+ },
+ {
+  "path": "/marketplace",
+  "url": "https://zapier.com/marketplace",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/templates",
+  "url": "https://zapier.com/templates",
+  "status": 200,
+  "title": "Workflow Automation Templates | Zapier",
+  "h1": "Workflow Automation Templates",
+  "word_count": 4500,
+  "meta_description": "Streamline your work with Zapier's ready-to-use workflow automation templates. Connect your favorite apps, automate repetitive tasks, and boost productivity\u2014no coding required."
+ },
+ {
+  "path": "/integrations",
+  "url": "https://zapier.com/integrations",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/apps",
+  "url": "https://zapier.com/apps",
+  "status": 200,
+  "title": "Integrations, App and Software Automation | Automate With Zapier",
+  "h1": "Apps and Software Integrations",
+  "word_count": 2034,
+  "meta_description": "Integrate Software and Apps you use everyday to automate your work and be more productive. No code solutions to connect 9,000+ apps. No credit card needed."
+ },
+ {
+  "path": "/blog",
+  "url": "https://zapier.com/blog",
+  "status": 200,
+  "title": "Productivity Tips & Workflow Automation Guides | Zapier Blog",
+  "h1": "Use one Zapier MCP server across all your AI tools",
+  "word_count": 1431,
+  "meta_description": "Daily advice on productivity, workflow automation, company building, and how to get more done with less work."
+ },
+ {
+  "path": "/learn",
+  "url": "https://zapier.com/learn",
+  "status": 200,
+  "title": "Zapier Guides | Zapier",
+  "h1": "Zapier guides",
+  "word_count": 1415,
+  "meta_description": "Educational resources to move your work forward. Discover guides on automation, AI strategy, lead management, marketing, and more."
+ },
+ {
+  "path": "/academy",
+  "url": "https://zapier.com/academy",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/university",
+  "url": "https://zapier.com/university",
+  "status": 200,
+  "title": "Zapier Academy",
+  "h1": "Zapier Academy",
+  "word_count": 681,
+  "meta_description": "Free, self-paced video courses from Zapier \u2014 learn automation, AI agents, Zapier MCP, and account administration in short learning paths. All you need is a free Zapier account."
+ },
+ {
+  "path": "/events",
+  "url": "https://zapier.com/events",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/webinars",
+  "url": "https://zapier.com/webinars",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/customers",
+  "url": "https://zapier.com/customers",
+  "status": 200,
+  "title": "Customer Stories | Zapier",
+  "h1": "See Automation in Action",
+  "word_count": 2201,
+  "meta_description": "Discover how 3.4 million businesses use Zapier automation as the backbone of their work, so they can reliably grow their businesses."
+ },
+ {
+  "path": "/referral",
+  "url": "https://zapier.com/referral",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/refer",
+  "url": "https://zapier.com/refer",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/bounties",
+  "url": "https://zapier.com/bounties",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/careers",
+  "url": "https://zapier.com/careers",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/compare",
+  "url": "https://zapier.com/compare",
+  "status": 200,
+  "title": "Zapier vs. Competitors: Compare Automation Platforms | Zapier",
+  "h1": "Compare Zapier to the competition",
+  "word_count": 8322,
+  "meta_description": "Compare Zapier with other automation platforms. Explore side-by-side comparisons of features, integrations, and pricing to find the right fit for your team."
+ },
+ {
+  "path": "/alternatives",
+  "url": "https://zapier.com/alternatives",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/vs",
+  "url": "https://zapier.com/vs",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/solutions",
+  "url": "https://zapier.com/solutions",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/use-cases",
+  "url": "https://zapier.com/use-cases",
+  "status": 200,
+  "title": "Automation solutions for your role | Zapier",
+  "h1": "Discover automation for your role",
+  "word_count": 1017,
+  "meta_description": "Zapier unlocks workflow automation for your role. Scale success fast with automation solutions as unique as your business needs."
+ },
+ {
+  "path": "/ai",
+  "url": "https://zapier.com/ai",
+  "status": 200,
+  "title": "Transform your operations with Zapier and AI",
+  "h1": "Your AI tools. 9,000+ apps. One system.",
+  "word_count": 1976,
+  "meta_description": "Add AI exactly where you need it \u2014 in a workflow, as an  agent, or a customer chatbot \u2014 all in one unified orchestration platform."
+ },
+ {
+  "path": "/agents",
+  "url": "https://zapier.com/agents",
+  "status": 200,
+  "title": "Build AI teammates with Zapier Agents",
+  "h1": null,
+  "word_count": 3797,
+  "meta_description": "Create your custom AI agent in minutes. Equip your agents with live business data and have them do work across 8,000+ apps \u2014 on command and while you sleep. "
+ },
+ {
+  "path": "/mobile",
+  "url": "https://zapier.com/mobile",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/download",
+  "url": "https://zapier.com/download",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/startups",
+  "url": "https://zapier.com/startups",
+  "status": 200,
+  "title": "Zapier for Startups | Zapier",
+  "h1": "Do what you do best while Zapier does the rest",
+  "word_count": 1138,
+  "meta_description": "Automation designed to turn your problems into possibilities\u2014streamline your customer communication, lead lifecycle, and more."
+ },
+ {
+  "path": "/education",
+  "url": "https://zapier.com/education",
+  "status": 200,
+  "title": "Zapier: Automate AI Workflows, Agents, and Apps",
+  "h1": "Welcome to automation in the agentic era",
+  "word_count": 1816,
+  "meta_description": "Build and scale AI workflows and agents across 9,000+ apps with Zapier\u2014the most connected AI orchestration platform. Trusted by 3 million+ businesses. "
+ },
+ {
+  "path": "/students",
+  "url": "https://zapier.com/students",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/nonprofits",
+  "url": "https://zapier.com/nonprofits",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/gallery",
+  "url": "https://zapier.com/gallery",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/showcase",
+  "url": "https://zapier.com/showcase",
+  "status": 404,
+  "title": null,
+  "h1": null
+ },
+ {
+  "path": "/changelog",
+  "url": "https://zapier.com/changelog",
+  "status": 200,
+  "title": "Zapier changelog: New features and improvements",
+  "h1": "Changelog",
+  "word_count": 1232,
+  "meta_description": "See what's new in Zapier. New features and improvements across Zaps, Zapier MCP, AI by Zapier, Tables, and more, newest first."
+ },
+ {
+  "path": "/status",
+  "url": "https://zapier.com/status",
+  "status": 200,
+  "title": "Zapier Status",
+  "h1": "",
+  "word_count": 154,
+  "meta_description": "Latest service status for Zapier"
+ }
+]
