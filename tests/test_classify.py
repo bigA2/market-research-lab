@@ -58,3 +58,12 @@ def test_first_segment_decides_section():
     assert section_of("/find-apps/{x}/{x}") == "integrations"
     assert section_of("/l/{x}") == "landing"
     assert section_of("/agents/templates/{x}") == "templates"
+
+
+def test_more_real_families():
+    assert section_of("/build/{x}") == "use_cases_solutions"          # replit "build an X" pages
+    assert section_of("/discover/{x}") == "use_cases_solutions"
+    assert section_of("/languages/{x}") == "use_cases_solutions"
+    assert section_of("/how-to-guides/{x}") == "academy_learn"        # make
+    assert section_of("/success-stories/{x}") == "customers"
+    assert section_of("/authors/{x}") == "blog"

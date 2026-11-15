@@ -10,7 +10,7 @@ import sys
 import time
 import urllib.robotparser
 
-SIGNUP_RE = re.compile(r"sign[-_]?up|register|get[-_]?started|start[-_]?free|try[-_]?free|/join\b", re.I)
+SIGNUP_PATTERNS = [re.compile(p, re.I) for p in (r"sign[-_]?up", r"register", r"/join\b", r"start[-_]?free|try[-_]?free", r"get[-_]?started")]
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36 market-research-lab/1.0"
 
 
@@ -18,7 +18,7 @@ def pick_targets(domain, summary, samples, home_links, n_families=5):
     base = f"https://{domain}"
     t = {"home": base + "/", "pricing": base + "/pricing"}
     same = [l for l in home_links if re.match(rf"https?://(www\.)?([a-z0-9-]+\.)*{re.escape(domain)}(/|$)", l)]
-    sign = next((l for l in same if SIGNUP_RE.search(l)), None)
+    sign = next((l for rx in SIGNUP_PATTERNS for l in same if rx.search(l) and "/blog/" not in l), None)
     t["signup"] = sign or base + "/signup"
     i = 0
     for fam in summary.get("families", []):
@@ -60,6 +60,9 @@ def capture(domain, data_dir, out_dir):
                 continue
             try:
                 resp = page.goto(url, wait_until="domcontentloaded", timeout=45000)
+                if resp is not None and resp.status == 429:  # rate limited: back off once
+                    time.sleep(30)
+                    resp = page.goto(url, wait_until="domcontentloaded", timeout=45000)
                 page.wait_for_timeout(2500)
                 rec.update(status=resp.status if resp else None, final_url=page.url, title=page.title())
                 page.screenshot(path=str(out / f"{name}.png"), full_page=False)
@@ -68,7 +71,7 @@ def capture(domain, data_dir, out_dir):
             except Exception as exc:
                 rec["error"] = str(exc)[:200]
             results.append(rec)
-            time.sleep(2)
+            time.sleep(5)
         br.close()
     (d / "screenshots.json").write_text(json.dumps(results, indent=1))
     return results

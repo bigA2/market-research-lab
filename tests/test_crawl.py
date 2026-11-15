@@ -50,3 +50,12 @@ def test_run_domain_records_errors(tmp_path):
     summary = run_domain("down.com", tmp_path, http=FakeHTTP({}), delay=0)
     assert summary["urls_total"] == 0
     assert summary["errors"]
+
+
+def test_sitemap_http_status_recorded(tmp_path):
+    pages = _site()
+    pages["https://ex.com/robots.txt"] += b"Sitemap: https://ex.com/missing.xml\n"
+    run_domain("ex.com", tmp_path, http=FakeHTTP(pages), delay=0)
+    rows = list(csv.DictReader(open(tmp_path / "ex.com" / "sitemaps.csv")))
+    miss = [r for r in rows if r["url"].endswith("missing.xml")][0]
+    assert miss["ok"] == "False" and miss["http_status"] == "404"

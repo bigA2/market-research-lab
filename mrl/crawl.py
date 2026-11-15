@@ -73,10 +73,14 @@ def run_domain(domain, out_root, http=None, delay=1.0, samples_per_family=3,
 
     seeds = robots["sitemaps"] or [base + "/sitemap.xml", base + "/sitemap_index.xml"]
 
+    sm_status = {}
+
     def fetch(u):
         if not robots["can_fetch"](u):
+            sm_status[u] = "robots-disallowed"
             return None
         st, b = http.get(u)
+        sm_status[u] = st
         if eff_delay:
             time.sleep(eff_delay / 2)
         return b if st == 200 else None
@@ -84,7 +88,9 @@ def run_domain(domain, out_root, http=None, delay=1.0, samples_per_family=3,
     urls, smlog = walk_sitemaps(seeds, fetch, max_urls=max_urls)
     if not urls:
         errors.append("no URLs found in sitemaps")
-    _write_csv(out / "sitemaps.csv", smlog, ["url", "ok", "kind", "count", "error"])
+    for l in smlog:
+        l["http_status"] = sm_status.get(l["url"])
+    _write_csv(out / "sitemaps.csv", smlog, ["url", "ok", "http_status", "kind", "count", "error"])
     with gzip.open(out / "urls.txt.gz", "wt") as f:  # artifact only (gitignored)
         f.write("\n".join(urls))
 

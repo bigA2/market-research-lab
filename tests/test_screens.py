@@ -16,3 +16,8 @@ def test_pick_targets_finds_signup_and_families():
 def test_pick_targets_signup_fallback():
     t = pick_targets("ex.com", {"families": []}, [], [], n_families=5)
     assert t["signup"] == "https://ex.com/signup"
+
+
+def test_signup_prefers_real_signup_over_get_started():
+    links = ["https://zapier.com/blog/get-started-with-zapier/", "https://zapier.com/sign-up"]
+    assert pick_targets("zapier.com", {"families": []}, [], links)["signup"] == "https://zapier.com/sign-up"
