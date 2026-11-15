@@ -1,0 +1,4117 @@
+{
+ "targets_scanned": 122,
+ "recommendations": {
+  "CAUTION": 45,
+  "SAFE": 76,
+  "DO_NOT_INSTALL": 1
+ },
+ "targets": [
+  {
+   "target": "ad/activate/ad-account-auditor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/activate/conversion-signal-qa",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/preflight-checklist.md",
+    "references/utm-event-spec.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "ad/activate/conversion-value-mapper",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "ad/activate/placement-exclusion-manager",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/orchestrate/ad-creative-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/ad-format-specs.md",
+    "references/angle-matrix.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/orchestrate/ad-test-designer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/measurement-control.md",
+    "references/test-design-guide.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "ad/orchestrate/bid-strategy-planner",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/bid-strategy-matrix.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/orchestrate/landing-experience-checker",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/research/audience-segment-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/research/campaign-architect",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/research/product-feed-optimizer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/feed-title-patterns.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/research/search-term-miner",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/scale/attribution-reconciler",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "ad/scale/budget-pacing-monitor",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "ad/scale/fatigue-frequency-manager",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "ad/scale/paid-measurement-loop",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "email/deliver/cold-outbound-sequencer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "email/deliver/email-quality-auditor",
+   "exit": "0",
+   "score": 8,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/deliver/inbox-placement-monitor",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/placement-telemetry-checklist.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/deliver/send-experiment-designer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/engage/dynamic-content-personalizer",
+   "exit": "0",
+   "score": 22,
+   "severity": "MEDIUM",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "P3",
+     "severity": "HIGH",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/engage/email-creative-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/email-creative-modes.md",
+    "references/subject-line-specs.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "email/engage/email-render-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/client-render-matrix.md",
+    "references/email-render-specs.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "email/engage/subject-line-lab",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/spam-trigger-checklist.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "email/nurture/email-sequence-designer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/send-control.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "email/nurture/newsletter-monetization-planner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/nurture/preference-frequency-manager",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "email/nurture/reactivation-specialist",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/setup/deliverability-qa",
+   "exit": "0",
+   "score": 11,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/deliverability-checklist.md"
+   ],
+   "issue_count": 2,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    },
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "references/deliverability-checklist.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/setup/list-growth-designer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/setup/list-hygiene-monitor",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/hygiene-checklist.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "email/setup/list-segment-builder",
+   "exit": "0",
+   "score": 28,
+   "severity": "MEDIUM",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 2,
+   "issues": [
+    {
+     "rule": "P6",
+     "severity": "HIGH",
+     "file": "SKILL.md",
+     "message": ""
+    },
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "hooks",
+   "exit": "0",
+   "score": 26,
+   "severity": "MEDIUM",
+   "recommendation": "CAUTION",
+   "files": [
+    "claude-hook.sh",
+    "hooks.json"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "P1",
+     "severity": "HIGH",
+     "file": "claude-hook.sh",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "influencer/activate/content-amplifier",
+   "exit": "0",
+   "score": 3,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/atom-extraction.md",
+    "references/templates.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA3",
+     "severity": "LOW",
+     "file": "references/templates.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "influencer/activate/contract-helper",
+   "exit": "0",
+   "score": 13,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/templates.md"
+   ],
+   "issue_count": 5,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "references/templates.md",
+     "message": ""
+    },
+    {
+     "rule": "EA3",
+     "severity": "LOW",
+     "file": "references/templates.md",
+     "message": ""
+    },
+    {
+     "rule": "EA3",
+     "severity": "LOW",
+     "file": "references/templates.md",
+     "message": ""
+    },
+    {
+     "rule": "EA3",
+     "severity": "LOW",
+     "file": "references/templates.md",
+     "message": ""
+    },
+    {
+     "rule": "EA3",
+     "severity": "LOW",
+     "file": "references/templates.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "influencer/activate/creator-content-auditor",
+   "exit": "0",
+   "score": 8,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md",
+    "references/quality-review-aids.md",
+    "references/review-templates.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "influencer/activate/outreach-manager",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/cold-copy-rules.md",
+    "references/templates.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "influencer/report/landing-optimizer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/report/performance-analyzer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/analysis-templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/report/report-generator",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/report-templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/report/roi-calculator",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/roi-templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/scout/audience-mapper",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/scout/fit-scorer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/scoring-templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/scout/influencer-discovery",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/creator-dossier.md",
+    "references/platform-vetting.md",
+    "references/templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/scout/trend-spotter",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/templates.md",
+    "references/trend-scout-recipe.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/target/brief-generator",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/brief-templates.md",
+    "references/creator-voice-intake.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/target/budget-optimizer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/target/campaign-planner",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/influencer-tiers.md",
+    "references/templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "influencer/target/competitor-tracker",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/assemble/launch-asset-packager",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/action-control.md",
+    "references/asset-specs.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/assemble/message-house-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/assemble/pricing-packaging-planner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/assemble/sales-enablement-kit",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/mobilize/community-launch-runner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/channel-matrix.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/mobilize/launch-day-conductor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/mobilize/launch-readiness-auditor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/mobilize/press-media-relations",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/prove/launch-feedback-synthesizer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/prove/launch-monitor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/prove/launch-retro-analyzer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/prove/momentum-planner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/research/early-access-designer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/research/launch-tier-planner",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "launch/research/launch-window-planner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "launch/research/positioning-mapper",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/architect/brand-language-codifier",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/architect/message-system-architect",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/architect/story-bank-builder",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/architect/strategic-narrative-designer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/evaluate/message-test-designer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/stimulus-binding.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/evaluate/narrative-drift-monitor",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/evaluate/narrative-quality-auditor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "narrative/evaluate/narrative-resonance-monitor",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/land/narrative-cascade-planner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/land/narrative-enablement-kit",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/land/pitch-narrative-builder",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/land/proof-point-packager",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/trace/audience-belief-mapper",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/trace/category-narrative-mapper",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/trace/narrative-baseline-mapper",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "narrative/trace/positioning-truth-tracer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "protocol/channel-registry",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "protocol/consent-registry",
+   "exit": "0",
+   "score": 20,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "MP3",
+     "severity": "HIGH",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "protocol/creator-registry",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/creator-record-template.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "protocol/entity-registry",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/entity-signal-checklist.md",
+    "references/entity-type-reference.md",
+    "references/example-audit-report.md",
+    "references/knowledge-graph-guide.md",
+    "references/knowledge-panel-wikidata-guide.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "protocol/launch-registry",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "protocol/memory-management",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/consolidation-pass.md",
+    "references/examples.md",
+    "references/gdpr-purge-log-template.md",
+    "references/glossary-template.md",
+    "references/hot-cache-template.md",
+    "references/promotion-demotion-rules.md",
+    "references/update-triggers-integration.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "protocol/narrative-registry",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "protocol/offer-claims-registry",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/claims-ledger-schema.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "scripts",
+   "exit": "1",
+   "score": 100,
+   "severity": "CRITICAL",
+   "recommendation": "DO_NOT_INSTALL",
+   "files": [
+    "adapters/codex-behavior-adapter.py",
+    "agent_plugin_builder.py",
+    "audit-loop.py",
+    "audit-trends.py",
+    "build-distribution.py",
+    "build-release-assets.py",
+    "bump-release.py",
+    "check-agent-plugins-standard.py",
+    "check-architecture.py",
+    "check-context-budget.py",
+    "check-context-efficiency.py",
+    "check-engineering-maturity.py",
+    "check-evals.py",
+    "check-local-links.py",
+    "check-memory-private.py",
+    "check-pii.py",
+    "check-routing-retrieval.py",
+    "check-routing.py",
+    "check-skill-dashboard.py",
+    "check-stdlib-only.sh",
+    "check-versions.sh",
+    "check-wiki.py",
+    "classify-change-impact.py",
+    "connectors/README.md",
+    "connectors/_http.py",
+    "connectors/_loader.py",
+    "connectors/appstore.py",
+    "connectors/bluesky.py",
+    "connectors/crawl.py",
+    "connectors/discourse.py",
+    "connectors/doh.py",
+    "connectors/experiment.py",
+    "connectors/fediverse.py",
+    "connectors/firecrawl.py",
+    "connectors/gdelt.py",
+    "connectors/hn.py",
+    "connectors/indexpush.py",
+    "connectors/kg.py",
+    "connectors/ledger.py",
+    "connectors/linkgraph.py",
+    "connectors/onpage.py",
+    "connectors/openpagerank.py",
+    "connectors/pageviews.py",
+    "connectors/producthunt.py",
+    "connectors/psi.py",
+    "connectors/resend.py",
+    "connectors/robots.py",
+    "connectors/rss_monitor.py",
+    "connectors/schema_lint.py",
+    "connectors/sitemap.py",
+    "connectors/smoke-live.sh",
+    "connectors/suggest.py",
+    "connectors/tavily.py",
+    "connectors/wayback.py",
+    "connectors/youtube.py",
+    "context-assembly.py",
+    "context-plan.py",
+    "context-profile-resolver.py",
+    "context-resolver.py",
+    "context-usage.py",
+    "create-github-release.py",
+    "eval_cases.py",
+    "generate-auditor-prompt-contracts.py",
+    "generate-auditor-runtime.py",
+    "generate-auto-routing-shards.py",
+    "generate-bot-projections.py",
+    "generate-claude-index.py",
+    "generate-release-surfaces.py",
+    "generate-router-facades.py",
+    "generate-skill-contracts.py",
+    "generate-system-docs.py",
+    "golden-auditor-math.py",
+    "install-git-hooks.sh",
+    "issue-engineering-release-receipt.py",
+    "maintain.py",
+    "profile-resolver.py",
+    "publish-clawhub.sh",
+    "publish-common.sh",
+    "publish-package.sh",
+    "publish-registries.sh",
+    "publish-skillhub.sh",
+    "publish-state.py",
+    "registry-events.py",
+    "registry-status.sh",
+    "rubric-score.py",
+    "run-behavior-evals.py",
+    "run-events.py",
+    "run-isolated-evals.py",
+    "runtime-controller.py",
+    "skill-dashboard.py",
+    "smoke-bot-projections.py",
+    "stats-dashboard.py",
+    "sync-about.sh",
+    "sync-family.sh",
+    "system_catalog.py",
+    "validate-agent-plugin.py",
+    "validate-audit-artifact.py",
+    "validate-control-artifact.py",
+    "validate-skill.sh",
+    "verify-profile-outcomes.py",
+    "verify-release-receipt.py",
+    "verify-semantic-evidence.py",
+    "workflow-graph.py",
+    "workflow-loop.py",
+    "workflow_loop.py"
+   ],
+   "issue_count": 325,
+   "issues": [
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "audit-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/_loader.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "context-plan.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "context-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "registry-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "runtime-controller.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "workflow-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/appstore.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/bluesky.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/crawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/discourse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/doh.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/fediverse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/firecrawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/gdelt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/hn.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/kg.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/onpage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/openpagerank.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/pageviews.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/psi.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/resend.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/robots.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/rss_monitor.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/schema_lint.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/sitemap.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/suggest.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/tavily.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/wayback.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "connectors/youtube.py",
+     "message": ""
+    },
+    {
+     "rule": "AST8",
+     "severity": "CRITICAL",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "TT3",
+     "severity": "CRITICAL",
+     "file": "stats-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "audit-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/_loader.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "context-plan.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "context-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "registry-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "runtime-controller.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "workflow-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "MP3",
+     "severity": "HIGH",
+     "file": "audit-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "E2",
+     "severity": "HIGH",
+     "file": "build-release-assets.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/appstore.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/bluesky.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/crawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/discourse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/doh.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/fediverse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/firecrawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/gdelt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/hn.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/kg.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/onpage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/openpagerank.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/pageviews.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/psi.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/resend.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/robots.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/rss_monitor.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/schema_lint.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/sitemap.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/suggest.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/tavily.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/wayback.py",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "connectors/youtube.py",
+     "message": ""
+    },
+    {
+     "rule": "PE3",
+     "severity": "HIGH",
+     "file": "connectors/bluesky.py",
+     "message": ""
+    },
+    {
+     "rule": "PE3",
+     "severity": "HIGH",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "YR4",
+     "severity": "HIGH",
+     "file": "connectors/resend.py",
+     "message": ""
+    },
+    {
+     "rule": "YR4",
+     "severity": "HIGH",
+     "file": "generate-system-docs.py",
+     "message": ""
+    },
+    {
+     "rule": "TM2",
+     "severity": "HIGH",
+     "file": "publish-clawhub.sh",
+     "message": ""
+    },
+    {
+     "rule": "TM2",
+     "severity": "HIGH",
+     "file": "publish-package.sh",
+     "message": ""
+    },
+    {
+     "rule": "TM2",
+     "severity": "HIGH",
+     "file": "publish-skillhub.sh",
+     "message": ""
+    },
+    {
+     "rule": "TM2",
+     "severity": "HIGH",
+     "file": "sync-about.sh",
+     "message": ""
+    },
+    {
+     "rule": "SC2",
+     "severity": "HIGH",
+     "file": "publish-skillhub.sh",
+     "message": ""
+    },
+    {
+     "rule": "SC2",
+     "severity": "HIGH",
+     "file": "publish-skillhub.sh",
+     "message": ""
+    },
+    {
+     "rule": "AST1",
+     "severity": "HIGH",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "E2",
+     "severity": "HIGH",
+     "file": "run-isolated-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "RA1",
+     "severity": "HIGH",
+     "file": "skill-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "RA1",
+     "severity": "HIGH",
+     "file": "skill-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "PE3",
+     "severity": "HIGH",
+     "file": "smoke-bot-projections.py",
+     "message": ""
+    },
+    {
+     "rule": "OH1",
+     "severity": "HIGH",
+     "file": "smoke-bot-projections.py",
+     "message": ""
+    },
+    {
+     "rule": "AS1",
+     "severity": "HIGH",
+     "file": "validate-skill.sh",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "adapters/codex-behavior-adapter.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "adapters/codex-behavior-adapter.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "adapters/codex-behavior-adapter.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "audit-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "context-plan.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "workflow-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "audit-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/_loader.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "context-plan.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "context-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "registry-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "runtime-controller.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "workflow-loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "build-release-assets.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-architecture.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-context-efficiency.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-engineering-maturity.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-skill-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-wiki.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "context-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "context-usage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "context-usage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "issue-engineering-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "registry-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "runtime-controller.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "verify-semantic-evidence.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "workflow_loop.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-context-efficiency.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-engineering-maturity.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-skill-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "check-wiki.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "context-usage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "context-usage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "issue-engineering-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "verify-semantic-evidence.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "check-engineering-maturity.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "check-engineering-maturity.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "check-memory-private.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "check-memory-private.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "check-pii.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "classify-change-impact.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "classify-change-impact.py",
+     "message": ""
+    },
+    {
+     "rule": "EA4",
+     "severity": "MEDIUM",
+     "file": "connectors/_http.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/_loader.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/appstore.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/bluesky.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/crawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/discourse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/doh.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/fediverse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/firecrawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/gdelt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/hn.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/kg.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/onpage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/openpagerank.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/pageviews.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/psi.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/resend.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/robots.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/rss_monitor.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/schema_lint.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/sitemap.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/suggest.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/tavily.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/wayback.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "connectors/youtube.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/appstore.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/bluesky.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/crawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/discourse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/doh.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/fediverse.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/firecrawl.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/gdelt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/hn.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/kg.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/onpage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/openpagerank.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/pageviews.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/psi.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/resend.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/robots.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/rss_monitor.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/schema_lint.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/sitemap.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/suggest.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/tavily.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/wayback.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "connectors/youtube.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/firecrawl.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/firecrawl.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/gdelt.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/gdelt.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/indexpush.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/producthunt.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/tavily.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "connectors/tavily.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "context-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "context-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "context-usage.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "create-github-release.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "eval_cases.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "eval_cases.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "generate-claude-index.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "generate-release-surfaces.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "generate-router-facades.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "generate-skill-contracts.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "golden-auditor-math.py",
+     "message": ""
+    },
+    {
+     "rule": "AST3",
+     "severity": "MEDIUM",
+     "file": "golden-auditor-math.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "issue-engineering-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "maintain.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "registry-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "registry-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST6",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-isolated-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "TT2",
+     "severity": "MEDIUM",
+     "file": "run-isolated-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "run-isolated-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "smoke-bot-projections.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "stats-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "stats-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "stats-dashboard.py",
+     "message": ""
+    },
+    {
+     "rule": "E1",
+     "severity": "MEDIUM",
+     "file": "sync-family.sh",
+     "message": ""
+    },
+    {
+     "rule": "RP1",
+     "severity": "MEDIUM",
+     "file": "validate-skill.sh",
+     "message": ""
+    },
+    {
+     "rule": "RP1",
+     "severity": "MEDIUM",
+     "file": "validate-skill.sh",
+     "message": ""
+    },
+    {
+     "rule": "RP1",
+     "severity": "MEDIUM",
+     "file": "validate-skill.sh",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST4",
+     "severity": "MEDIUM",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "adapters/codex-behavior-adapter.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-profile-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "issue-engineering-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-isolated-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-semantic-evidence.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "adapters/codex-behavior-adapter.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "audit-trends.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-profile-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "issue-engineering-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "profile-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-behavior-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-isolated-evals.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "validate-control-artifact.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-semantic-evidence.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "agent_plugin_builder.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "agent_plugin_builder.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-release-assets.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "validate-agent-plugin.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "agent_plugin_builder.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "check-agent-plugins-standard.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "validate-agent-plugin.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "validate-agent-plugin.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "agent_plugin_builder.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-release-assets.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "check-agent-plugins-standard.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "validate-agent-plugin.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "build-distribution.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-profile-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-profile-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "profile-resolver.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "validate-control-artifact.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "context-assembly.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "run-events.py",
+     "message": ""
+    },
+    {
+     "rule": "AST7",
+     "severity": "LOW",
+     "file": "verify-release-receipt.py",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "seo-geo/evaluate/domain-authority-auditor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md",
+    "references/example-report.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/evaluate/offsite-signal-analyzer",
+   "exit": "0",
+   "score": 21,
+   "severity": "MEDIUM",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/backlinks-analysis-templates.md",
+    "references/link-quality-rubric.md",
+    "references/outreach-templates.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "AR2",
+     "severity": "HIGH",
+     "file": "references/link-quality-rubric.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "seo-geo/evaluate/performance-monitor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/alert-configuration-templates.md",
+    "references/alert-threshold-guide.md",
+    "references/evidence-and-cycle-control.md",
+    "references/kpi-definitions.md",
+    "references/report-output-templates.md",
+    "references/report-templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/evaluate/rank-tracker",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/ranking-analysis-templates.md",
+    "references/tracking-setup-guide.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/implement/content-writer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/content-decay-signals.md",
+    "references/content-structure-templates.md",
+    "references/instructions-detail.md",
+    "references/refresh-example.md",
+    "references/refresh-templates.md",
+    "references/seo-writing-checklist.md",
+    "references/title-formulas.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "seo-geo/implement/geo-content-optimizer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/ai-citation-patterns.md",
+    "references/ai-overview-recovery.md",
+    "references/geo-optimization-techniques.md",
+    "references/instructions-detail.md",
+    "references/medium-github-surfaces.md",
+    "references/quotable-content-examples.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/implement/page-play-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/comparison.md",
+    "references/local.md",
+    "references/parasite.md",
+    "references/programmatic.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/implement/serp-markup-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/ctr-and-social-reference.md",
+    "references/meta-instructions-detail.md",
+    "references/meta-tag-code-templates.md",
+    "references/meta-tag-formulas.md",
+    "references/schema-decision-tree.md",
+    "references/schema-instructions-detail.md",
+    "references/schema-templates.md",
+    "references/validation-guide.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/survey/competitor-analysis",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/analysis-templates.md",
+    "references/battlecard-template.md",
+    "references/example-report.md",
+    "references/positioning-frameworks.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/survey/content-gap-analysis",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/analysis-templates.md",
+    "references/example-report.md",
+    "references/gap-analysis-frameworks.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/survey/keyword-research",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/example-report.md",
+    "references/instructions-detail.md",
+    "references/keyword-intent-taxonomy.md",
+    "references/keyword-prioritization-framework.md",
+    "references/topic-cluster-templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/survey/serp-analysis",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/analysis-templates.md",
+    "references/example-report.md",
+    "references/serp-feature-taxonomy.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/tune/content-quality-auditor",
+   "exit": "0",
+   "score": 37,
+   "severity": "MEDIUM",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md",
+    "references/item-reference.md",
+    "references/recursive-refinement.md"
+   ],
+   "issue_count": 2,
+   "issues": [
+    {
+     "rule": "AE1",
+     "severity": "HIGH",
+     "file": "SKILL.md",
+     "message": ""
+    },
+    {
+     "rule": "AE1",
+     "severity": "HIGH",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "seo-geo/tune/on-page-seo-checker",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/audit-example.md",
+    "references/audit-templates.md",
+    "references/bulk-audit-playbook.md",
+    "references/scoring-rubric.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/tune/site-structure-optimizer",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/link-architecture-patterns.md",
+    "references/linking-example.md",
+    "references/linking-templates.md",
+    "references/mermaid-templates.md",
+    "references/site-type-patterns.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "seo-geo/tune/technical-seo-checker",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/bulk-audit-playbook.md",
+    "references/ecommerce-platform-patterns.md",
+    "references/http-status-codes.md",
+    "references/llm-crawler-handling.md",
+    "references/pre-migration-playbook.md",
+    "references/robots-txt-reference.md",
+    "references/technical-audit-example.md",
+    "references/technical-audit-templates.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "social/craft/advocacy-program-designer",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/craft/short-video-scripter",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/craft/social-calendar-builder",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md",
+    "references/human-action-control.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/craft/social-creative-builder",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "social/explore/channel-portfolio-planner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/explore/participation-warmup-planner",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/explore/platform-norm-profiler",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/explore/voice-dossier-builder",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/host/crisis-response-planner",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "social/host/engagement-inbox-manager",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/host/social-quality-auditor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "CAUTION",
+   "files": [
+    "SKILL.md",
+    "references/auditor-runtime.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "social/host/social-selling-planner",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "social/observe/dark-social-attributor",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/observe/share-of-voice-tracker",
+   "exit": "0",
+   "score": 7,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 1,
+   "issues": [
+    {
+     "rule": "EA2",
+     "severity": "MEDIUM",
+     "file": "SKILL.md",
+     "message": ""
+    }
+   ]
+  },
+  {
+   "target": "social/observe/social-measurement-loop",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  },
+  {
+   "target": "social/observe/social-pulse-monitor",
+   "exit": "0",
+   "score": 0,
+   "severity": "LOW",
+   "recommendation": "SAFE",
+   "files": [
+    "SKILL.md"
+   ],
+   "issue_count": 0,
+   "issues": []
+  }
+ ]
+}
