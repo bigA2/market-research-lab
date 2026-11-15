@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-Zapier is a programmatic SEO machine. Of **424,127 URLs in its sitemaps, about 98% are generated from two datasets: the app catalogue and the workflow/template catalogue.** The integration-pair pages (`/apps/A/integrations/B`, 148,333 URLs) and per-workflow pages (`/automations/…`, 130,627 URLs; zap templates, 101,026 URLs) are rich: around 2–3k words, real JSON-LD (`SoftwareApplication`, `HowTo`, `Action`/`Trigger`) and 300+ internal links each. Everything else (blog, Academy, partner directory, AWS Marketplace, Product Hunt launches, free plan) feeds that engine or monetizes it. Gaps: about 10k thin A–Z directory pages, sitemaps that list noindex and non-canonical URLs, stale 404s in sitemaps, and no localized URLs in sitemaps.
+Zapier is a programmatic SEO machine. Of **424,127 URLs in its sitemaps, about 97% (411,409) are generated from two datasets: the app catalogue and the workflow/template catalogue.** The integration-pair pages (`/apps/A/integrations/B`, 148,333 URLs) and per-workflow pages (`/automations/…`, 130,627 URLs; zap templates, 101,026 URLs) are rich: around 2–3k words, real JSON-LD (`SoftwareApplication`, `HowTo`, `Action`/`Trigger`) and 300+ internal links each. Everything else (blog, Academy, partner directory, AWS Marketplace, Product Hunt launches, free plan) feeds that engine or monetizes it. Gaps: about 10k thin A–Z directory pages, sitemaps that list noindex and non-canonical URLs, stale 404s in sitemaps, and no localized URLs in sitemaps.
 
 ## 1. SEO page families: the core engine (Measured)
 
