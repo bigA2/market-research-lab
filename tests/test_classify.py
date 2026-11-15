@@ -43,3 +43,18 @@ def test_families_counts_and_threshold():
     assert fams[0]["section"] == "integrations"
     assert len(fams[0]["examples"]) == 3
     assert all(f["count"] >= 5 for f in fams)
+
+
+def test_app_slugs_that_look_structural_stay_variable():
+    # real zapier URLs: 'ai' / 'agents' are app slugs here, not structure
+    assert path_template("https://zapier.com/apps/airtable/integrations/ai") == "/apps/{x}/integrations/{x}"
+    assert path_template("https://zapier.com/apps/ai/integrations/linear/255644524/x") == "/apps/{x}/integrations/{x}/{x}/{x}"
+    assert path_template("https://zapier.com/find-apps/c/clockie/") == "/find-apps/{x}/{x}"
+
+
+def test_first_segment_decides_section():
+    assert section_of("/automations/legal/{x}/{x}/{x}") == "templates"
+    assert section_of("/mcp/{x}") == "integrations"
+    assert section_of("/find-apps/{x}/{x}") == "integrations"
+    assert section_of("/l/{x}") == "landing"
+    assert section_of("/agents/templates/{x}") == "templates"

@@ -107,7 +107,12 @@ jobs:
       - name: Merge + verify + commit with GITHUB_TOKEN
         run: |
           mkdir -p data
-          for d in /tmp/dl/data-*; do [ -d "$d" ] && cp -r "$d"/. data/ ; done
+          # each artifact "data-<domain>" holds the files of data/<domain>/ at its root
+          for d in /tmp/dl/data-*; do
+            [ -d "$d" ] || continue
+            dom="${d#/tmp/dl/data-}"
+            rm -rf "data/$dom" && mkdir -p "data/$dom" && cp -r "$d"/. "data/$dom/"
+          done
           ls -R data | head -50
           python - <<'PY'
           import json, pathlib

@@ -7,19 +7,13 @@ LANGS = set("""af ar az be bg bn bs ca cs cy da de el en es et eu fa fi fil fr g
 LANG_RE = re.compile(r"^([a-z]{2,3})([-_][a-zA-Z0-9]{2,4})?$")
 
 # Structural words: kept literal when they appear after the first segment.
-STATIC = set("""integrations integration apps app templates template blog docs doc compare vs versus
-alternatives alternative tags tag category categories author authors page help guides guide learn
-use-cases actions triggers action trigger connect solutions features customers academy tutorials
-tutorial articles article posts post news community forum topics topic t c u users user
-learn courses course lessons lesson webinars events partners experts integrations-directory
-pricing plans legal privacy terms changelog releases api reference sdk examples showcase
-ai agents agent workflows workflow zaps tables interfaces chatbots canvas bounties templates-gallery
-for by with how-to how what-is glossary resources library apps-directory directory marketplace
-hire jobs careers stories case-studies developer developers docs-v2 en-us""".split())
+STATIC = set("""integrations integration templates template compare vs versus alternatives alternative
+tags tag category categories author authors page actions triggers action trigger use-cases
+for by with how-to what-is glossary examples showcase directory en-us""".split())
 
 SECTIONS = [
-    ("integrations", {"integrations", "integration", "apps", "app", "connect", "connectors", "apps-directory", "directory"}),
-    ("templates", {"templates", "template", "zap-templates", "templates-gallery", "workflows", "workflow", "zaps", "showcase", "examples"}),
+    ("integrations", {"integrations", "integration", "apps", "app", "connect", "connectors", "apps-directory", "directory", "mcp", "find-apps", "apps-and-integrations"}),
+    ("templates", {"templates", "template", "zap-templates", "templates-gallery", "workflows", "workflow", "zaps", "showcase", "examples", "automations", "scenarios", "gallery"}),
     ("compare_alternatives", {"compare", "vs", "versus", "alternatives", "alternative", "comparison"}),
     ("blog", {"blog", "articles", "article", "news", "posts", "post", "stories"}),
     ("docs", {"docs", "doc", "documentation", "help", "support", "kb", "api", "reference", "sdk", "developer", "developers", "changelog", "releases"}),
@@ -28,12 +22,16 @@ SECTIONS = [
     ("events_webinars", {"events", "webinars", "webinar", "event"}),
     ("partners_experts_affiliates", {"partners", "partner", "experts", "expert", "affiliates", "affiliate", "hire", "agency", "agencies", "marketplace"}),
     ("customers", {"customers", "customer-stories", "case-studies", "case-study", "testimonials"}),
-    ("use_cases_solutions", {"solutions", "use-cases", "for", "teams", "industries", "roles", "features", "ai", "agents", "agent", "products", "product"}),
+    ("use_cases_solutions", {"solutions", "use-cases", "for", "teams", "industries", "roles", "features", "ai", "agents", "agent", "products", "product", "automation", "use-case"}),
     ("pricing", {"pricing", "plans", "plan"}),
     ("legal", {"legal", "privacy", "terms", "policies", "policy", "security", "trust"}),
     ("careers", {"careers", "jobs", "job"}),
+    ("landing", {"l", "lp", "page", "pages", "go", "campaign"}),
     ("signup_login", {"signup", "sign-up", "register", "login", "log-in", "signin", "sign-in"}),
 ]
+
+
+WEAK_SECTIONS = {"use_cases_solutions"}
 
 
 def _segments(url_or_path):
@@ -82,10 +80,18 @@ def section_of(template):
         return "home"
     if toks[0] == "{@user}":
         return "user_generated"
+    weak = None  # left-most structural token wins; "weak" sections yield to a later strong one
     for t in toks:
+        if t.startswith("{"):
+            continue
         for name, words in SECTIONS:
             if t in words:
+                if name in WEAK_SECTIONS:
+                    weak = weak or name
+                    break
                 return name
+    if weak:
+        return weak
     return "landing" if len(toks) == 1 else "other"
 
 
