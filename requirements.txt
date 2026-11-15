@@ -1,0 +1,4 @@
+selectolax>=1.0,<2
+requests>=2.31,<3
+playwright==1.48.0
+pytest>=8

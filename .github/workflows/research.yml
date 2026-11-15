@@ -1,0 +1,140 @@
+name: research
+on:
+  push:
+    paths: ["targets/*.txt"]
+  workflow_dispatch:
+    inputs:
+      domains:
+        description: "Space/comma separated domains (default: all targets/*.txt)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency: { group: research, cancel-in-progress: false }
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      domains: ${{ steps.p.outputs.domains }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Unit tests (offline)
+        run: pip install -q -r requirements.txt && python -m pytest -q
+      - id: p
+        name: Resolve target domains
+        env:
+          INPUT_DOMAINS: ${{ github.event.inputs.domains }}
+          BEFORE: ${{ github.event.before }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          if [ -n "$INPUT_DOMAINS" ]; then
+            echo "$INPUT_DOMAINS" | tr ', ' '\n\n' > /tmp/d.txt
+          else
+            files=""
+            if [ "$EVENT" = "push" ] && [ -n "$BEFORE" ] && ! echo "$BEFORE" | grep -q '^0*$'; then
+              files=$(git diff --name-only "$BEFORE" "$GITHUB_SHA" -- 'targets/*.txt' || true)
+            fi
+            [ -z "$files" ] && files=$(ls targets/*.txt)
+            cat $files > /tmp/d.txt
+          fi
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, re
+          ds = []
+          for line in open("/tmp/d.txt"):
+              d = line.split("#")[0].strip().lower()
+              d = re.sub(r"^https?://", "", d).strip("/")
+              if re.fullmatch(r"[a-z0-9.-]+\.[a-z]{2,}", d) and d not in ds:
+                  ds.append(d)
+          print("domains=" + json.dumps(ds))
+          PY
+          cat "$GITHUB_OUTPUT"
+
+  crawl:
+    needs: plan
+    if: needs.plan.outputs.domains != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        domain: ${{ fromJson(needs.plan.outputs.domains) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Install
+        run: |
+          pip install -q -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Crawl robots + sitemaps + samples + channel probes
+        run: python -m mrl.crawl "${{ matrix.domain }}" --out data --delay 1.0
+      - name: Screenshots (public pages only)
+        if: always()
+        continue-on-error: true
+        run: python -m mrl.screens "${{ matrix.domain }}" --data data --out screenshots
+      - name: Upload screenshots + full URL list
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ matrix.domain }}
+          path: |
+            screenshots/${{ matrix.domain }}/
+            data/${{ matrix.domain }}/urls.txt.gz
+          retention-days: 30
+      - name: Upload compact data
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-${{ matrix.domain }}
+          path: |
+            data/${{ matrix.domain }}/
+            !data/${{ matrix.domain }}/urls.txt.gz
+          retention-days: 30
+
+  commit:
+    needs: [plan, crawl]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { pattern: "data-*", path: /tmp/dl }
+      - name: Merge + verify + commit with GITHUB_TOKEN
+        run: |
+          mkdir -p data
+          for d in /tmp/dl/data-*; do [ -d "$d" ] && cp -r "$d"/. data/ ; done
+          ls -R data | head -50
+          python - <<'PY'
+          import json, pathlib
+          rows = []
+          for s in sorted(pathlib.Path("data").glob("*/summary.json")):
+              j = json.loads(s.read_text())
+              rows.append({k: j.get(k) for k in ("domain", "generated_at", "urls_total", "family_count", "sitemaps_fetched", "sitemaps_failed", "samples_fetched", "errors")})
+          pathlib.Path("data/INDEX.json").write_text(json.dumps(rows, indent=1))
+          print(json.dumps(rows, indent=1))
+          PY
+          git config user.name "market-research-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: research run ${{ github.run_id }}" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3 4; do git pull --rebase -q && git push && exit 0; sleep $((i*5)); done
+          exit 1
+      - name: Fail if any domain has no URLs
+        env:
+          DOMAINS: ${{ needs.plan.outputs.domains }}
+        run: |
+          python - <<'PY'
+          import json, os, pathlib, sys
+          bad = []
+          for d in json.loads(os.environ["DOMAINS"]):
+              p = pathlib.Path("data") / d / "summary.json"
+              if not p.exists() or json.loads(p.read_text()).get("urls_total", 0) == 0:
+                  bad.append(d)
+          print("missing/empty:", bad)
+          sys.exit(1 if bad else 0)
+          PY
