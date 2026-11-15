@@ -56,16 +56,16 @@
   "word_count": 2917
  },
  {
-  "url": "https://zapier.com/apps/google-drive/integrations/shopuddy",
+  "url": "https://zapier.com/apps/airtable/integrations/wa-notifications-and-alerts-by-s",
   "family": "/apps/{x}/integrations/{x}",
   "status": 200,
-  "title": "Google Drive Shopuddy Integration - Quick Connect - Zapier",
+  "title": "Airtable WA Notifications and Alerts by SyncMate Integration - Quick Connect - Zapier",
   "h1": [
-   "Connect Google Drive and Shopuddy to power AI-driven automation"
+   "Connect Airtable and WA Notifications and Alerts by SyncMate to power AI-driven automation"
   ],
-  "h2_count": 19,
-  "meta_description": "Integrate Google Drive and Shopuddy in a few minutes. Quickly connect Google Drive and Shopuddy with over 9,000 apps on Zapier, the world\u2019s largest automation platform.",
-  "canonical": "https://zapier.com/apps/google-drive/integrations/shopuddy",
+  "h2_count": 20,
+  "meta_description": "Integrate Airtable and WA Notifications and Alerts by SyncMate in a few minutes. Quickly connect Airtable and WA Notifications and Alerts by SyncMate with over 9,000 apps on Zapier, the world\u2019s large...",
+  "canonical": "https://zapier.com/apps/airtable/integrations/wa-notifications-and-alerts-by-s",
   "meta_robots": "all",
   "schema_types": [
    "Action",
@@ -80,6 +80,7 @@
    "ImageObject",
    "ListItem",
    "Offer",
+   "OfferCatalog",
    "Organization",
    "Person",
    "PostalAddress",
@@ -93,11 +94,12 @@
    "zapier:Trigger"
   ],
   "hreflang_count": 0,
-  "internal_links": 351,
-  "external_links": 8,
+  "internal_links": 341,
+  "external_links": 10,
   "external_domains": {
    "github.com": 2,
-   "google.com": 2,
+   "airtable.com": 2,
+   "assistro.co": 2,
    "facebook.com": 1,
    "linkedin.com": 1,
    "x.com": 1,
@@ -110,19 +112,19 @@
    "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
    "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
   ],
-  "word_count": 3843
+  "word_count": 3380
  },
  {
-  "url": "https://zapier.com/apps/kommo/integrations/orca-scan",
+  "url": "https://zapier.com/apps/formbricks/integrations/privyr",
   "family": "/apps/{x}/integrations/{x}",
   "status": 200,
-  "title": "Kommo Orca Scan Integration - Quick Connect - Zapier",
+  "title": "Formbricks Privyr Integration - Quick Connect - Zapier",
   "h1": [
-   "Connect Kommo and Orca Scan to power AI-driven automation"
+   "Connect Formbricks and Privyr to power AI-driven automation"
   ],
   "h2_count": 18,
-  "meta_description": "Integrate Kommo and Orca Scan in a few minutes. Quickly connect Kommo and Orca Scan with over 9,000 apps on Zapier, the world\u2019s largest automation platform.",
-  "canonical": "https://zapier.com/apps/kommo/integrations/orca-scan",
+  "meta_description": "Integrate Formbricks and Privyr in a few minutes. Quickly connect Formbricks and Privyr with over 9,000 apps on Zapier, the world\u2019s largest automation platform.",
+  "canonical": "https://zapier.com/apps/formbricks/integrations/privyr",
   "meta_robots": "all",
   "schema_types": [
    "Action",
@@ -150,11 +152,10 @@
    "zapier:Trigger"
   ],
   "hreflang_count": 0,
-  "internal_links": 351,
-  "external_links": 8,
+  "internal_links": 334,
+  "external_links": 6,
   "external_domains": {
    "github.com": 2,
-   "kommo.com": 2,
    "facebook.com": 1,
    "linkedin.com": 1,
    "x.com": 1,
@@ -167,7 +168,7 @@
    "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
    "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
   ],
-  "word_count": 3243
+  "word_count": 1945
  },
  {
   "url": "https://zapier.com/automations/finance/payment-operations/payment-processing-management/register-customer-and-payment-into-finance-system-reliably",
@@ -339,25 +340,26 @@
   "word_count": 1271
  },
  {
-  "url": "https://zapier.com/apps/mailchimp/integrations/planoly-creator-store/1177745/create-mailchimp-subscribers-from-new-exclusive-content-orders-on-planoly-creator-store",
+  "url": "https://zapier.com/apps/mailchimp/integrations/smithai-zapier-app-da100556/557775/createupdate-mailchimp-subscribers-from-new-smithai-calls",
   "family": "/apps/{x}/integrations/{x}/{x}/{x}",
   "status": 200,
-  "title": "Create Mailchimp subscribers from new exclusive content orders on Planoly Creator Store",
+  "title": "Create/update MailChimp subscribers from new Smith.ai calls",
   "h1": [
-   "Mailchimp + Planoly Creator Store",
-   "Mailchimp + Planoly Creator Store"
+   "Mailchimp + Smith.ai",
+   "Mailchimp + Smith.ai"
   ],
-  "h2_count": 12,
-  "meta_description": "Would you like to communicate with your exclusive content customers from Planoly Creator Store on Mailchimp? With Zapier's help, the tedious work of creating Mailchimp subscribers from your new exclu...",
-  "canonical": "https://zapier.com/apps/mailchimp/integrations/planoly-creator-store/1177745/create-mailchimp-subscribers-from-new-exclusive-content-orders-on-planoly-creator-store",
+  "h2_count": 8,
+  "meta_description": "No matter who calls your business, generally you'd like to maintain communications with them. After your Smith.ai receptionists answer calls and collect contact information, you can use this integrat...",
+  "canonical": "https://zapier.com/apps/mailchimp/integrations/smithai-zapier-app-da100556/557775/createupdate-mailchimp-subscribers-from-new-smithai-calls",
   "meta_robots": "all",
   "schema_types": [],
   "hreflang_count": 0,
-  "internal_links": 366,
-  "external_links": 8,
+  "internal_links": 341,
+  "external_links": 10,
   "external_domains": {
    "github.com": 2,
    "mailchimp.com": 2,
+   "smith.ai": 2,
    "facebook.com": 1,
    "linkedin.com": 1,
    "x.com": 1,
@@ -370,27 +372,29 @@
    "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
    "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
   ],
-  "word_count": 3080
+  "word_count": 2780
  },
  {
-  "url": "https://zapier.com/apps/placester/integrations/top-producer/199527/create-top-producer-contacts-from-new-placester-website-lead",
+  "url": "https://zapier.com/apps/gmail/integrations/google-contacts/1348245/add-contacts-to-google-contacts-group-from-new-gmail-attachments",
   "family": "/apps/{x}/integrations/{x}/{x}/{x}",
   "status": 200,
-  "title": "Create Top Producer contacts from new Placester website lead",
+  "title": "Add contacts to Google Contacts group from new Gmail attachments",
   "h1": [
-   "Placester + Top Producer",
-   "Placester + Top Producer"
+   "Gmail + Google Contacts",
+   "Gmail + Google Contacts"
   ],
   "h2_count": 12,
-  "meta_description": "Is Top Producer your CRM of choice? Use this integration to save yourself time, automatically creating a new contact in your Top Producer account as soon as a new lead is created or updated on your P...",
-  "canonical": "https://zapier.com/apps/placester/integrations/top-producer/199527/create-top-producer-contacts-from-new-placester-website-lead",
+  "meta_description": "Effortlessly organize your email attachments by adding their senders to a specific group in Google Contacts. With this workflow, whenever you receive a new attachment in Gmail, the sender will be add...",
+  "canonical": "https://zapier.com/apps/gmail/integrations/google-contacts/1348245/add-contacts-to-google-contacts-group-from-new-gmail-attachments",
   "meta_robots": "all",
   "schema_types": [],
   "hreflang_count": 0,
-  "internal_links": 342,
-  "external_links": 6,
+  "internal_links": 372,
+  "external_links": 10,
   "external_domains": {
    "github.com": 2,
+   "mail.google.com": 2,
+   "google.com": 2,
    "facebook.com": 1,
    "linkedin.com": 1,
    "x.com": 1,
@@ -403,7 +407,7 @@
    "https://x.com/zapier?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier#!",
    "https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier"
   ],
-  "word_count": 1758
+  "word_count": 2938
  },
  {
   "url": "https://zapier.com/apps/0codekit/integrations",

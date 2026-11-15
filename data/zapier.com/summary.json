@@ -1,6 +1,6 @@
 {
  "domain": "zapier.com",
- "generated_at": "2026-11-15T08:30:01Z",
+ "generated_at": "2026-11-15T08:39:07Z",
  "robots_status": 200,
  "robots_sitemaps": [
   "https://zapier.com/uag6x9zaeydnbfy75xsggcsb37h8cgzf-two-service-sitemap.xml",
@@ -17,11 +17,11 @@
  "crawl_delay_used": 1.0,
  "sitemaps_fetched": 332,
  "sitemaps_failed": 0,
- "urls_total": 422807,
+ "urls_total": 424127,
  "urls_capped": false,
  "localized_urls": 0,
  "sections": {
-  "integrations": 278560,
+  "integrations": 279880,
   "templates": 131529,
   "blog": 6252,
   "use_cases_solutions": 6166,
@@ -40,7 +40,7 @@
  "families": [
   {
    "template": "/apps/{x}/integrations/{x}",
-   "count": 148350,
+   "count": 148333,
    "section": "integrations",
    "localized": 0
   },
@@ -52,7 +52,7 @@
   },
   {
    "template": "/apps/{x}/integrations/{x}/{x}/{x}",
-   "count": 99689,
+   "count": 101026,
    "section": "integrations",
    "localized": 0
   },
@@ -224,5 +224,5 @@
   "/status"
  ],
  "errors": [],
- "elapsed_s": 523.7
+ "elapsed_s": 377.1
 }

@@ -1,6 +1,6 @@
 {
  "domain": "make.com",
- "generated_at": "2026-11-15T08:23:23Z",
+ "generated_at": "2026-11-15T08:35:16Z",
  "robots_status": 200,
  "robots_sitemaps": [
   "https://www.make.com/sitemaps/index.xml"
@@ -14,16 +14,18 @@
  "sections": {
   "templates": 7952,
   "integrations": 4774,
-  "blog": 404,
-  "other": 343,
+  "blog": 431,
+  "academy_learn": 213,
+  "customers": 104,
   "events_webinars": 66,
-  "landing": 62,
+  "landing": 60,
   "use_cases_solutions": 9,
   "signup_login": 2,
   "partners_experts_affiliates": 2,
   "compare_alternatives": 2,
   "legal": 1,
   "home": 1,
+  "other": 1,
   "careers": 1,
   "pricing": 1
  },
@@ -62,7 +64,7 @@
   {
    "template": "/how-to-guides/{x}",
    "count": 212,
-   "section": "other",
+   "section": "academy_learn",
    "localized": 0
   },
   {
@@ -74,7 +76,7 @@
   {
    "template": "/success-stories/{x}",
    "count": 103,
-   "section": "other",
+   "section": "customers",
    "localized": 0
   },
   {
@@ -86,7 +88,7 @@
   {
    "template": "/authors/{x}",
    "count": 27,
-   "section": "other",
+   "section": "blog",
    "localized": 0
   },
   {
@@ -110,5 +112,5 @@
   "/use-cases"
  ],
  "errors": [],
- "elapsed_s": 122.9
+ "elapsed_s": 134.6
 }

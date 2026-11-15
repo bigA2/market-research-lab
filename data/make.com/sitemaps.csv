@@ -1,8 +1,8 @@
-url,ok,kind,count,error
-https://www.make.com/sitemaps/index.xml,True,index,6,
-https://www.make.com/sitemaps/static.xml,True,urlset,6,
-https://www.make.com/sitemaps/templates.xml,True,urlset,7830,
-https://www.make.com/sitemaps/integrations.xml,True,urlset,3452,
-https://www.make.com/sitemaps/integration-categories.xml,True,urlset,218,
-https://www.make.com/sitemaps/ab-pages.xml,True,urlset,1102,
-https://www.make.com/sitemap.xml,True,urlset,1012,
+url,ok,http_status,kind,count,error
+https://www.make.com/sitemaps/index.xml,True,200,index,6,
+https://www.make.com/sitemaps/static.xml,True,200,urlset,6,
+https://www.make.com/sitemaps/templates.xml,True,200,urlset,7830,
+https://www.make.com/sitemaps/integrations.xml,True,200,urlset,3452,
+https://www.make.com/sitemaps/integration-categories.xml,True,200,urlset,218,
+https://www.make.com/sitemaps/ab-pages.xml,True,200,urlset,1102,
+https://www.make.com/sitemap.xml,True,200,urlset,1012,

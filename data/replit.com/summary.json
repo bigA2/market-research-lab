@@ -1,6 +1,6 @@
 {
  "domain": "replit.com",
- "generated_at": "2026-11-15T08:27:03Z",
+ "generated_at": "2026-11-15T08:38:02Z",
  "robots_status": 200,
  "robots_sitemaps": [
   "https://replit.com/sitemap.xml",
@@ -16,14 +16,14 @@
  "urls_capped": false,
  "localized_urls": 0,
  "sections": {
-  "other": 647,
+  "use_cases_solutions": 644,
   "blog": 570,
   "templates": 227,
-  "landing": 48,
+  "landing": 45,
   "academy_learn": 42,
   "user_generated": 30,
   "customers": 21,
-  "use_cases_solutions": 7,
+  "other": 13,
   "integrations": 3,
   "signup_login": 2,
   "legal": 2,
@@ -40,7 +40,7 @@
   {
    "template": "/build/{x}",
    "count": 476,
-   "section": "other",
+   "section": "use_cases_solutions",
    "localized": 0
   },
   {
@@ -64,13 +64,13 @@
   {
    "template": "/discover/{x}",
    "count": 84,
-   "section": "other",
+   "section": "use_cases_solutions",
    "localized": 0
   },
   {
    "template": "/languages/{x}",
    "count": 55,
-   "section": "other",
+   "section": "use_cases_solutions",
    "localized": 0
   },
   {
@@ -100,7 +100,7 @@
   {
    "template": "/usecases/{x}",
    "count": 19,
-   "section": "other",
+   "section": "use_cases_solutions",
    "localized": 0
   },
   {
@@ -144,5 +144,5 @@
   "/changelog"
  ],
  "errors": [],
- "elapsed_s": 343.0
+ "elapsed_s": 316.2
 }

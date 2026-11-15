@@ -42,25 +42,25 @@
  {
   "name": "family_3",
   "url": "https://replit.com/gallery/work/marketing-and-sales/x-monitor",
-  "status": 429,
+  "status": 200,
   "final_url": "https://replit.com/gallery/work/marketing-and-sales/x-monitor",
-  "title": "Just a moment...",
+  "title": "X Monitor Template - Replit Gallery | Replit",
   "file": "family_3.png"
  },
  {
   "name": "family_4",
   "url": "https://replit.com/blog/author/benton-williams",
-  "status": 429,
+  "status": 200,
   "final_url": "https://replit.com/blog/author/benton-williams",
-  "title": "Just a moment...",
+  "title": "Benton Williams | Replit",
   "file": "family_4.png"
  },
  {
   "name": "family_5",
   "url": "https://replit.com/discover/replit-for-customer-support",
-  "status": 429,
+  "status": 200,
   "final_url": "https://replit.com/discover/replit-for-customer-support",
-  "title": "Just a moment...",
+  "title": "Replit for Support and Customer Operations | Replit",
   "file": "family_5.png"
  }
 ]
