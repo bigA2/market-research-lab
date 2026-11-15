@@ -4,7 +4,7 @@ name: vet-skills
 on:
   workflow_dispatch:
   push:
-    paths: [".github/workflows/vet-skills.yml", "tools/summarize_skillspector.py"]
+    paths: [".github/workflows/vet-skills.yml", "tools/summarize_skillspector.py", "tools/vet_files.py"]
 permissions:
   contents: write
 concurrency: { group: vet-skills, cancel-in-progress: false }
@@ -37,13 +37,16 @@ jobs:
           cat targets.txt | xargs -P4 -I{} sh -c 'n=$(echo {} | sed "s#/tmp/skills/##;s#/#__#g"); skillspector scan {} --no-llm --format json --output out/$n.json > out/$n.log 2>&1; echo $? > out/$n.exit'
           ls out/*.json | wc -l
       - name: Summarize
-        run: python tools/summarize_skillspector.py out vetting/skillspector-summary.json
+        run: |
+          mkdir -p vetting
+          python tools/summarize_skillspector.py out vetting/skillspector-summary.json
+          python tools/vet_files.py /tmp/skills vetting/skillspector-summary.json vetting/file-verdicts.csv
       - uses: actions/upload-artifact@v4
         with: { name: skillspector-reports, path: out/, retention-days: 30 }
       - name: Commit summary
         run: |
           git config user.name "market-research-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add vetting/skillspector-summary.json
+          git add vetting/
           git commit -m "vetting: SkillSpector summary ($SKILLS_SHA)" || exit 0
           for i in 1 2 3 4; do git pull --rebase -q && git push && break; sleep $((i*5)); done
