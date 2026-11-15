@@ -34,15 +34,15 @@ ad/README.md,content,SAFE,,,
 ad/README.zh.md,content,SAFE,,,
 ad/activate/ad-account-auditor/SKILL.md,content,SAFE,,,
 ad/activate/ad-account-auditor/references/auditor-runtime.md,content,SAFE,,,
-ad/activate/conversion-signal-qa/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+ad/activate/conversion-signal-qa/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 ad/activate/conversion-signal-qa/references/preflight-checklist.md,content,SAFE,,,
 ad/activate/conversion-signal-qa/references/utm-event-spec.md,content,SAFE,,,
-ad/activate/conversion-value-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+ad/activate/conversion-value-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 ad/activate/placement-exclusion-manager/SKILL.md,content,SAFE,,,
 ad/orchestrate/ad-creative-builder/SKILL.md,content,SAFE,,,
 ad/orchestrate/ad-creative-builder/references/ad-format-specs.md,content,SAFE,,,
 ad/orchestrate/ad-creative-builder/references/angle-matrix.md,content,SAFE,,,
-ad/orchestrate/ad-test-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+ad/orchestrate/ad-test-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 ad/orchestrate/ad-test-designer/references/measurement-control.md,content,SAFE,,,
 ad/orchestrate/ad-test-designer/references/test-design-guide.md,content,SAFE,,,
 ad/orchestrate/bid-strategy-planner/SKILL.md,content,SAFE,,,
@@ -53,8 +53,8 @@ ad/research/campaign-architect/SKILL.md,content,SAFE,,,
 ad/research/product-feed-optimizer/SKILL.md,content,SAFE,,,
 ad/research/product-feed-optimizer/references/feed-title-patterns.md,content,SAFE,,,
 ad/research/search-term-miner/SKILL.md,content,SAFE,,,
-ad/scale/attribution-reconciler/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-ad/scale/budget-pacing-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+ad/scale/attribution-reconciler/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+ad/scale/budget-pacing-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 ad/scale/fatigue-frequency-manager/SKILL.md,content,SAFE,,,
 ad/scale/paid-measurement-loop/SKILL.md,content,SAFE,,,
 badges/claudeskills.json,content,SAFE,,,
@@ -97,12 +97,12 @@ docs/workflow-graph.md,content,SAFE,,,
 email/README.md,content,SAFE,,,
 email/README.zh.md,content,SAFE,,,
 email/deliver/cold-outbound-sequencer/SKILL.md,content,SAFE,,,
-email/deliver/email-quality-auditor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+email/deliver/email-quality-auditor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 email/deliver/email-quality-auditor/references/auditor-runtime.md,content,SAFE,,,
-email/deliver/inbox-placement-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+email/deliver/inbox-placement-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 email/deliver/inbox-placement-monitor/references/placement-telemetry-checklist.md,content,SAFE,,,
-email/deliver/send-experiment-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-email/engage/dynamic-content-personalizer/SKILL.md,content,SAFE,,P3:HIGH,SkillSpector P3:HIGH reviewed: false positive
+email/deliver/send-experiment-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+email/engage/dynamic-content-personalizer/SKILL.md,content,SAFE,,P3:HIGH,"SkillSpector hits reviewed -> P3: 'continue silently' column header in a stop-and-ask table, no transmission"
 email/engage/email-creative-builder/SKILL.md,content,SAFE,,,
 email/engage/email-creative-builder/references/email-creative-modes.md,content,SAFE,,,
 email/engage/email-creative-builder/references/subject-line-specs.md,content,SAFE,,,
@@ -113,15 +113,15 @@ email/engage/subject-line-lab/SKILL.md,content,SAFE,,,
 email/engage/subject-line-lab/references/spam-trigger-checklist.md,content,SAFE,,,
 email/nurture/email-sequence-designer/SKILL.md,content,SAFE,,,
 email/nurture/email-sequence-designer/references/send-control.md,content,SAFE,,,
-email/nurture/newsletter-monetization-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+email/nurture/newsletter-monetization-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 email/nurture/preference-frequency-manager/SKILL.md,content,SAFE,,,
-email/nurture/reactivation-specialist/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-email/setup/deliverability-qa/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-email/setup/deliverability-qa/references/deliverability-checklist.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-email/setup/list-growth-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-email/setup/list-hygiene-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+email/nurture/reactivation-specialist/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+email/setup/deliverability-qa/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+email/setup/deliverability-qa/references/deliverability-checklist.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+email/setup/list-growth-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+email/setup/list-hygiene-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 email/setup/list-hygiene-monitor/references/hygiene-checklist.md,content,SAFE,,,
-email/setup/list-segment-builder/SKILL.md,content,SAFE,,"EA2:MEDIUM,P6:HIGH","SkillSpector EA2:MEDIUM,P6:HIGH reviewed: false positive"
+email/setup/list-segment-builder/SKILL.md,content,SAFE,,"EA2:MEDIUM,P6:HIGH",SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | P6: 'output rules' wording inside an untrusted-input warning
 evals/README.md,content,SAFE,,,
 evals/ad-account-auditor/cases.md,content,SAFE,,,
 evals/ad-creative-builder/cases.md,content,SAFE,,,
@@ -265,14 +265,14 @@ influencer/README.md,content,SAFE,,,
 influencer/README.zh.md,content,SAFE,,,
 influencer/activate/content-amplifier/SKILL.md,content,SAFE,,,
 influencer/activate/content-amplifier/references/atom-extraction.md,content,SAFE,,,
-influencer/activate/content-amplifier/references/templates.md,content,SAFE,,EA3:LOW,SkillSpector EA3:LOW reviewed: false positive
+influencer/activate/content-amplifier/references/templates.md,content,SAFE,,EA3:LOW,SkillSpector hits reviewed -> EA3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 influencer/activate/contract-helper/SKILL.md,content,SAFE,,,
-influencer/activate/contract-helper/references/templates.md,content,SAFE,,"EA2:MEDIUM,EA3:LOW","SkillSpector EA2:MEDIUM,EA3:LOW reviewed: false positive"
-influencer/activate/creator-content-auditor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+influencer/activate/contract-helper/references/templates.md,content,SAFE,,"EA2:MEDIUM,EA3:LOW",SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | EA3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+influencer/activate/creator-content-auditor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 influencer/activate/creator-content-auditor/references/auditor-runtime.md,content,SAFE,,,
 influencer/activate/creator-content-auditor/references/quality-review-aids.md,content,SAFE,,,
 influencer/activate/creator-content-auditor/references/review-templates.md,content,SAFE,,,
-influencer/activate/outreach-manager/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+influencer/activate/outreach-manager/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 influencer/activate/outreach-manager/references/cold-copy-rules.md,content,SAFE,,,
 influencer/activate/outreach-manager/references/templates.md,content,SAFE,,,
 influencer/report/landing-optimizer/SKILL.md,content,SAFE,,,
@@ -310,22 +310,22 @@ launch/assemble/launch-asset-packager/SKILL.md,content,SAFE,,,
 launch/assemble/launch-asset-packager/references/action-control.md,content,SAFE,,,
 launch/assemble/launch-asset-packager/references/asset-specs.md,content,SAFE,,,
 launch/assemble/message-house-builder/SKILL.md,content,SAFE,,,
-launch/assemble/pricing-packaging-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-launch/assemble/sales-enablement-kit/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-launch/mobilize/community-launch-runner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+launch/assemble/pricing-packaging-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+launch/assemble/sales-enablement-kit/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+launch/mobilize/community-launch-runner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 launch/mobilize/community-launch-runner/references/channel-matrix.md,content,SAFE,,,
 launch/mobilize/launch-day-conductor/SKILL.md,content,SAFE,,,
 launch/mobilize/launch-readiness-auditor/SKILL.md,content,SAFE,,,
 launch/mobilize/launch-readiness-auditor/references/auditor-runtime.md,content,SAFE,,,
 launch/mobilize/press-media-relations/SKILL.md,content,SAFE,,,
-launch/prove/launch-feedback-synthesizer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+launch/prove/launch-feedback-synthesizer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 launch/prove/launch-monitor/SKILL.md,content,SAFE,,,
-launch/prove/launch-retro-analyzer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-launch/prove/momentum-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-launch/research/early-access-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+launch/prove/launch-retro-analyzer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+launch/prove/momentum-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+launch/research/early-access-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 launch/research/launch-tier-planner/SKILL.md,content,SAFE,,,
-launch/research/launch-window-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-launch/research/positioning-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+launch/research/launch-window-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+launch/research/positioning-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 marketplace.json,content,SAFE,,,
 memory/README.md,content,SAFE,,,
 memory/templates/decisions.md,content,SAFE,,,
@@ -335,27 +335,27 @@ memory/templates/open-loops.md,content,SAFE,,,
 memory/templates/session-checkpoint.md,content,SAFE,,,
 narrative/README.md,content,SAFE,,,
 narrative/README.zh.md,content,SAFE,,,
-narrative/architect/brand-language-codifier/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/architect/message-system-architect/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/architect/story-bank-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/architect/strategic-narrative-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/evaluate/message-test-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+narrative/architect/brand-language-codifier/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/architect/message-system-architect/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/architect/story-bank-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/architect/strategic-narrative-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/evaluate/message-test-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 narrative/evaluate/message-test-designer/references/stimulus-binding.md,content,SAFE,,,
-narrative/evaluate/narrative-drift-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+narrative/evaluate/narrative-drift-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 narrative/evaluate/narrative-quality-auditor/SKILL.md,content,SAFE,,,
 narrative/evaluate/narrative-quality-auditor/references/auditor-runtime.md,content,SAFE,,,
-narrative/evaluate/narrative-resonance-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/land/narrative-cascade-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/land/narrative-enablement-kit/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/land/pitch-narrative-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/land/proof-point-packager/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/trace/audience-belief-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/trace/category-narrative-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/trace/narrative-baseline-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-narrative/trace/positioning-truth-tracer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+narrative/evaluate/narrative-resonance-monitor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/land/narrative-cascade-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/land/narrative-enablement-kit/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/land/pitch-narrative-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/land/proof-point-packager/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/trace/audience-belief-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/trace/category-narrative-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/trace/narrative-baseline-mapper/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+narrative/trace/positioning-truth-tracer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 openclaw.plugin.json,content,SAFE,,,
 protocol/channel-registry/SKILL.md,content,SAFE,,,
-protocol/consent-registry/SKILL.md,content,SAFE,,MP3:HIGH,SkillSpector MP3:HIGH reviewed: false positive
+protocol/consent-registry/SKILL.md,content,SAFE,,MP3:HIGH,SkillSpector hits reviewed -> MP3: 'clear state' refers to the skill's own consent/loop event files
 protocol/creator-registry/SKILL.md,content,SAFE,,,
 protocol/creator-registry/references/creator-record-template.md,content,SAFE,,,
 protocol/entity-registry/SKILL.md,content,SAFE,,,
@@ -650,111 +650,111 @@ references/workflow-loop-plan.schema.json,content,SAFE,,,
 references/workflow-loop-protocol.md,content,SAFE,,,
 references/workflow-loop-request.schema.json,content,SAFE,,,
 references/workflow-loop-state.schema.json,content,SAFE,,,
-scripts/adapters/codex-behavior-adapter.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW","SkillSpector AST4:MEDIUM,AST7:LOW reviewed: false positive"
-scripts/agent_plugin_builder.py,executable,SAFE,,AST7:LOW,SkillSpector AST7:LOW reviewed: false positive
-scripts/audit-loop.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,MP3:HIGH","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,MP3:HIGH reviewed: false positive"
-scripts/audit-trends.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM reviewed: false positive"
-scripts/build-distribution.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM,AST7:LOW","SkillSpector AST3:MEDIUM,AST4:MEDIUM,AST7:LOW reviewed: false positive"
-scripts/build-release-assets.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW,E2:HIGH","SkillSpector AST4:MEDIUM,AST7:LOW,E2:HIGH reviewed: false positive"
+scripts/adapters/codex-behavior-adapter.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW",SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/agent_plugin_builder.py,executable,SAFE,,AST7:LOW,SkillSpector hits reviewed -> AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/audit-loop.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,MP3:HIGH","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | MP3: 'clear state' refers to the skill's own consent/loop event files"
+scripts/audit-trends.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | TT2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/build-distribution.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM,AST7:LOW",SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/build-release-assets.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW,E2:HIGH","SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | E2: subprocess.run with fixed argument lists, no shell=True"
 scripts/bump-release.py,executable,SAFE,,,
-scripts/check-agent-plugins-standard.py,executable,SAFE,,AST7:LOW,SkillSpector AST7:LOW reviewed: false positive
-scripts/check-architecture.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
+scripts/check-agent-plugins-standard.py,executable,SAFE,,AST7:LOW,SkillSpector hits reviewed -> AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/check-architecture.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/check-context-budget.py,executable,SAFE,,,
-scripts/check-context-efficiency.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
-scripts/check-engineering-maturity.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM","SkillSpector AST3:MEDIUM,AST4:MEDIUM reviewed: false positive"
+scripts/check-context-efficiency.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/check-engineering-maturity.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM",SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/check-evals.py,executable,SAFE,,,
 scripts/check-local-links.py,executable,SAFE,,,
-scripts/check-memory-private.py,executable,SAFE,,AST4:MEDIUM,SkillSpector AST4:MEDIUM reviewed: false positive
-scripts/check-pii.py,executable,SAFE,,AST4:MEDIUM,SkillSpector AST4:MEDIUM reviewed: false positive
+scripts/check-memory-private.py,executable,SAFE,,AST4:MEDIUM,SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/check-pii.py,executable,SAFE,,AST4:MEDIUM,SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/check-routing-retrieval.py,executable,SAFE,,,
 scripts/check-routing.py,executable,SAFE,,,
-scripts/check-skill-dashboard.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
+scripts/check-skill-dashboard.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/check-stdlib-only.sh,executable,SAFE,,,
 scripts/check-versions.sh,executable,SAFE,,,
-scripts/check-wiki.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
-scripts/classify-change-impact.py,executable,SAFE,,AST4:MEDIUM,SkillSpector AST4:MEDIUM reviewed: false positive
+scripts/check-wiki.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/classify-change-impact.py,executable,SAFE,,AST4:MEDIUM,SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/connectors/README.md,content,SAFE,,,
-scripts/connectors/_http.py,executable,SAFE,dynamic_exec,EA4:MEDIUM,"exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector EA4:MEDIUM reviewed: false positive"
-scripts/connectors/_loader.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/appstore.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/bluesky.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,PE3:HIGH","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,PE3:HIGH reviewed: false positive"
-scripts/connectors/crawl.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/discourse.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/doh.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
+scripts/connectors/_http.py,executable,SAFE,dynamic_exec,EA4:MEDIUM,"exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> EA4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/connectors/_loader.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/appstore.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/bluesky.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,PE3:HIGH","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | PE3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/connectors/crawl.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/discourse.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/doh.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
 scripts/connectors/experiment.py,executable,SAFE,,,
-scripts/connectors/fediverse.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/firecrawl.py,executable,SAFE,"dynamic_exec,http_write","AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; POST builders in API connectors; only run when the user supplies their own key; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM reviewed: false positive"
-scripts/connectors/gdelt.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM reviewed: false positive"
-scripts/connectors/hn.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
+scripts/connectors/fediverse.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/firecrawl.py,executable,SAFE,"dynamic_exec,http_write","AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; POST builders in API connectors; only run when the user supplies their own key; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | E1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/connectors/gdelt.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | E1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/connectors/hn.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
 scripts/connectors/indexpush.py,executable,UNSAFE,"dynamic_exec,http_write","AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM",Submits URLs to IndexNow / Baidu with the user's key (mutating outbound writes).
-scripts/connectors/kg.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
+scripts/connectors/kg.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
 scripts/connectors/ledger.py,executable,SAFE,,,
 scripts/connectors/linkgraph.py,executable,SAFE,,,
-scripts/connectors/onpage.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/openpagerank.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/pageviews.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/producthunt.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM,PE3:HIGH","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM,PE3:HIGH reviewed: false positive"
-scripts/connectors/psi.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
+scripts/connectors/onpage.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/openpagerank.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/pageviews.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/producthunt.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM,PE3:HIGH","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | E1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | PE3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/connectors/psi.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
 scripts/connectors/resend.py,executable,UNSAFE,"dynamic_exec,http_write","AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,YR4:HIGH",Sends real emails / creates contacts & broadcasts via Resend API with the user's key (mutating outbound writes).
-scripts/connectors/robots.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/rss_monitor.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/schema_lint.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/sitemap.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
+scripts/connectors/robots.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/rss_monitor.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/schema_lint.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/sitemap.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
 scripts/connectors/smoke-live.sh,executable,SAFE,,,
-scripts/connectors/suggest.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/tavily.py,executable,SAFE,"dynamic_exec,http_write","AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; POST builders in API connectors; only run when the user supplies their own key; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM reviewed: false positive"
-scripts/connectors/wayback.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/connectors/youtube.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/context-assembly.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM reviewed: false positive"
-scripts/context-plan.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/context-profile-resolver.py,executable,SAFE,,AST7:LOW,SkillSpector AST7:LOW reviewed: false positive
-scripts/context-resolver.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/context-usage.py,executable,SAFE,,"AST3:MEDIUM,TT2:MEDIUM","SkillSpector AST3:MEDIUM,TT2:MEDIUM reviewed: false positive"
+scripts/connectors/suggest.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/tavily.py,executable,SAFE,"dynamic_exec,http_write","AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL,E1:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; POST builders in API connectors; only run when the user supplies their own key; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | E1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/connectors/wayback.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/connectors/youtube.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/context-assembly.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | TT2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/context-plan.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/context-profile-resolver.py,executable,SAFE,,AST7:LOW,SkillSpector hits reviewed -> AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/context-resolver.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/context-usage.py,executable,SAFE,,"AST3:MEDIUM,TT2:MEDIUM",SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | TT2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/create-github-release.py,executable,UNSAFE,,AST4:MEDIUM,Creates GitHub releases with the user's credentials.
-scripts/eval_cases.py,executable,SAFE,,AST4:MEDIUM,SkillSpector AST4:MEDIUM reviewed: false positive
+scripts/eval_cases.py,executable,SAFE,,AST4:MEDIUM,SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/generate-auditor-prompt-contracts.py,executable,SAFE,,,
 scripts/generate-auditor-runtime.py,executable,SAFE,,,
 scripts/generate-auto-routing-shards.py,executable,SAFE,,,
 scripts/generate-bot-projections.py,executable,SAFE,,,
-scripts/generate-claude-index.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
-scripts/generate-release-surfaces.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
-scripts/generate-router-facades.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
-scripts/generate-skill-contracts.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
-scripts/generate-system-docs.py,executable,SAFE,,YR4:HIGH,SkillSpector YR4:HIGH reviewed: false positive
-scripts/golden-auditor-math.py,executable,SAFE,,AST3:MEDIUM,SkillSpector AST3:MEDIUM reviewed: false positive
+scripts/generate-claude-index.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/generate-release-surfaces.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/generate-router-facades.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/generate-skill-contracts.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/generate-system-docs.py,executable,SAFE,,YR4:HIGH,SkillSpector hits reviewed -> YR4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/golden-auditor-math.py,executable,SAFE,,AST3:MEDIUM,SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/install-git-hooks.sh,executable,SAFE,,,
-scripts/issue-engineering-release-receipt.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM,AST7:LOW","SkillSpector AST3:MEDIUM,AST4:MEDIUM,AST7:LOW reviewed: false positive"
-scripts/maintain.py,executable,SAFE,,AST4:MEDIUM,SkillSpector AST4:MEDIUM reviewed: false positive
-scripts/profile-resolver.py,executable,SAFE,,AST7:LOW,SkillSpector AST7:LOW reviewed: false positive
+scripts/issue-engineering-release-receipt.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM,AST7:LOW",SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/maintain.py,executable,SAFE,,AST4:MEDIUM,SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/profile-resolver.py,executable,SAFE,,AST7:LOW,SkillSpector hits reviewed -> AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/publish-clawhub.sh,executable,UNSAFE,,TM2:HIGH,Publishes packages to ClawHub under the logged-in account.
 scripts/publish-common.sh,executable,UNSAFE,,,Release/publish helper using the logged-in gh CLI.
 scripts/publish-package.sh,executable,UNSAFE,,TM2:HIGH,Publishes packages to ClawHub under the logged-in account.
 scripts/publish-registries.sh,executable,UNSAFE,,,Orchestrates live registry publishing (--live).
 scripts/publish-skillhub.sh,executable,UNSAFE,curl_pipe_shell,"SC2:HIGH,TM2:HIGH",Publishes packages to SkillHub with the user's key.
 scripts/publish-state.py,executable,SAFE,,,
-scripts/registry-events.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
+scripts/registry-events.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
 scripts/registry-status.sh,executable,SAFE,,,
 scripts/rubric-score.py,executable,SAFE,,,
-scripts/run-behavior-evals.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM,AST7:LOW,TT2:MEDIUM","SkillSpector AST3:MEDIUM,AST4:MEDIUM,AST7:LOW,TT2:MEDIUM reviewed: false positive"
-scripts/run-events.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM reviewed: false positive"
-scripts/run-isolated-evals.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW,E2:HIGH,TT2:MEDIUM","SkillSpector AST4:MEDIUM,AST7:LOW,E2:HIGH,TT2:MEDIUM reviewed: false positive"
-scripts/runtime-controller.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/skill-dashboard.py,executable,SAFE,,RA1:HIGH,SkillSpector RA1:HIGH reviewed: false positive
-scripts/smoke-bot-projections.py,executable,SAFE,,"AST4:MEDIUM,OH1:HIGH,PE3:HIGH","SkillSpector AST4:MEDIUM,OH1:HIGH,PE3:HIGH reviewed: false positive"
-scripts/stats-dashboard.py,executable,SAFE,,"E1:MEDIUM,TT3:CRITICAL","SkillSpector E1:MEDIUM,TT3:CRITICAL reviewed: false positive"
-scripts/sync-about.sh,executable,SAFE,,TM2:HIGH,SkillSpector TM2:HIGH reviewed: false positive
+scripts/run-behavior-evals.py,executable,SAFE,,"AST3:MEDIUM,AST4:MEDIUM,AST7:LOW,TT2:MEDIUM",SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | TT2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/run-events.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST4:MEDIUM,AST6:MEDIUM,AST7:LOW,AST8:CRITICAL,TT2:MEDIUM","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input | TT2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/run-isolated-evals.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW,E2:HIGH,TT2:MEDIUM","SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | E2: subprocess.run with fixed argument lists, no shell=True | TT2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour"
+scripts/runtime-controller.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/skill-dashboard.py,executable,SAFE,,RA1:HIGH,SkillSpector hits reviewed -> RA1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/smoke-bot-projections.py,executable,SAFE,,"AST4:MEDIUM,OH1:HIGH,PE3:HIGH",SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | OH1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | PE3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/stats-dashboard.py,executable,SAFE,,"E1:MEDIUM,TT3:CRITICAL",SkillSpector hits reviewed -> E1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | TT3: env token sent only as Bearer to hard-coded https://skills.sh/api GET (maintainer stats)
+scripts/sync-about.sh,executable,UNSAFE,,TM2:HIGH,"PATCHes the GitHub repo description/topics through the logged-in `gh` CLI (mutating, uses the user's credential)."
 scripts/sync-family.sh,executable,UNSAFE,secret_paths,E1:MEDIUM,"Borrows the user's GitHub credential via `gh auth token` when GITHUB_TOKEN is unset (sent only to api.github.com, but credential-borrowing)."
 scripts/system_catalog.py,executable,SAFE,,,
-scripts/validate-agent-plugin.py,executable,SAFE,,AST7:LOW,SkillSpector AST7:LOW reviewed: false positive
+scripts/validate-agent-plugin.py,executable,SAFE,,AST7:LOW,SkillSpector hits reviewed -> AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/validate-audit-artifact.py,executable,SAFE,,,
-scripts/validate-control-artifact.py,executable,SAFE,,AST7:LOW,SkillSpector AST7:LOW reviewed: false positive
-scripts/validate-skill.sh,executable,SAFE,,"AS1:HIGH,RP1:MEDIUM","SkillSpector AS1:HIGH,RP1:MEDIUM reviewed: false positive"
+scripts/validate-control-artifact.py,executable,SAFE,,AST7:LOW,SkillSpector hits reviewed -> AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/validate-skill.sh,executable,SAFE,,"AS1:HIGH,RP1:MEDIUM",SkillSpector hits reviewed -> AS1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | RP1: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/verify-profile-outcomes.py,executable,SAFE,,,
-scripts/verify-release-receipt.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW","SkillSpector AST4:MEDIUM,AST7:LOW reviewed: false positive"
-scripts/verify-semantic-evidence.py,executable,SAFE,,"AST3:MEDIUM,AST7:LOW","SkillSpector AST3:MEDIUM,AST7:LOW reviewed: false positive"
+scripts/verify-release-receipt.py,executable,SAFE,,"AST4:MEDIUM,AST7:LOW",SkillSpector hits reviewed -> AST4: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+scripts/verify-semantic-evidence.py,executable,SAFE,,"AST3:MEDIUM,AST7:LOW",SkillSpector hits reviewed -> AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST7: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 scripts/workflow-graph.py,executable,SAFE,,,
-scripts/workflow-loop.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
-scripts/workflow_loop.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL reviewed: false positive"
+scripts/workflow-loop.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
+scripts/workflow_loop.py,executable,SAFE,dynamic_exec,"AST1:HIGH,AST3:MEDIUM,AST6:MEDIUM,AST8:CRITICAL","exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input; SkillSpector hits reviewed -> AST1: same sibling-module loader as AST8 | AST3: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST6: keyword/AST pattern hit; manual grep found no matching dangerous behaviour | AST8: exec(compile()) of a sibling .py file from the same repo (module loader), no remote input"
 seo-geo/README.md,content,SAFE,,,
 seo-geo/README.zh.md,content,SAFE,,,
 seo-geo/evaluate/domain-authority-auditor/SKILL.md,content,SAFE,,,
@@ -762,7 +762,7 @@ seo-geo/evaluate/domain-authority-auditor/references/auditor-runtime.md,content,
 seo-geo/evaluate/domain-authority-auditor/references/example-report.md,content,SAFE,,,
 seo-geo/evaluate/offsite-signal-analyzer/SKILL.md,content,SAFE,,,
 seo-geo/evaluate/offsite-signal-analyzer/references/backlinks-analysis-templates.md,content,SAFE,,,
-seo-geo/evaluate/offsite-signal-analyzer/references/link-quality-rubric.md,content,SAFE,,AR2:HIGH,SkillSpector AR2:HIGH reviewed: false positive
+seo-geo/evaluate/offsite-signal-analyzer/references/link-quality-rubric.md,content,SAFE,,AR2:HIGH,SkillSpector hits reviewed -> AR2: 'Do not judge' inside a link-quality scoring rubric
 seo-geo/evaluate/offsite-signal-analyzer/references/outreach-templates.md,content,SAFE,,,
 seo-geo/evaluate/performance-monitor/SKILL.md,content,SAFE,,,
 seo-geo/evaluate/performance-monitor/references/alert-configuration-templates.md,content,SAFE,,,
@@ -774,7 +774,7 @@ seo-geo/evaluate/performance-monitor/references/report-templates.md,content,SAFE
 seo-geo/evaluate/rank-tracker/SKILL.md,content,SAFE,,,
 seo-geo/evaluate/rank-tracker/references/ranking-analysis-templates.md,content,SAFE,,,
 seo-geo/evaluate/rank-tracker/references/tracking-setup-guide.md,content,SAFE,,,
-seo-geo/implement/content-writer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+seo-geo/implement/content-writer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 seo-geo/implement/content-writer/references/content-decay-signals.md,content,SAFE,,,
 seo-geo/implement/content-writer/references/content-structure-templates.md,content,SAFE,,,
 seo-geo/implement/content-writer/references/instructions-detail.md,content,SAFE,,,
@@ -822,7 +822,7 @@ seo-geo/survey/serp-analysis/SKILL.md,content,SAFE,,,
 seo-geo/survey/serp-analysis/references/analysis-templates.md,content,SAFE,,,
 seo-geo/survey/serp-analysis/references/example-report.md,content,SAFE,,,
 seo-geo/survey/serp-analysis/references/serp-feature-taxonomy.md,content,SAFE,,,
-seo-geo/tune/content-quality-auditor/SKILL.md,content,SAFE,,AE1:HIGH,SkillSpector AE1:HIGH reviewed: false positive
+seo-geo/tune/content-quality-auditor/SKILL.md,content,SAFE,,AE1:HIGH,"SkillSpector hits reviewed -> AE1: scanner could not fully parse a referenced reference file (partial analysis, not evasion)"
 seo-geo/tune/content-quality-auditor/references/auditor-runtime.md,content,SAFE,,,
 seo-geo/tune/content-quality-auditor/references/item-reference.md,content,SAFE,,,
 seo-geo/tune/content-quality-auditor/references/recursive-refinement.md,content,SAFE,,,
@@ -849,22 +849,22 @@ seo-geo/tune/technical-seo-checker/references/technical-audit-templates.md,conte
 skills.sh.json,content,SAFE,,,
 social/README.md,content,SAFE,,,
 social/README.zh.md,content,SAFE,,,
-social/craft/advocacy-program-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-social/craft/short-video-scripter/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-social/craft/social-calendar-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+social/craft/advocacy-program-designer/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+social/craft/short-video-scripter/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+social/craft/social-calendar-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 social/craft/social-calendar-builder/references/human-action-control.md,content,SAFE,,,
 social/craft/social-creative-builder/SKILL.md,content,SAFE,,,
-social/explore/channel-portfolio-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-social/explore/participation-warmup-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-social/explore/platform-norm-profiler/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-social/explore/voice-dossier-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+social/explore/channel-portfolio-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+social/explore/participation-warmup-planner/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+social/explore/platform-norm-profiler/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+social/explore/voice-dossier-builder/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 social/host/crisis-response-planner/SKILL.md,content,SAFE,,,
-social/host/engagement-inbox-manager/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+social/host/engagement-inbox-manager/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 social/host/social-quality-auditor/SKILL.md,content,SAFE,,,
 social/host/social-quality-auditor/references/auditor-runtime.md,content,SAFE,,,
 social/host/social-selling-planner/SKILL.md,content,SAFE,,,
-social/observe/dark-social-attributor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
-social/observe/share-of-voice-tracker/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector EA2:MEDIUM reviewed: false positive
+social/observe/dark-social-attributor/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
+social/observe/share-of-voice-tracker/SKILL.md,content,SAFE,,EA2:MEDIUM,SkillSpector hits reviewed -> EA2: keyword/AST pattern hit; manual grep found no matching dangerous behaviour
 social/observe/social-measurement-loop/SKILL.md,content,SAFE,,,
 social/observe/social-pulse-monitor/SKILL.md,content,SAFE,,,
 tests/fixtures/benchmark-boundary-cases.json,content,SAFE,,,

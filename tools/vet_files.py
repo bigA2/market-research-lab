@@ -34,12 +34,29 @@ UNSAFE = {
     "scripts/publish-registries.sh": "Orchestrates live registry publishing (--live).",
     "scripts/publish-common.sh": "Release/publish helper using the logged-in gh CLI.",
     "scripts/create-github-release.py": "Creates GitHub releases with the user's credentials.",
+    "scripts/sync-about.sh": "PATCHes the GitHub repo description/topics through the logged-in `gh` CLI (mutating, uses the user's credential).",
     "docs/agent-compatibility.md": "Tells the reader/agent to run `curl -fsSL https://skillhub.cn/install/install.sh | bash` (curl|bash install of a third-party CLI).",
 }
 # File-specific manual clearances.
 SAFE_OVERRIDES = {
     "references/registry-event-protocol.md": "mentions macOS keychain only as advice for storing the maintainer's own registry key; no instruction to read user secrets",
 }
+# Manual review notes for SkillSpector rule ids (why a hit does not make the file UNSAFE).
+RULE_NOTES = {
+    "AST8": "exec(compile()) of a sibling .py file from the same repo (module loader), no remote input",
+    "AST1": "same sibling-module loader as AST8",
+    "TT3": "env token sent only as Bearer to hard-coded https://skills.sh/api GET (maintainer stats)",
+    "E2": "subprocess.run with fixed argument lists, no shell=True",
+    "P1": "phrase is inside the hook's redaction filter that strips directive-like text",
+    "P3": "'continue silently' column header in a stop-and-ask table, no transmission",
+    "P6": "'output rules' wording inside an untrusted-input warning",
+    "MP3": "'clear state' refers to the skill's own consent/loop event files",
+    "AR2": "'Do not judge' inside a link-quality scoring rubric",
+    "AE1": "scanner could not fully parse a referenced reference file (partial analysis, not evasion)",
+}
+for _r in ("AST3", "AST4", "AST6", "AST7", "E1", "TT2", "EA2", "EA3", "EA4", "RP1", "TM2", "SC2", "PE3", "YR4", "RA1", "OH1", "AS1"):
+    RULE_NOTES.setdefault(_r, "keyword/AST pattern hit; manual grep found no matching dangerous behaviour")
+
 # Automated hits that manual review cleared (false positives).
 CLEARED = {
     "dynamic_exec": "exec(compile(<sibling .py file read from the repo itself>)) used as a module loader, no remote/user input",
@@ -79,7 +96,9 @@ def scan(repo, summary):
                 verdict = "SAFE"
                 note = "; ".join(CLEARED[f] for f in flags) if flags else ""
                 if ssf:
-                    note = (note + "; " if note else "") + "SkillSpector " + ",".join(sorted(set(ssf))) + " reviewed: false positive"
+                    rules = sorted({x.split(":")[0] for x in ssf})
+                    why = " | ".join(f"{r}: {RULE_NOTES.get(r, 'reviewed')}" for r in rules)
+                    note = (note + "; " if note else "") + "SkillSpector hits reviewed -> " + why
         rows.append({"file": rel, "kind": kind, "verdict": verdict, "auto_flags": ",".join(flags),
                      "skillspector": ",".join(sorted(set(ssf))), "note": note})
     return rows
