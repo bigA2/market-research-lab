@@ -1,0 +1,3282 @@
+{
+ "crawled": "2026-11-20 19:20 UTC",
+ "sites": {
+  "zapier": {
+   "robots_status": 200,
+   "robots_ai_rules": [
+    "User-agent: GPTBot",
+    "User-agent: OAI-SearchBot",
+    "User-agent: ClaudeBot",
+    "User-agent: Google-Extended",
+    "User-agent: PerplexityBot"
+   ],
+   "llms_txt": true,
+   "llms_txt_len": 14763,
+   "sitemap_urls": 53885,
+   "url_families": [
+    [
+     "apps",
+     50000
+    ],
+    [
+     "blog",
+     3885
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://zapier.com/",
+     "status": 200,
+     "title": "Zapier: Automate AI Workflows, Agents, and Apps",
+     "meta_desc": "Build and scale AI workflows and agents across 9,000+ apps with Zapier\u2014the most connected AI orchestration platform. Trusted by 3 million+ businesses. ",
+     "h1": [
+      "Welcome to automation in the agentic era"
+     ],
+     "h2_count": 16,
+     "question_h2": 0,
+     "words": 1796,
+     "tables": 0,
+     "jsonld_types": [
+      "CreativeWork",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "PostalAddress",
+      "SoftwareApplication",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://zapier.com",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/uipath-pricing/",
+     "status": 200,
+     "title": "UiPath pricing explained | Zapier",
+     "meta_desc": "How does UiPath Flex pricing compare to Zapier? Understand units, costs, and which platform saves you more.",
+     "h1": [
+      "UiPath pricing: Exploring RPA pricing models"
+     ],
+     "h2_count": 6,
+     "question_h2": 2,
+     "words": 2523,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/uipath-pricing/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/pipedream-alternatives/",
+     "status": 200,
+     "title": "The 5 Best Pipedream Alternatives in 2026 | Zapier",
+     "meta_desc": "I&#x27;ve spent a lot of time researching and using both automation software and integration SDKs, and based on that experience, these are my picks for the best Pipedream alternatives.",
+     "h1": [
+      "The 5 best Pipedream alternatives in 2026"
+     ],
+     "h2_count": 12,
+     "question_h2": 3,
+     "words": 3496,
+     "tables": 1,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/pipedream-alternatives/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/relay-alternatives/",
+     "status": 200,
+     "title": "Relay.app is shutting down: How to export your workflows and move to Zapier",
+     "meta_desc": "Here&#x27;s how to export your Relay.app data and rebuild those workflows in Zapier. Plus, what to expect from Zapier as a former Relay user. ",
+     "h1": [
+      "Relay.app is shutting down: How to export your workflows and move to Zapier"
+     ],
+     "h2_count": 7,
+     "question_h2": 0,
+     "words": 2909,
+     "tables": 1,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/relay-alternatives/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/n8n-vs-make/",
+     "status": 200,
+     "title": "n8n vs. Make: Which is best? [2026] | Zapier",
+     "meta_desc": "Here are the key differences between Make and n8n\u2014including integrations, scalability, pricing, and security\u2014so you can decide what&#x27;s right for your team. ",
+     "h1": [
+      "n8n vs. Make: Which is best for your organization? [2026]"
+     ],
+     "h2_count": 9,
+     "question_h2": 1,
+     "words": 3086,
+     "tables": 1,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/n8n-vs-make/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/workato-vs-boomi/",
+     "status": 200,
+     "title": "Workato vs. Boomi: Which iPaaS is best? [2026] | Zapier",
+     "meta_desc": "Discover the key differences between Workato and Boomi\u2014target users, integrations, and pricing\u2014so you can decide which iPaaS is right for you.",
+     "h1": [
+      "Workato vs. Boomi: Which iPaaS is best for you? [2026]"
+     ],
+     "h2_count": 9,
+     "question_h2": 1,
+     "words": 2968,
+     "tables": 1,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/workato-vs-boomi/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/trello-integrations/",
+     "status": 200,
+     "title": "7 ways to automate Trello | Zapier",
+     "meta_desc": "Trello can help you do almost anything, like plan, brainstorm, or collaborate. Connect Trello with Zapier, and make Trello your automated work hub.",
+     "h1": [
+      "7 ways to automate Trello with Zapier"
+     ],
+     "h2_count": 11,
+     "question_h2": 0,
+     "words": 3380,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/trello-integrations/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/google-apps-automations/",
+     "status": 200,
+     "title": "Google Workspace automation: Build from your agent | Zapier",
+     "meta_desc": "Google makes some of the most powerful software on the web. Add automation with Zapier and make Google Workspace\u2014including Sheets, Docs, and Gmail\u2014even more versatile.",
+     "h1": [
+      "Google Workspace automation: Build with your AI agent and Zapier"
+     ],
+     "h2_count": 8,
+     "question_h2": 2,
+     "words": 6115,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/google-apps-automations/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/ai-prompt-templates/",
+     "status": 200,
+     "title": "16 AI Prompt Templates for Better AI Agent Outputs | Zapier",
+     "meta_desc": "Here are 16 AI prompt templates the Zapier team and I rely on to get usable outputs from ChatGPT, Claude, Gemini, and most other AI chatbots and agent builders.",
+     "h1": [
+      "16 AI prompt templates for better AI agent outputs"
+     ],
+     "h2_count": 6,
+     "question_h2": 3,
+     "words": 4668,
+     "tables": 1,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/ai-prompt-templates/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/",
+     "status": 200,
+     "title": "Productivity Tips &amp; Workflow Automation Guides | Zapier Blog",
+     "meta_desc": "Daily advice on productivity, workflow automation, company building, and how to get more done with less work.",
+     "h1": [
+      "Use one Zapier MCP server across all your AI tools"
+     ],
+     "h2_count": 2,
+     "question_h2": 0,
+     "words": 1386,
+     "tables": 0,
+     "jsonld_types": [
+      "ContactPoint",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/how-to-compare-dates-in-zaps/",
+     "status": 200,
+     "title": "How to compare and calculate two dates in a Zap | Zapier",
+     "meta_desc": "Learn how to use Zapier&#x27;s built-in Formatter tool to automatically compare and calculate dates across your favorite work apps. ",
+     "h1": [
+      "How to compare and calculate two dates in a Zap"
+     ],
+     "h2_count": 7,
+     "question_h2": 1,
+     "words": 2587,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/how-to-compare-dates-in-zaps/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://zapier.com/blog/compare-two-word-documents/",
+     "status": 200,
+     "title": "How to compare two Word documents | Zapier",
+     "meta_desc": "Straining your eyes to spot the difference between two documents? Here&#x27;s how to compare two Word documents. Plus, how to compare documents in Google Docs.",
+     "h1": [
+      "How to compare two Word documents"
+     ],
+     "h2_count": 10,
+     "question_h2": 1,
+     "words": 2732,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "ListItem",
+      "Organization",
+      "Person",
+      "PostalAddress"
+     ],
+     "canonical": "https://zapier.com/blog/compare-two-word-documents/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    }
+   ]
+  },
+  "make": {
+   "robots_status": 200,
+   "robots_ai_rules": [],
+   "llms_txt": true,
+   "llms_txt_len": 14344,
+   "sitemap_urls": 13696,
+   "url_families": [
+    [
+     "templates",
+     7831
+    ],
+    [
+     "integrations",
+     4829
+    ],
+    [
+     "blog",
+     404
+    ],
+    [
+     "how-to-guides",
+     213
+    ],
+    [
+     "workflows",
+     141
+    ],
+    [
+     "success-stories",
+     104
+    ],
+    [
+     "webinars",
+     65
+    ],
+    [
+     "authors",
+     27
+    ],
+    [
+     "solutions",
+     8
+    ],
+    [
+     "compare",
+     2
+    ],
+    [
+     "partners-directory",
+     1
+    ],
+    [
+     "ai-agents-library",
+     1
+    ],
+    [
+     "login",
+     1
+    ],
+    [
+     "register",
+     1
+    ],
+    [
+     "about",
+     1
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://www.make.com/",
+     "status": 200,
+     "title": "AI Workflow Automation Software &amp; Tools | Make",
+     "meta_desc": "",
+     "h1": [
+      "Build and manage AI agents and automations in one visual landscape"
+     ],
+     "h2_count": 16,
+     "question_h2": 5,
+     "words": 1380,
+     "tables": 0,
+     "jsonld_types": [
+      "ContactPoint",
+      "ImageObject",
+      "Organization",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/templates/11363-monitor-a-website-s-pricing-page-with-browse-ai-and-store-the-information-on-a-google-sheet",
+     "status": 200,
+     "title": "Monitor a website&#x27;s pricing page with Browse AI and store the information on a Google Sheet | Workflow Template | Make",
+     "meta_desc": "Monitor a website&#x27;s pricing page with Browse AI and store the information on a Google Sheet - Track your competitor&#x27;s pricing changes on their website with Browse AI, collect valuable data, ",
+     "h1": [
+      "Monitor a website&#x27;s pricing page with Browse AI and store the information on a Google Sheet"
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 819,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/templates/11363-monitor-a-website-s-pricing-page-with-browse-ai-and-store-the-information-on-a-google-sheet",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/templates/17936-browseract-capterra-alternative-finder",
+     "status": 200,
+     "title": "BrowserAct Capterra Alternative Finder | Workflow Template | Make",
+     "meta_desc": "BrowserAct Capterra Alternative Finder - This template automates software-alternative research using Capterra. The user sends a product name through Telegram, and the scenario identifies the intent us",
+     "h1": [
+      "BrowserAct Capterra Alternative Finder"
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 901,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/templates/17936-browseract-capterra-alternative-finder",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/blog/8-wunderlist-alternatives",
+     "status": 200,
+     "title": "8 Wunderlist Alternatives to Consider Before the Service Shuts Down | Make",
+     "meta_desc": "",
+     "h1": [
+      "8 Wunderlist Alternatives to Consider Before the Service Shuts Down"
+     ],
+     "h2_count": 17,
+     "question_h2": 0,
+     "words": 1965,
+     "tables": 0,
+     "jsonld_types": [
+      "BlogPosting",
+      "ContactPoint",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "WebSite"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/integrations/revsend",
+     "status": 200,
+     "title": "RevSend integration | Workflow automation | Make",
+     "meta_desc": "Connect RevSend to sync data between apps and create powerful automated workflows. Integrate over 3,500 apps on Make.",
+     "h1": [
+      "Connect RevSend integrations"
+     ],
+     "h2_count": 8,
+     "question_h2": 4,
+     "words": 1757,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/integrations/revsend",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/integrations/vsa",
+     "status": 200,
+     "title": "vsa by Veryswing integration | Workflow automation | Make",
+     "meta_desc": "Connect vsa by Veryswing to sync data between apps and create powerful automated workflows. Integrate over 3,500 apps on Make.",
+     "h1": [
+      "Connect vsa by Veryswing integrations"
+     ],
+     "h2_count": 8,
+     "question_h2": 4,
+     "words": 1711,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/integrations/vsa",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/integrations",
+     "status": 200,
+     "title": "3,500+ Integration Apps | Connect &amp; Automate Software | Make",
+     "meta_desc": "Explore over 3,500 apps \u2713 Integrate your tools and software in Make \u2713 More than just no code automation \u2713 Visual platform \u2713 Get started free \u2713",
+     "h1": [
+      "Integrations"
+     ],
+     "h2_count": 8,
+     "question_h2": 2,
+     "words": 1881,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/integrations",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/templates/1371-create-mailerlite-groups-from-new-podio-apps",
+     "status": 200,
+     "title": "Create Mailerlite groups from new Podio apps | Workflow Template | Make",
+     "meta_desc": "Create Mailerlite groups from new Podio apps - Every time a new app is added in Podio, Make will automatically create a new group in Mailerlite.",
+     "h1": [
+      "Create Mailerlite groups from new Podio apps"
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 779,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/templates/1371-create-mailerlite-groups-from-new-podio-apps",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/templates",
+     "status": 200,
+     "title": "Workflow Automation Templates | Make",
+     "meta_desc": "Browse over 7000 of ready-made automated workflow templates that will help you save time and scale your business.",
+     "h1": [
+      "Templates",
+      "Save time and resources by connecting all your favorite apps on Make with just a few clicks."
+     ],
+     "h2_count": 7,
+     "question_h2": 2,
+     "words": 1721,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/templates",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/templates/10692-create-social-media-posts-from-a-blog-using-chatgpt-1-2",
+     "status": 200,
+     "title": "Create social media posts from a blog using ChatGPT\u00a01/2 | Workflow Template | Make",
+     "meta_desc": "Create social media posts from a blog using ChatGPT\u00a01/2 - Effortlessly convert your blog content into engaging social media posts using ChatGPT- boost your online engagement, drive traffic, and grow y",
+     "h1": [
+      "Create social media posts from a blog using ChatGPT\u00a01/2"
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 802,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://www.make.com/templates/10692-create-social-media-posts-from-a-blog-using-chatgpt-1-2",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/compare/make-vs-zapier",
+     "status": 200,
+     "title": "Make vs Zapier in 2026 | Compare features &amp; pricing | Make",
+     "meta_desc": "",
+     "h1": [
+      "Make vs Zapier: choosing the best tool for automation and AI"
+     ],
+     "h2_count": 26,
+     "question_h2": 3,
+     "words": 4394,
+     "tables": 0,
+     "jsonld_types": [
+      "ContactPoint",
+      "ImageObject",
+      "Organization",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.make.com/compare/make-vs-n8n",
+     "status": 200,
+     "title": "Make vs N8N in 2026 | Compare features &amp; pricing | Make",
+     "meta_desc": "",
+     "h1": [
+      "Make vs. n8n: choosing the best tool for automation and AI"
+     ],
+     "h2_count": 29,
+     "question_h2": 5,
+     "words": 5451,
+     "tables": 0,
+     "jsonld_types": [
+      "ContactPoint",
+      "ImageObject",
+      "Organization",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    }
+   ]
+  },
+  "n8n": {
+   "robots_status": 200,
+   "robots_ai_rules": [],
+   "llms_txt": true,
+   "llms_txt_len": 1154,
+   "sitemap_urls": 316443,
+   "url_families": [
+    [
+     "integrations",
+     301333
+    ],
+    [
+     "workflows",
+     14379
+    ],
+    [
+     "creators",
+     542
+    ],
+    [
+     "ai-benchmark",
+     60
+    ],
+    [
+     "case-studies",
+     35
+    ],
+    [
+     "vs",
+     30
+    ],
+    [
+     "legal",
+     27
+    ],
+    [
+     "careers",
+     6
+    ],
+    [
+     "enterprise",
+     2
+    ],
+    [
+     "oem",
+     2
+    ],
+    [
+     "pricing",
+     2
+    ],
+    [
+     "reports",
+     2
+    ],
+    [
+     "embed",
+     1
+    ],
+    [
+     "imprint",
+     1
+    ],
+    [
+     "press",
+     1
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://n8n.io/",
+     "status": 200,
+     "title": "AI Workflow Automation Platform - n8n",
+     "meta_desc": "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of code with the speed of no-code.",
+     "h1": [
+      "Build the agent. Understand its workflow.Build  the  agent.  Understand  its  workflow."
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 1495,
+     "tables": 0,
+     "jsonld_types": [
+      "Organization"
+     ],
+     "canonical": "https://n8n.io/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://n8n.io/pricing/startup-plan/",
+     "status": 200,
+     "title": "n8n Pricing Startup plan- n8n.io",
+     "meta_desc": "Get 50% off the Business plan and get access to everything you need to scale your start-up with AI and automation.",
+     "h1": [
+      "Pricing startup plan"
+     ],
+     "h2_count": 5,
+     "question_h2": 1,
+     "words": 466,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://n8n.io/pricing/startup-plan/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://n8n.io/workflows/5887-unlimited-website-down-checker-uptime-robot-alternative/",
+     "status": 200,
+     "title": "Unlimited website down checker - Uptime Robot alternative | n8n workflow template",
+     "meta_desc": "Video IntroductionWebsite Monitoring with n8n Want to automate your inbox or need a custom workflow? \ud83d\udcde Book a Call | \ud83d\udcac DM me on Linkedin Get Alerted When...",
+     "h1": [
+      "Unlimited website down checker - Uptime Robot alternative"
+     ],
+     "h2_count": 2,
+     "question_h2": 1,
+     "words": 613,
+     "tables": 0,
+     "jsonld_types": [
+      "AggregateRating",
+      "Offer",
+      "WebApplication"
+     ],
+     "canonical": "https://n8n.io/workflows/5887-unlimited-website-down-checker-uptime-robot-alternative/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index"
+    },
+    {
+     "url": "https://n8n.io/workflows/7556-create-a-weekly-responsive-plex-media-newsletter-via-email-tautulli-alternative/",
+     "status": 200,
+     "title": "Create a weekly responsive Plex Media newsletter via email (Tautulli alternative) | n8n workflow template",
+     "meta_desc": "\ud83d\udcec Plex Recently Added \u2192 Responsive Email Newsletter (Tautulli Alternative) What it is This workflow automatically creates a weekly Plex newsletter that...",
+     "h1": [
+      "Create a weekly responsive Plex Media newsletter via email (Tautulli alternative)"
+     ],
+     "h2_count": 0,
+     "question_h2": 0,
+     "words": 356,
+     "tables": 0,
+     "jsonld_types": [
+      "AggregateRating",
+      "Offer",
+      "WebApplication"
+     ],
+     "canonical": "https://n8n.io/workflows/7556-create-a-weekly-responsive-plex-media-newsletter-via-email-tautulli-alternative/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index"
+    },
+    {
+     "url": "https://n8n.io/vs/workato/",
+     "status": 200,
+     "title": "n8n vs. Workato: Which Automation Platform Fits Best?",
+     "meta_desc": "Compare n8n versus Workato for workflow automation. Evaluate pricing, integrations, AI capabilities, and more to find the right fit for your stack.\n",
+     "h1": [
+      "n8n vs. Workato"
+     ],
+     "h2_count": 18,
+     "question_h2": 1,
+     "words": 2905,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://n8n.io/vs/workato/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://n8n.io/vs/windmill/",
+     "status": 200,
+     "title": "n8n vs. Windmill: Which Platform Fits Your Team? \u2014 n8n blog",
+     "meta_desc": "This n8n versus Windmill comparison breaks down how both platforms handle workflow building, AI, integrations, governance, and developer tooling.",
+     "h1": [
+      "n8n vs. Windmill"
+     ],
+     "h2_count": 15,
+     "question_h2": 2,
+     "words": 2472,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://n8n.io/vs/windmill/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://n8n.io/integrations/",
+     "status": 200,
+     "title": "Best apps + software integrations | n8n",
+     "meta_desc": "Optimize your workflows with these top software integrations. Seamlessly move and transform data between different apps with n8n.",
+     "h1": [
+      "Best app + software&nbsp;integrations"
+     ],
+     "h2_count": 1,
+     "question_h2": 0,
+     "words": 1967,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://n8n.io/integrations/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://n8n.io/vs/azure-logic-apps/",
+     "status": 200,
+     "title": "n8n vs. Azure Logic Apps: Which Fits Your Stack? \u2014 n8n Blog",
+     "meta_desc": "Compare n8n versus Azure Logic Apps. Learn the differences across integrations, AI, and governance to find the right fit for your stack.",
+     "h1": [
+      "n8n vs. Azure Logic Apps"
+     ],
+     "h2_count": 17,
+     "question_h2": 3,
+     "words": 2579,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": "https://n8n.io/vs/azure-logic-apps/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://n8n.io/workflows/3081-sync-dartagnan-email-templates-to-braze/",
+     "status": 200,
+     "title": "Sync Dartagnan email templates to Braze | n8n workflow template",
+     "meta_desc": "Sync Dartagnan Email Templates to Braze Why Use This Workflow Email marketing demands consistency across platforms. This workflow automatically synchronizes...",
+     "h1": [
+      "Sync Dartagnan email templates to Braze",
+      "Sync Dartagnan Email Templates to Braze"
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 551,
+     "tables": 0,
+     "jsonld_types": [
+      "AggregateRating",
+      "Offer",
+      "WebApplication"
+     ],
+     "canonical": "https://n8n.io/workflows/3081-sync-dartagnan-email-templates-to-braze/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index"
+    },
+    {
+     "url": "https://n8n.io/integrations/dropinblog/",
+     "status": 200,
+     "title": "DropInBlog integrations | Workflow automation with n8n",
+     "meta_desc": "Integrate DropInBlog with hundreds of other apps. Create sophisticated automations between DropInBlog and your stack using n8n. Free and source-available.",
+     "h1": [
+      "Integrate DropInBlog with  2,000+ apps and services"
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 599,
+     "tables": 1,
+     "jsonld_types": [
+      "AggregateRating",
+      "Offer",
+      "WebApplication"
+     ],
+     "canonical": "https://n8n.io/integrations/dropinblog/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index"
+    },
+    {
+     "url": "https://n8n.io/integrations/compare-datasets/",
+     "status": 200,
+     "title": "Compare Datasets integrations | Workflow automation with n8n",
+     "meta_desc": "Integrate Compare Datasets with hundreds of other apps. Create sophisticated automations between Compare Datasets and your stack using n8n. Free and source-available.",
+     "h1": [
+      "Integrate Compare Datasets with  2,000+ apps and services"
+     ],
+     "h2_count": 6,
+     "question_h2": 0,
+     "words": 496,
+     "tables": 0,
+     "jsonld_types": [
+      "AggregateRating",
+      "Offer",
+      "WebApplication"
+     ],
+     "canonical": "https://n8n.io/integrations/compare-datasets/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index"
+    },
+    {
+     "url": "https://n8n.io/workflows/1943-comparing-data-with-the-compare-datasets-node/",
+     "status": 200,
+     "title": "Comparing data with the Compare Datasets node | n8n workflow template",
+     "meta_desc": "This workflow is designed to compare two datasets (Dataset 1 and Dataset 2) based on a common field, &quot;fruit,&quot; and provide insights into the differences....",
+     "h1": [
+      "Comparing data with the Compare Datasets node"
+     ],
+     "h2_count": 0,
+     "question_h2": 0,
+     "words": 256,
+     "tables": 0,
+     "jsonld_types": [
+      "AggregateRating",
+      "Offer",
+      "WebApplication"
+     ],
+     "canonical": "https://n8n.io/workflows/1943-comparing-data-with-the-compare-datasets-node/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index"
+    }
+   ]
+  },
+  "pabbly": {
+   "robots_status": 200,
+   "robots_ai_rules": [],
+   "llms_txt": true,
+   "llms_txt_len": 4043,
+   "sitemap_urls": 20373,
+   "url_families": [
+    [
+     "connect",
+     1003
+    ],
+    [
+     "subscriptions",
+     27
+    ],
+    [
+     "how-to-send-whatsapp-messages-to-indiamart-leads-using-pabbly-connect-7",
+     2
+    ],
+    [
+     "connect-onetime",
+     2
+    ],
+    [
+     "blog",
+     1
+    ],
+    [
+     "baremetrics-review",
+     1
+    ],
+    [
+     "recurly-review",
+     1
+    ],
+    [
+     "why-do-we-need-subscription-billing-software",
+     1
+    ],
+    [
+     "zoho-subscriptions-review",
+     1
+    ],
+    [
+     "how-to-set-up-a-live-chat",
+     1
+    ],
+    [
+     "profitwell-review",
+     1
+    ],
+    [
+     "smtp-service-providers",
+     1
+    ],
+    [
+     "free-wordpress-themes",
+     1
+    ],
+    [
+     "bulk-email-marketing-services",
+     1
+    ],
+    [
+     "free-online-learning-sites",
+     1
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://www.pabbly.com/",
+     "status": 200,
+     "title": "Pabbly - Online Marketing &amp; sales software",
+     "meta_desc": "Automate your sales and marketing with Pabbly. Manage email marketing, form building, subscription billing, email verification &#38;amp; app integration from a single platform.",
+     "h1": [
+      "\ud83d\udcc8 Grow Your Business Freely. No Limits Holding You Back."
+     ],
+     "h2_count": 15,
+     "question_h2": 1,
+     "words": 4322,
+     "tables": 0,
+     "jsonld_types": [
+      "Organization",
+      "WebPage"
+     ],
+     "canonical": "https://www.pabbly.com/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    },
+    {
+     "url": "https://www.pabbly.com/ai-service-quotation-agent-instant-pricing-on-whatsapp/",
+     "status": 200,
+     "title": "AI Service Quotation Agent \u2014 Instant Pricing on WhatsApp! - Pabbly",
+     "meta_desc": "",
+     "h1": [
+      "AI Service Quotation Agent \u2014 Instant Pricing on WhatsApp!"
+     ],
+     "h2_count": 36,
+     "question_h2": 0,
+     "words": 1480,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/ai-service-quotation-agent-instant-pricing-on-whatsapp/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/mailerlite-alternatives/",
+     "status": 200,
+     "title": "5 Best MailerLite Alternatives | Low-Priced Competitors 2022- Pabbly",
+     "meta_desc": "Are you looking for Mailerlite alternatives? Here are the best suitable email marketing alternatives available in the market. Let&#039;s have a look.",
+     "h1": [
+      "5 Best MailerLite Alternatives | Low-Priced Competitors 2022"
+     ],
+     "h2_count": 42,
+     "question_h2": 0,
+     "words": 2098,
+     "tables": 1,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/mailerlite-alternatives/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/subscriptions-alternatives/",
+     "status": 200,
+     "title": "5 Best Zoho Subscriptions Alternatives 2022| Pabbly",
+     "meta_desc": "Are you looking for Zoho subscriptions alternatives? Here are some of the best alternatives available in the market. Let&#039;s have a look.",
+     "h1": [
+      "5 Best Zoho Subscriptions Alternatives 2022"
+     ],
+     "h2_count": 45,
+     "question_h2": 0,
+     "words": 2286,
+     "tables": 1,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/subscriptions-alternatives/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/sell-lcd-tvs-online/",
+     "status": 200,
+     "title": "How to Sell LCD TVs Online | Step by Step (Free Method) - Pabbly",
+     "meta_desc": "Are you looking for way to sell LCD TVs online? If yes, then this article will help you to start LCD TVs business online.",
+     "h1": [
+      "How to Sell LCD TVs Online | Step by Step (Free Method)"
+     ],
+     "h2_count": 39,
+     "question_h2": 0,
+     "words": 1867,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/sell-lcd-tvs-online/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/integromat-make-vs-pabbly-connect/",
+     "status": 200,
+     "title": "Integromat (Make) Vs Pabbly Connect - Choose the best for yourself",
+     "meta_desc": "Integromat (Make) and Pabbly Connect are two workflow automation platform across different applications. Choose the best for youself.",
+     "h1": [
+      "Make (Formerly Integromat) Vs Pabbly Connect"
+     ],
+     "h2_count": 43,
+     "question_h2": 0,
+     "words": 2093,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/integromat-make-vs-pabbly-connect/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/a-beginners-guide-to-api-integrations-with-pabbly-connect/",
+     "status": 200,
+     "title": "A Beginner&#039;s Guide to API Integrations with Pabbly Connect - Pabbly",
+     "meta_desc": "",
+     "h1": [
+      "A Beginner&#8217;s Guide to API Integrations with Pabbly Connect"
+     ],
+     "h2_count": 36,
+     "question_h2": 0,
+     "words": 1497,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/a-beginners-guide-to-api-integrations-with-pabbly-connect/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/automate-salary-slip-generation-with-pabbly-connect-and-google-apps/",
+     "status": 200,
+     "title": "Automate Salary Slip Generation with Pabbly Connect and Google Apps - Pabbly",
+     "meta_desc": "",
+     "h1": [
+      "Automate Salary Slip Generation with Pabbly Connect and Google Apps"
+     ],
+     "h2_count": 36,
+     "question_h2": 0,
+     "words": 1487,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/automate-salary-slip-generation-with-pabbly-connect-and-google-apps/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/sell-portfolio-templates-online/",
+     "status": 200,
+     "title": "How to Sell Portfolio Templates Online | Step by Step (Free Method)",
+     "meta_desc": "Are you looking for way to sell portfolio templates online? If yes, then this article will help you to start portfolio templates business online.",
+     "h1": [
+      "How to Sell Portfolio Templates Online | Step by Step (Free Method)"
+     ],
+     "h2_count": 39,
+     "question_h2": 0,
+     "words": 1896,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/sell-portfolio-templates-online/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/blog/",
+     "status": 200,
+     "title": "Best Collection of Billing Softwares &amp; WordPress Templates | Blog",
+     "meta_desc": "Why Do We Need Subscription Billing Software? In the competitive world, the entirety of business sector is leaning on the pillar of payment gateway or payment",
+     "h1": [],
+     "h2_count": 46,
+     "question_h2": 0,
+     "words": 1926,
+     "tables": 0,
+     "jsonld_types": [
+      "BreadcrumbList",
+      "CollectionPage",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/blog/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/how-to-compare-invoice-details-with-sales-record-in-real-time-using-pabbly-connect/",
+     "status": 200,
+     "title": "How to Compare Invoice Details with Sales Record in Real Time Using Pabbly Connect - Pabbly",
+     "meta_desc": "",
+     "h1": [
+      "How to Compare Invoice Details with Sales Record in Real Time Using Pabbly Connect"
+     ],
+     "h2_count": 36,
+     "question_h2": 0,
+     "words": 1440,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/how-to-compare-invoice-details-with-sales-record-in-real-time-using-pabbly-connect/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    },
+    {
+     "url": "https://www.pabbly.com/whatsapp-automation-tools-compared-best-choice-for-2026/",
+     "status": 200,
+     "title": "WhatsApp Automation Tools Compared | Best Choice for 2026 - Pabbly",
+     "meta_desc": "",
+     "h1": [
+      "WhatsApp Automation Tools Compared | Best Choice for 2026"
+     ],
+     "h2_count": 36,
+     "question_h2": 0,
+     "words": 1212,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://www.pabbly.com/whatsapp-automation-tools-compared-best-choice-for-2026/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "max-image-preview:large"
+    }
+   ]
+  },
+  "ifttt": {
+   "robots_status": 200,
+   "robots_ai_rules": [],
+   "llms_txt": true,
+   "llms_txt_len": 8960,
+   "sitemap_urls": 100254,
+   "url_families": [
+    [
+     "connect",
+     60556
+    ],
+    [
+     "applets",
+     19738
+    ],
+    [
+     "p",
+     10608
+    ],
+    [
+     "explore",
+     199
+    ],
+    [
+     "switchbot",
+     99
+    ],
+    [
+     "Aqara_Home_EU",
+     92
+    ],
+    [
+     "Aqara_Home",
+     92
+    ],
+    [
+     "Aqara_Home_RU",
+     86
+    ],
+    [
+     "ewelink",
+     68
+    ],
+    [
+     "goeCharger",
+     56
+    ],
+    [
+     "wirelesstag",
+     55
+    ],
+    [
+     "i_zone",
+     52
+    ],
+    [
+     "wyzecam",
+     50
+    ],
+    [
+     "spotify",
+     41
+    ],
+    [
+     "domovea",
+     41
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://ifttt.com/",
+     "status": 200,
+     "title": "The easiest way to automate anything - IFTTT",
+     "meta_desc": "IFTTT connects 1,000+ apps and automates them for free \u2014 no code needed. Connect Google, Webhooks, Discord, Telegram, Slack and more in minutes.",
+     "h1": [
+      "The easiest way to automate anything"
+     ],
+     "h2_count": 13,
+     "question_h2": 3,
+     "words": 1579,
+     "tables": 0,
+     "jsonld_types": [
+      "AggregateRating",
+      "ContactPoint",
+      "CreativeWork",
+      "ImageObject",
+      "Offer",
+      "Organization",
+      "Person",
+      "PostalAddress",
+      "SearchAction",
+      "SoftwareApplication",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/p/hourlypricing",
+     "status": 200,
+     "title": "hourlypricing&#39;s Applets - IFTTT",
+     "meta_desc": "Applets bring your favorite apps and devices together to make something new. See hourlypricing&#39;s published Applets, and try some out.",
+     "h1": [
+      "hourlypricing"
+     ],
+     "h2_count": 0,
+     "question_h2": 0,
+     "words": 174,
+     "tables": 0,
+     "jsonld_types": [
+      "CreativeWork",
+      "ImageObject",
+      "Offer",
+      "Organization",
+      "SearchAction",
+      "SoftwareApplication",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/p/hourlypricing",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/explore/ifttt-alternatives",
+     "status": 200,
+     "title": "IFTTT Alternatives: Zapier, Make, n8n, Pipedream, Tasklet.ai - IFTTT",
+     "meta_desc": "A genuine roundup of the top IFTTT alternatives, comparing Zapier, Make, n8n, Pipedream, and Tasklet.ai on pricing, features, and who each one actually fits.",
+     "h1": [
+      "IFTTT Alternatives: Comparing Zapier, Make, n8n, and Pipedream"
+     ],
+     "h2_count": 11,
+     "question_h2": 2,
+     "words": 1923,
+     "tables": 1,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/explore/ifttt-alternatives",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/applets/i3uqhLiD-push-new-ifttt-alternative-links-via-pushbullet",
+     "status": 200,
+     "title": "Push new #IFTTT alternative links via Pushbullet - IFTTT",
+     "meta_desc": "Get notified through Pushbullet whenever a new #IFTTT alternative appears in your chosen RSS feed. Each new item is s... RSS Feed, Pushbullet",
+     "h1": [
+      "Push new #IFTTT alternative links via Pushbullet"
+     ],
+     "h2_count": 8,
+     "question_h2": 0,
+     "words": 1319,
+     "tables": 0,
+     "jsonld_types": [
+      "BreadcrumbList",
+      "CreativeWork",
+      "HowTo",
+      "HowToStep",
+      "HowToTool",
+      "ImageObject",
+      "ListItem",
+      "Offer",
+      "Organization",
+      "SearchAction",
+      "SoftwareApplication",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/applets/i3uqhLiD-push-new-ifttt-alternative-links-via-pushbullet",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/explore/ifttt-vs-make",
+     "status": 200,
+     "title": "IFTTT vs Make: Which automation solution is right for me? - IFTTT",
+     "meta_desc": "Wondering which automation tool is best for your personal or work needs? Explore the differences between IFTTT and Make to see which tool is right for you.",
+     "h1": [
+      "IFTTT vs Make: which to choose?"
+     ],
+     "h2_count": 9,
+     "question_h2": 5,
+     "words": 2581,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/explore/ifttt-vs-make",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/explore/zapier-vs-ifttt-ai-tools",
+     "status": 200,
+     "title": "Zapier vs IFTTT: Best AI tools in automation? - IFTTT",
+     "meta_desc": "Discover whether IFTTT or Zapier offers the best AI tools for automation. Explore their unique features, integration capabilities, and ideal use cases to bo...",
+     "h1": [
+      "Zapier vs IFTTT: Who\u2019s got the best AI tools?"
+     ],
+     "h2_count": 5,
+     "question_h2": 3,
+     "words": 2437,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/explore/zapier-vs-ifttt-ai-tools",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/explore/home-security-integrations",
+     "status": 200,
+     "title": "Home security integrations - IFTTT",
+     "meta_desc": "From smart locks to leak detectors, see how IFTTT connects your home security devices into one automated system.",
+     "h1": [
+      "Home security integrations"
+     ],
+     "h2_count": 6,
+     "question_h2": 3,
+     "words": 1766,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/explore/home-security-integrations",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/explore/best-note-taking-apps",
+     "status": 200,
+     "title": "Automate your notes app with IFTTT - IFTTT",
+     "meta_desc": "Whatever app you use to jot things down, IFTTT can turn it into a system that actually organizes, backs up, and resurfaces what you wrote.",
+     "h1": [
+      "How to automate any notes app with IFTTT"
+     ],
+     "h2_count": 10,
+     "question_h2": 0,
+     "words": 1564,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/explore/best-note-taking-apps",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/explore/blog-post-content-pillar-week",
+     "status": 200,
+     "title": "Turn one blog post into a week of content pillars - IFTTT",
+     "meta_desc": "How to turn one blog post or long recording into a week of native content across every platform using IFTTT Applets, built around the content pillar model: ...",
+     "h1": [
+      "How to turn one blog post into a week of content across every platform"
+     ],
+     "h2_count": 6,
+     "question_h2": 5,
+     "words": 1887,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/explore/blog-post-content-pillar-week",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://ifttt.com/explore/best-bookmark-manager-tools",
+     "status": 200,
+     "title": "How to bookmark and manage articles - IFTTT",
+     "meta_desc": "Learn how to automate your bookmarking and article management. Explore top bookmarking apps and how they integrate with top tools on IFTTT.",
+     "h1": [
+      "How to bookmark and manage articles"
+     ],
+     "h2_count": 5,
+     "question_h2": 2,
+     "words": 1104,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://ifttt.ai/explore/best-bookmark-manager-tools",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    }
+   ]
+  },
+  "activepieces": {
+   "robots_status": 200,
+   "robots_ai_rules": [],
+   "llms_txt": true,
+   "llms_txt_len": 480791,
+   "sitemap_urls": 7527,
+   "url_families": [
+    [
+     "pieces",
+     3795
+    ],
+    [
+     "blog",
+     1846
+    ],
+    [
+     "resources",
+     1068
+    ],
+    [
+     "mcp",
+     795
+    ],
+    [
+     "solutions",
+     10
+    ],
+    [
+     "product",
+     4
+    ],
+    [
+     "(root)",
+     1
+    ],
+    [
+     "pricing",
+     1
+    ],
+    [
+     "ai-governance",
+     1
+    ],
+    [
+     "security",
+     1
+    ],
+    [
+     "sales",
+     1
+    ],
+    [
+     "embed",
+     1
+    ],
+    [
+     "oss-friends",
+     1
+    ],
+    [
+     "privacy",
+     1
+    ],
+    [
+     "terms",
+     1
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://www.activepieces.com/",
+     "status": 200,
+     "title": "Activepieces: unify your team&#x27;s AI",
+     "meta_desc": "Chat, agents, flows, tables, and 770+ apps in one workspace, so your whole team works with AI in the tools they already use. Open source at the core.",
+     "h1": [
+      "AI Agents with enterprise control"
+     ],
+     "h2_count": 11,
+     "question_h2": 0,
+     "words": 1726,
+     "tables": 0,
+     "jsonld_types": [
+      "Answer",
+      "FAQPage",
+      "ImageObject",
+      "Organization",
+      "Question",
+      "WebSite"
+     ],
+     "canonical": "https://www.activepieces.com/",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/pricing",
+     "status": 200,
+     "title": "Pricing | Activepieces",
+     "meta_desc": "Start free with 1,000 credits a month, upgrade from $16 per month, and scale to enterprise. Open source at the core, with self-hosting on every plan.",
+     "h1": [
+      "Pricing"
+     ],
+     "h2_count": 7,
+     "question_h2": 0,
+     "words": 1143,
+     "tables": 1,
+     "jsonld_types": [
+      "Answer",
+      "FAQPage",
+      "Question"
+     ],
+     "canonical": "https://www.activepieces.com/pricing",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/best-uipath-alternatives-in-2026",
+     "status": 200,
+     "title": "Best UiPath Alternatives in 2026 | Activepieces",
+     "meta_desc": "UiPath alternatives provide distinct advantages for businesses seeking better API integration, self-hosted privacy, or open-source flexibility.",
+     "h1": [
+      "Best UiPath Alternatives in 2026"
+     ],
+     "h2_count": 11,
+     "question_h2": 4,
+     "words": 3782,
+     "tables": 1,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/best-uipath-alternatives-in-2026",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/slack-workflow-builder-alternatives-2026-guide",
+     "status": 200,
+     "title": "Slack Workflow Builder Alternatives (2026 Guide)",
+     "meta_desc": "Slack workflow builder alternatives provide robust options for managing complex data processing and multi-step automation across your existing software\u2026",
+     "h1": [
+      "Slack Workflow Builder Alternatives (2026 Guide)"
+     ],
+     "h2_count": 10,
+     "question_h2": 1,
+     "words": 3064,
+     "tables": 3,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/slack-workflow-builder-alternatives-2026-guide",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/protonvpn-pricing-2026-free-vs-vpn-plus-vs-unlimited",
+     "status": 200,
+     "title": "ProtonVPN Pricing 2026: Free vs VPN Plus vs Unlimited",
+     "meta_desc": "ProtonVPN pricing offers free, Plus, and Unlimited plans. Compare connection speeds, server locations, and features across tiers to find your best fit.",
+     "h1": [
+      "ProtonVPN Pricing 2026: Free vs VPN Plus vs Unlimited"
+     ],
+     "h2_count": 13,
+     "question_h2": 3,
+     "words": 3043,
+     "tables": 2,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/protonvpn-pricing-2026-free-vs-vpn-plus-vs-unlimited",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/deepl-mcp-server-vs-deepl-api-for-ai-agents-in-2026",
+     "status": 200,
+     "title": "DeepL MCP Server vs DeepL API: Which to Use in 2026",
+     "meta_desc": "DeepL MCP is an MCP server for AI tools using DeepL",
+     "h1": [
+      "DeepL MCP Server vs DeepL API: Which to Use in 2026"
+     ],
+     "h2_count": 14,
+     "question_h2": 1,
+     "words": 2997,
+     "tables": 1,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/deepl-mcp-server-vs-deepl-api-for-ai-agents-in-2026",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/workable-api-access-tokens-for-integrations-2026",
+     "status": 200,
+     "title": "Workable API Access Tokens for Integrations (2026)",
+     "meta_desc": "The Workable API provides REST access to recruiting data. Configure access tokens, identify available endpoints, and check rate limits.",
+     "h1": [
+      "Workable API Access Tokens for Integrations (2026)"
+     ],
+     "h2_count": 12,
+     "question_h2": 6,
+     "words": 3172,
+     "tables": 3,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/workable-api-access-tokens-for-integrations-2026",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/how-to-automate-google-workspace-with-apps-script",
+     "status": 200,
+     "title": "How to Automate Google Workspace With Apps Script",
+     "meta_desc": "Google Workspace automation starts with built-in tools. You",
+     "h1": [
+      "How to Automate Google Workspace With Apps Script"
+     ],
+     "h2_count": 11,
+     "question_h2": 2,
+     "words": 2920,
+     "tables": 4,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/how-to-automate-google-workspace-with-apps-script",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/activepieces-templates-how-to-copy-and-set-up-2026",
+     "status": 200,
+     "title": "Activepieces Templates: How to Copy and Set Up (2026)",
+     "meta_desc": "Activepieces templates are prebuilt workflows you copy and customize. See each template",
+     "h1": [
+      "Activepieces Templates: How to Copy and Set Up (2026)"
+     ],
+     "h2_count": 15,
+     "question_h2": 4,
+     "words": 2987,
+     "tables": 3,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/activepieces-templates-how-to-copy-and-set-up-2026",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog",
+     "status": 200,
+     "title": "Blog | Activepieces",
+     "meta_desc": "Guides, product updates, and practical automation walkthroughs from the Activepieces team.",
+     "h1": [
+      "The Activepieces blog"
+     ],
+     "h2_count": 2,
+     "question_h2": 0,
+     "words": 667,
+     "tables": 0,
+     "jsonld_types": [
+      "BreadcrumbList",
+      "CollectionPage",
+      "ItemList",
+      "ListItem"
+     ],
+     "canonical": "https://www.activepieces.com/blog",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/krisp-pricing-2026-free-pro-business-plans-compared",
+     "status": 200,
+     "title": "Krisp Pricing 2026: Free, Pro, Business Plans Compared",
+     "meta_desc": "Krisp pricing starts free but caps transcription and notes. Upgrade to Pro for one user, Business for admin controls, or Enterprise for SSO.",
+     "h1": [
+      "Krisp Pricing 2026: Free, Pro, Business Plans Compared"
+     ],
+     "h2_count": 10,
+     "question_h2": 5,
+     "words": 2009,
+     "tables": 2,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/krisp-pricing-2026-free-pro-business-plans-compared",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://www.activepieces.com/blog/calendly-pricing-2026-plans-and-hidden-costs-compared",
+     "status": 200,
+     "title": "Calendly Pricing: 2026 Plans and Hidden Costs Compared",
+     "meta_desc": "Calendly pricing tiers dictate your monthly software expenses based on team size and feature requirements. Use this breakdown to select the plan.",
+     "h1": [
+      "Calendly Pricing: 2026 Plans and Hidden Costs Compared"
+     ],
+     "h2_count": 13,
+     "question_h2": 1,
+     "words": 3052,
+     "tables": 1,
+     "jsonld_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": "https://www.activepieces.com/blog/calendly-pricing-2026-plans-and-hidden-costs-compared",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    }
+   ]
+  },
+  "lindy": {
+   "robots_status": 200,
+   "robots_ai_rules": [],
+   "llms_txt": true,
+   "llms_txt_len": 2576,
+   "sitemap_urls": 1736,
+   "url_families": [
+    [
+     "integrations",
+     1409
+    ],
+    [
+     "blog",
+     293
+    ],
+    [
+     "case-study",
+     12
+    ],
+    [
+     "blog-category",
+     4
+    ],
+    [
+     "solutions",
+     2
+    ],
+    [
+     "(root)",
+     1
+    ],
+    [
+     "privacy",
+     1
+    ],
+    [
+     "terms-of-service",
+     1
+    ],
+    [
+     "changelog",
+     1
+    ],
+    [
+     "case-studies",
+     1
+    ],
+    [
+     "security",
+     1
+    ],
+    [
+     "contact-sales",
+     1
+    ],
+    [
+     "enterprise",
+     1
+    ],
+    [
+     "app-builder",
+     1
+    ],
+    [
+     "careers",
+     1
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://www.lindy.ai/",
+     "status": 200,
+     "title": "Lindy: Hire an AI Employee That Gets Work Done",
+     "meta_desc": "Lindy is the AI employee that connects to all your tools, knows everything about your company, and does real work for the whole team.",
+     "h1": [
+      "Hire Lindy, get it done."
+     ],
+     "h2_count": 9,
+     "question_h2": 0,
+     "words": 1271,
+     "tables": 0,
+     "jsonld_types": [
+      "ContactPoint",
+      "ImageObject",
+      "Offer",
+      "Organization",
+      "Place",
+      "QuantitativeValue",
+      "SoftwareApplication",
+      "UnitPriceSpecification"
+     ],
+     "canonical": "https://www.lindy.ai",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/pricing",
+     "status": 200,
+     "title": "Pricing - Lindy",
+     "meta_desc": "Lindy connects to all your tools, knows everything about your company, and does real work for the whole team. Starts at $29.99 per user per month.",
+     "h1": [
+      "The teammate that punches above its price."
+     ],
+     "h2_count": 4,
+     "question_h2": 1,
+     "words": 1071,
+     "tables": 0,
+     "jsonld_types": [
+      "Answer",
+      "ContactPoint",
+      "ImageObject",
+      "Offer",
+      "Organization",
+      "Place",
+      "QuantitativeValue",
+      "Question",
+      "SoftwareApplication",
+      "UnitPriceSpecification"
+     ],
+     "canonical": "https://www.lindy.ai/pricing",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/blog/athena-executive-assistant-alternatives",
+     "status": 200,
+     "title": "Athena Executive Assistant Alternatives: My Top 6 Picks for 2026",
+     "meta_desc": "I reviewed popular Athena executive assistant alternatives and shortlisted the top 6 options for 2026. Discover how their capabilities and usefulness compare.",
+     "h1": [
+      "Athena Executive Assistant Alternatives: My Top 6 Picks for 2026"
+     ],
+     "h2_count": 18,
+     "question_h2": 10,
+     "words": 5372,
+     "tables": 2,
+     "jsonld_types": [
+      "AggregateRating",
+      "Answer",
+      "BlogPosting",
+      "BreadcrumbList",
+      "CollectionPage",
+      "ContactPoint",
+      "FAQPage",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "Person",
+      "Place",
+      "Product",
+      "Question",
+      "Thing",
+      "WebPage"
+     ],
+     "canonical": "https://www.lindy.ai/blog/athena-executive-assistant-alternatives",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/blog/best-chatgpt-alternatives",
+     "status": 200,
+     "title": "9 best ChatGPT Alternatives I am using [2026]",
+     "meta_desc": "I tested 15 ChatGPT alternatives on writing, research and daily work. These 9 are the best in 2026, free and paid, and what each one does better.",
+     "h1": [
+      "9 best ChatGPT Alternatives I am using [2026]"
+     ],
+     "h2_count": 19,
+     "question_h2": 41,
+     "words": 8788,
+     "tables": 1,
+     "jsonld_types": [
+      "AggregateRating",
+      "Answer",
+      "BlogPosting",
+      "BreadcrumbList",
+      "CollectionPage",
+      "ContactPoint",
+      "FAQPage",
+      "ImageObject",
+      "ItemList",
+      "ListItem",
+      "Organization",
+      "Person",
+      "Place",
+      "Product",
+      "Question",
+      "Thing",
+      "WebPage"
+     ],
+     "canonical": "https://www.lindy.ai/blog/best-chatgpt-alternatives",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/lindy-vs-superhuman",
+     "status": 200,
+     "title": "Lindy vs. Superhuman",
+     "meta_desc": "Superhuman makes you a faster emailer. Lindy is your ultimate AI employee that connects to all your tools, knows everything about your company, and does real work for the whole team.",
+     "h1": [
+      "Why Lindy beats Superhuman."
+     ],
+     "h2_count": 11,
+     "question_h2": 1,
+     "words": 1491,
+     "tables": 1,
+     "jsonld_types": [
+      "ContactPoint",
+      "ImageObject",
+      "Organization",
+      "Place"
+     ],
+     "canonical": "https://www.lindy.ai/lindy-vs-superhuman",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/lindy-vs-fyxer",
+     "status": 200,
+     "title": "Lindy vs. Fyxer | The AI Assistant That Goes Beyond Email",
+     "meta_desc": "Fyxer organizes your inbox and drafts replies. Lindy does all that, plus manages your calendar, preps your meetings, sends follow-ups, and texts you what matters. Start with $50 in free credits.",
+     "h1": [
+      "Why Lindy beats Fyxer."
+     ],
+     "h2_count": 11,
+     "question_h2": 1,
+     "words": 1503,
+     "tables": 1,
+     "jsonld_types": [
+      "ContactPoint",
+      "ImageObject",
+      "Organization",
+      "Place"
+     ],
+     "canonical": "https://www.lindy.ai/lindy-vs-fyxer",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/integrations",
+     "status": 200,
+     "title": "Explore All Integrations - Lindy",
+     "meta_desc": "Connect Lindy to 3,000+ apps and any MCP.",
+     "h1": [
+      "Integrations"
+     ],
+     "h2_count": 2735,
+     "question_h2": 0,
+     "words": 21272,
+     "tables": 0,
+     "jsonld_types": [
+      "ContactPoint",
+      "ImageObject",
+      "ItemList",
+      "ListItem",
+      "Offer",
+      "Organization",
+      "Place",
+      "SoftwareApplication",
+      "WebPage"
+     ],
+     "canonical": "https://www.lindy.ai/integrations",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/blog/best-ai-apps-for-android",
+     "status": 200,
+     "title": "10 Best AI Apps for Android: What I Kept After 3 Weeks",
+     "meta_desc": "The best AI apps for Android in 2026 go far beyond chatbots. I spent three weeks running ten of them on my phone to find the ones worth a home screen spot.",
+     "h1": [
+      "10 Best AI Apps for Android: What I Kept After 3 Weeks"
+     ],
+     "h2_count": 18,
+     "question_h2": 6,
+     "words": 7194,
+     "tables": 1,
+     "jsonld_types": [
+      "AggregateRating",
+      "Answer",
+      "BlogPosting",
+      "BreadcrumbList",
+      "CollectionPage",
+      "ContactPoint",
+      "FAQPage",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "Person",
+      "Place",
+      "Product",
+      "Question",
+      "Thing",
+      "WebPage"
+     ],
+     "canonical": "https://www.lindy.ai/blog/best-ai-apps-for-android",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/blog",
+     "status": 200,
+     "title": "Lindy Blog - Sales, Marketing and Business Guides for the AI Age",
+     "meta_desc": "Practical guides on AI, email automation, and productivity. Real-world tips for using AI employees, managing your inbox, and getting more done at work.",
+     "h1": [
+      "The AI Hub by\u00a0Lindy"
+     ],
+     "h2_count": 9,
+     "question_h2": 5,
+     "words": 2370,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "ContactPoint",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "Place"
+     ],
+     "canonical": "https://www.lindy.ai/blog",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/blog/best-ai-agent-builders",
+     "status": 200,
+     "title": "The 9 Best AI Agent Builders in 2026: Ranked &amp; Reviewed",
+     "meta_desc": "I tested 25+ AI agent builders across no-code, low-code, and developer tools. These 10 made the cut, rated on ease of use, automation depth, and integrations.",
+     "h1": [
+      "The 9 Best AI Agent Builders in 2026: Ranked &amp; Reviewed"
+     ],
+     "h2_count": 24,
+     "question_h2": 8,
+     "words": 6240,
+     "tables": 1,
+     "jsonld_types": [
+      "AggregateRating",
+      "Answer",
+      "BlogPosting",
+      "BreadcrumbList",
+      "CollectionPage",
+      "ContactPoint",
+      "FAQPage",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "Person",
+      "Place",
+      "Product",
+      "Question",
+      "Thing",
+      "WebPage"
+     ],
+     "canonical": "https://www.lindy.ai/blog/best-ai-agent-builders",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.lindy.ai/blog/best-ai-agents",
+     "status": 200,
+     "title": "9 Best AI Agents in 2026: Tested for Business Use",
+     "meta_desc": "Everett compared 9 AI agent tools, including Gumloop, Lindy, CrewAI, and Devin AI, weighing ease of setup, automation quality, and pricing to find the top 9.",
+     "h1": [
+      "9 Best AI Agents in 2026: Tested for Business Use"
+     ],
+     "h2_count": 17,
+     "question_h2": 6,
+     "words": 6783,
+     "tables": 1,
+     "jsonld_types": [
+      "AggregateRating",
+      "Answer",
+      "BlogPosting",
+      "BreadcrumbList",
+      "CollectionPage",
+      "ContactPoint",
+      "FAQPage",
+      "ImageObject",
+      "ItemList",
+      "ListItem",
+      "Organization",
+      "Person",
+      "Place",
+      "Product",
+      "Question",
+      "Thing",
+      "WebPage"
+     ],
+     "canonical": "https://www.lindy.ai/blog/best-ai-agents",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    }
+   ]
+  },
+  "gumloop": {
+   "robots_status": 200,
+   "robots_ai_rules": [],
+   "llms_txt": true,
+   "llms_txt_len": 44645,
+   "sitemap_urls": 930,
+   "url_families": [
+    [
+     "connectors",
+     350
+    ],
+    [
+     "blog",
+     163
+    ],
+    [
+     "api-reference",
+     112
+    ],
+    [
+     "help",
+     65
+    ],
+    [
+     "use-cases",
+     38
+    ],
+    [
+     "previews",
+     33
+    ],
+    [
+     "core-concepts",
+     32
+    ],
+    [
+     "workshops",
+     24
+    ],
+    [
+     "cli",
+     16
+    ],
+    [
+     "mcp-server",
+     14
+    ],
+    [
+     "vs",
+     8
+    ],
+    [
+     "author",
+     8
+    ],
+    [
+     "products",
+     7
+    ],
+    [
+     "nodes",
+     7
+    ],
+    [
+     "solutions",
+     6
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://www.gumloop.com/",
+     "status": "The read operation timed out",
+     "title": "",
+     "meta_desc": "",
+     "h1": [],
+     "h2_count": 0,
+     "question_h2": 0,
+     "words": 0,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/pricing",
+     "status": 200,
+     "title": "Pricing | Gumloop",
+     "meta_desc": "Choose a Gumloop plan for AI automation workflows, agents, and teams.",
+     "h1": [
+      "Pricing that scales with you"
+     ],
+     "h2_count": 2,
+     "question_h2": 0,
+     "words": 497,
+     "tables": 1,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Offer",
+      "Organization",
+      "Question",
+      "SoftwareApplication"
+     ],
+     "canonical": "https://www.gumloop.com/pricing",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/blog/apify-alternatives",
+     "status": 200,
+     "title": "7 best Apify alternatives I\u2019m using in 2026 (free + paid)",
+     "meta_desc": "",
+     "h1": [
+      "7 best Apify alternatives I\u2019m using in 2026 (free + paid)"
+     ],
+     "h2_count": 4,
+     "question_h2": 2,
+     "words": 6086,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/blog/appsmith-alternatives",
+     "status": 200,
+     "title": "5 Appsmith alternatives and competitors in 2026",
+     "meta_desc": "",
+     "h1": [
+      "5 Appsmith alternatives and competitors in 2026"
+     ],
+     "h2_count": 4,
+     "question_h2": 1,
+     "words": 3836,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/vs/chatgpt-work",
+     "status": 200,
+     "title": "Gumloop vs ChatGPT Work: A side by side comparison",
+     "meta_desc": "Discover the differences between Gumloop and ChatGPT Work. Learn about features, pricing, and core differences.",
+     "h1": [
+      "Gumloop vs ChatGPT Work: Which is best for you?"
+     ],
+     "h2_count": 7,
+     "question_h2": 1,
+     "words": 1457,
+     "tables": 1,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Question"
+     ],
+     "canonical": "https://www.gumloop.com/vs/chatgpt-work",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/vs/claude-cowork",
+     "status": 200,
+     "title": "Gumloop vs Claude Cowork: A side by side comparison",
+     "meta_desc": "Compare Gumloop and Claude side by side: model choice, US-hosted open-weight models, shared agents and skills, cloud browser automation and IT controls.",
+     "h1": [
+      "Gumloop vs Claude Cowork: Which is best for you?"
+     ],
+     "h2_count": 6,
+     "question_h2": 1,
+     "words": 1407,
+     "tables": 1,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Question"
+     ],
+     "canonical": "https://www.gumloop.com/vs/claude-cowork",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/integrations/apify",
+     "status": 200,
+     "title": "Gumloop x APIFY | Gumloop",
+     "meta_desc": "Access Apify data you need with just a prompt",
+     "h1": [
+      "Gumloop x APIFY"
+     ],
+     "h2_count": 3,
+     "question_h2": 0,
+     "words": 288,
+     "tables": 0,
+     "jsonld_types": [
+      "BreadcrumbList",
+      "ListItem"
+     ],
+     "canonical": "https://www.gumloop.com/integrations/apify",
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/blog/announcing-community-templates",
+     "status": 200,
+     "title": "Announcing Community Templates",
+     "meta_desc": "",
+     "h1": [
+      "Announcing Community Templates"
+     ],
+     "h2_count": 6,
+     "question_h2": 4,
+     "words": 1174,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/blog",
+     "status": 200,
+     "title": "Blog homepage",
+     "meta_desc": "",
+     "h1": [
+      "The Gumloop blog"
+     ],
+     "h2_count": 1,
+     "question_h2": 0,
+     "words": 513,
+     "tables": 0,
+     "jsonld_types": [],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": false,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/blog/best-agent-harness",
+     "status": 200,
+     "title": "7 best agent harnesses I&#x27;ve used in 2026",
+     "meta_desc": "",
+     "h1": [
+      "7 best agent harnesses I&#x27;ve used in 2026"
+     ],
+     "h2_count": 5,
+     "question_h2": 2,
+     "words": 4326,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    },
+    {
+     "url": "https://www.gumloop.com/blog/best-ai-agent-builder",
+     "status": 200,
+     "title": "7 best AI agent builders you need to try in 2026",
+     "meta_desc": "",
+     "h1": [
+      "7 best AI agent builders you need to try in 2026"
+     ],
+     "h2_count": 5,
+     "question_h2": 2,
+     "words": 5168,
+     "tables": 0,
+     "jsonld_types": [
+      "Article",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "WebPage"
+     ],
+     "canonical": null,
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": null
+    }
+   ]
+  },
+  "fansachat": {
+   "robots_status": 200,
+   "robots_ai_rules": [
+    "User-agent: GPTBot",
+    "User-agent: OAI-SearchBot",
+    "User-agent: ClaudeBot",
+    "User-agent: PerplexityBot",
+    "User-agent: Google-Extended"
+   ],
+   "llms_txt": true,
+   "llms_txt_len": 13820,
+   "sitemap_urls": 74,
+   "url_families": [
+    [
+     "integrations",
+     31
+    ],
+    [
+     "compare",
+     13
+    ],
+    [
+     "alternatives",
+     8
+    ],
+    [
+     "use-cases",
+     6
+    ],
+    [
+     "blog",
+     3
+    ],
+    [
+     "(root)",
+     1
+    ],
+    [
+     "product",
+     1
+    ],
+    [
+     "pricing",
+     1
+    ],
+    [
+     "waitlist",
+     1
+    ],
+    [
+     "about",
+     1
+    ],
+    [
+     "terms",
+     1
+    ],
+    [
+     "refund",
+     1
+    ],
+    [
+     "security",
+     1
+    ],
+    [
+     "privacy",
+     1
+    ],
+    [
+     "accessibility",
+     1
+    ]
+   ],
+   "pages": [
+    {
+     "url": "https://fansachat.com/",
+     "status": 200,
+     "title": "FansaChat: AI workflow automation from one sentence",
+     "meta_desc": "Describe an automation in plain language. FansaChat builds the workflow, you approve, and it runs. Connects 700+ apps including Gmail, Slack and Notion.",
+     "h1": [
+      "FansaChat: Automate your workflowAutomate your workflow"
+     ],
+     "h2_count": 4,
+     "question_h2": 0,
+     "words": 530,
+     "tables": 0,
+     "jsonld_types": [
+      "Answer",
+      "EntryPoint",
+      "FAQPage",
+      "Offer",
+      "Organization",
+      "Person",
+      "Place",
+      "Question",
+      "SearchAction",
+      "SoftwareApplication",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/pricing",
+     "status": 200,
+     "title": "FansaChat Pricing: AI Workflow Automation from $15/mo",
+     "meta_desc": "FansaChat pricing: Starter $15, Pro $45, Team $149, Scale $299 a month, 20% off yearly. Unlimited users and workflows; you pay for workflow runs.",
+     "h1": [
+      "FansaChat pricing: simple, honest plans from $15/mo"
+     ],
+     "h2_count": 5,
+     "question_h2": 2,
+     "words": 1780,
+     "tables": 2,
+     "jsonld_types": [
+      "BreadcrumbList",
+      "ListItem",
+      "Offer",
+      "SoftwareApplication",
+      "UnitPriceSpecification",
+      "WebPage"
+     ],
+     "canonical": "https://fansachat.com/pricing",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/alternatives",
+     "status": 200,
+     "title": "Automation tool alternatives, honestly compared (2026)",
+     "meta_desc": "Alternatives to Pabbly Connect, Power Automate, Pipedream, Lindy, Gumloop, Integrately and Workato, plus the cheapest and free Zapier alternatives.",
+     "h1": [
+      "Automation tool alternatives"
+     ],
+     "h2_count": 3,
+     "question_h2": 0,
+     "words": 473,
+     "tables": 0,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Organization",
+      "Question",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/alternatives",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/alternatives/pabbly-connect",
+     "status": 200,
+     "title": "Pabbly Connect alternatives: 5 honest picks (2026)",
+     "meta_desc": "The best Pabbly Connect alternatives in 2026: FansaChat, Make, Integrately, Zapier, n8n. Who each suits, what it meters, free plans and cons, ours included.",
+     "h1": [
+      "Pabbly Connect alternatives (2026)"
+     ],
+     "h2_count": 10,
+     "question_h2": 2,
+     "words": 965,
+     "tables": 1,
+     "jsonld_types": [
+      "Answer",
+      "Article",
+      "BreadcrumbList",
+      "FAQPage",
+      "ItemList",
+      "ListItem",
+      "Organization",
+      "Question",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/alternatives/pabbly-connect",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/compare/fansachat-vs-zapier",
+     "status": 200,
+     "title": "FansaChat vs Zapier: an honest comparison (2026)",
+     "meta_desc": "FansaChat vs Zapier: how you build, what is metered, self-hosting, free plans and who each is best for. Fair table, honest cons on both sides.",
+     "h1": [
+      "FansaChat vs Zapier"
+     ],
+     "h2_count": 9,
+     "question_h2": 4,
+     "words": 1056,
+     "tables": 1,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Organization",
+      "Question",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/compare/fansachat-vs-zapier",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/compare/fansachat-vs-make",
+     "status": 200,
+     "title": "FansaChat vs Make: an honest comparison (2026)",
+     "meta_desc": "FansaChat vs Make: how you build, what is metered, self-hosting, free plans and who each is best for. Fair table, honest cons on both sides.",
+     "h1": [
+      "FansaChat vs Make"
+     ],
+     "h2_count": 8,
+     "question_h2": 4,
+     "words": 849,
+     "tables": 1,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Organization",
+      "Question",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/compare/fansachat-vs-make",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/integrations",
+     "status": 200,
+     "title": "FansaChat integrations: 30 popular app pairs, 700+ apps",
+     "meta_desc": "Popular app pairs with real templates: Google Sheets + Slack, Notion + Slack, Shopify + WhatsApp and more. 700+ apps, 478 ready-made templates.",
+     "h1": [
+      "Integrations, by app pair"
+     ],
+     "h2_count": 4,
+     "question_h2": 0,
+     "words": 444,
+     "tables": 0,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ItemList",
+      "ListItem",
+      "Organization",
+      "Question",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/integrations",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/blog",
+     "status": 200,
+     "title": "FansaChat blog: workflow automation in plain English",
+     "meta_desc": "Short, practical answers about automating work without code: how tools count usage, how to plan a workflow, and real templates.",
+     "h1": [
+      "The FansaChat blog"
+     ],
+     "h2_count": 1,
+     "question_h2": 0,
+     "words": 230,
+     "tables": 0,
+     "jsonld_types": [
+      "Blog",
+      "BlogPosting",
+      "BreadcrumbList",
+      "ListItem",
+      "Organization",
+      "Person",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/blog",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/compare",
+     "status": 200,
+     "title": "Compare FansaChat with 12 automation tools (2026)",
+     "meta_desc": "Fair, side-by-side comparisons of FansaChat with Zapier, Make, n8n, Power Automate, Pabbly Connect, Pipedream, Lindy, Gumloop and Workato, with honest cons.",
+     "h1": [
+      "Compare automation tools"
+     ],
+     "h2_count": 2,
+     "question_h2": 0,
+     "words": 413,
+     "tables": 0,
+     "jsonld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Organization",
+      "Question",
+      "WebPage",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/compare",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    },
+    {
+     "url": "https://fansachat.com/best-ai-workflow-automation-tools",
+     "status": 200,
+     "title": "Best AI workflow automation tools for small business (2026)",
+     "meta_desc": "13 workflow automation tools for small businesses compared, from FansaChat, Zapier and Make to Power Automate, Lindy and Workato. Who each suits, its cons.",
+     "h1": [
+      "Best AI workflow automation tools for small business (2026)"
+     ],
+     "h2_count": 16,
+     "question_h2": 0,
+     "words": 1657,
+     "tables": 0,
+     "jsonld_types": [
+      "Answer",
+      "Article",
+      "BreadcrumbList",
+      "FAQPage",
+      "ItemList",
+      "ListItem",
+      "Organization",
+      "Question",
+      "WebSite"
+     ],
+     "canonical": "https://fansachat.com/best-ai-workflow-automation-tools",
+     "hreflang": 0,
+     "dates": true,
+     "robots_meta": "index, follow, max-image-preview:large"
+    }
+   ]
+  }
+ },
+ "google_suggest": {
+  "workflow automation tools": [
+   "workflow automation tools",
+   "workflow automation tools list",
+   "workflow automation tools free",
+   "workflow automation tools examples",
+   "workflow automation tools open source",
+   "workflow automation tools integrate",
+   "workflow automation tools ai",
+   "workflow automation tools like n8n",
+   "workflow automation tools microsoft",
+   "workflow automation tools n8n"
+  ],
+  "best workflow automation": [
+   "best workflow automation tools",
+   "best workflow automation software",
+   "best workflow automation platform",
+   "best workflow automation",
+   "best workflow automation tools for creating ai agents",
+   "best workflow automation ai",
+   "best workflow automation software for small business",
+   "best workflow automation tools free",
+   "best workflow automation ai tools",
+   "best workflow automation reddit"
+  ],
+  "zapier alternative": [
+   "zapier alternatives",
+   "zapier alternatives free",
+   "zapier alternatives open source",
+   "zapier alternative lifetime deal",
+   "zapier alternative for wordpress",
+   "zapier alternatives reddit",
+   "zapier alternativen",
+   "zapier alternative make",
+   "zapier alternative self hosted",
+   "zapier alternative dsgvo"
+  ],
+  "make alternative": [
+   "make alternatives",
+   "make alternative word",
+   "make alternative host zoom",
+   "make alternative sentence",
+   "make alternative for windows",
+   "make alternative arrangements",
+   "make alternative arrangements meaning",
+   "make alternative meaning",
+   "make alternative plans",
+   "make alternatives linux"
+  ],
+  "n8n alternative": [
+   "n8n alternative",
+   "n8n alternative open source",
+   "n8n alternative by google",
+   "n8n alternative free open source",
+   "n8n alternatives reddit",
+   "n8n alternatives open-source self-hosted",
+   "n8n alternative self hosted",
+   "n8n alternative github",
+   "n8n alternatives 2026",
+   "n8n alternative open source github"
+  ],
+  "cheaper than zapier": [
+   "what is cheaper than zapier",
+   "is make cheaper than zapier",
+   "is n8n cheaper than zapier"
+  ],
+  "easiest automation tool": [
+   "easiest automation tool",
+   "easiest automation tool to learn",
+   "easiest automation testing tool",
+   "easiest test automation tool to learn"
+  ],
+  "no code automation": [
+   "no code automation",
+   "no code automation tools",
+   "no code automation jobs",
+   "no code automation specialist",
+   "no code automation platforms",
+   "no code automation specialist jobs",
+   "no code automation course",
+   "no code automation testing tools",
+   "no code automation meaning",
+   "no code automation specialist salary"
+  ],
+  "ai automation tool": [
+   "ai automation tools",
+   "ai automation tools list",
+   "ai automation tools free",
+   "ai automation tools for testing",
+   "ai automation tools course",
+   "ai automation tools for digital marketing",
+   "ai automation tools name",
+   "ai automation tools examples",
+   "ai automation tools for hr",
+   "ai automation tools with no restrictions"
+  ],
+  "zapier vs": [
+   "zapier vs n8n",
+   "zapier vs make",
+   "zapier vs make vs n8n",
+   "zapier vs power automate",
+   "zapier vs composio",
+   "zapier vs claude",
+   "zapier vs ifttt",
+   "zapier vs",
+   "zapier vs workato",
+   "zapier vs n8n which is better"
+  ],
+  "automation software for small business": [
+   "automation software for small business",
+   "ap automation software for small business",
+   "best automation software for small business",
+   "marketing automation software for small business",
+   "best ap automation software for small business",
+   "best workflow automation software for small business",
+   "best accounting automation software for small businesses",
+   "best marketing automation software for small business",
+   "business automation software for small company",
+   "business automation software for small company. profile"
+  ],
+  "which automation tool": [
+   "which automation tool is in demand 2026",
+   "which automation tools have you personally used for building workflows",
+   "which automation tool is best",
+   "which automation tool is in demand",
+   "which automation tool is agentless",
+   "which automation tool is free",
+   "which automation tool",
+   "which automation tool is in demand 2025",
+   "which automation tool is best for instagram",
+   "which automation tool is best for testing"
+  ]
+ },
+ "wikipedia_article": {
+  "Zapier": true,
+  "Make (software)": true,
+  "N8n": true,
+  "IFTTT": true,
+  "Pabbly": false
+ }
+}
